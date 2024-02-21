@@ -1,4 +1,0 @@
-* Publishing
-#+begin_src sh
-  emacs -Q --batch --load scripts/build.el --funcall export-org-roam-files
-#+end_src
