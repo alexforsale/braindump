@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac
+:END:
+#+title: xorg
+#+author: Kristian Alexander P
+#+description: Xorg
+#+date: <2024-02-20 Tue 16:03>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_category: tech
+#+hugo_tags: xorg linux
+* libinput
+Create a /etc/X11/xorg.conf.d/30-touchpad.conf.
+#+begin_example
+Section "InputClass"
+    Identifier "touchpad"
+    Driver "libinput"
+    MatchIsTouchpad "on"
+    Option "Tapping" "on"
+    Option "NaturalScrolling" "true"
+EndSection
+#+end_example
