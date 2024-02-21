@@ -1,0 +1,35 @@
+name: hugo CI
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: install emacs
+        uses: purcell/setup-emacs@master
+        with:
+          version: snapshot
+
+      - name: Build
+        run: make all
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: alexforsale/alexforsale.github.io
+          publish_branch: main
+          publish_dir: ./public
