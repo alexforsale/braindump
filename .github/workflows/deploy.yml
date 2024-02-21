@@ -24,8 +24,11 @@ jobs:
         with:
           version: snapshot
 
-      - name: Build
+      - name: export all org-mode files
         run: make all
+
+      - name: build
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
