@@ -31,6 +31,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: alexforsale/alexforsale.github.io
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
