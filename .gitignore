@@ -1,0 +1,4 @@
+.hugo-build.lock
+content/
+public/
+.hugo_build.lock
