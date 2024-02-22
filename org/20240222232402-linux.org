@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       65db4594-b7ec-463b-9e97-64d080e44c12
+:END:
+#+title: linux
+#+author: Kristian Alexander P
+#+description: operating system
+#+date: <2024-02-22 Thu 23:24>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: linux
+a family of open-source Unix-like operating systems based on the Linux kernel,
