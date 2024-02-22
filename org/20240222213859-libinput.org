@@ -21,5 +21,3 @@ Section "InputClass"
     Option "NaturalScrolling" "true"
 EndSection
 #+end_src
-
-This is only when using [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][xorg]], not necessarily needed when using [[id:3492ec38-6a97-4bd1-8c9c-65c091e0aeb1][wayland]].
