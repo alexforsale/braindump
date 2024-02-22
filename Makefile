@@ -2,4 +2,4 @@
 
 all:
 	@echo "Publishing org files..."
-	emacs -Q --batch --load scripts/build.el --funcall export-org-roam-files
+	emacs -Q -q --batch --load scripts/build.el --funcall export-org-roam-files
