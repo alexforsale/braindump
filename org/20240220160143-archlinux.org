@@ -8,7 +8,7 @@
 #+date: <2024-02-20 Tue 16:01>
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_category: tech
+#+hugo_categories: tech
 #+hugo_tags: arch linux
 * installing [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][xorg]]
 ** full package

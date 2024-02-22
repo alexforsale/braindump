@@ -7,7 +7,7 @@
 #+date: <2024-02-20 Tue 16:03>
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_category: tech
+#+hugo_categories: tech
 #+hugo_tags: xorg linux
 * libinput
 Create a /etc/X11/xorg.conf.d/30-touchpad.conf.

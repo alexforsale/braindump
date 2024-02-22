@@ -7,7 +7,7 @@
 #+date: <2024-02-21 Wed 12:44>
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_category: tech
+#+hugo_categories: tech
 #+hugo_tags: git github
 * Github action for org-mode and [[id:ffca9e60-c110-4880-b3c1-929b17c740f0][hugo]]
 ** Create new access token with read and write access to the repository.
