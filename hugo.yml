@@ -1,4 +1,4 @@
-baseURL: 'https://alexforsale.github.io'
+baseURL: '/braindump'
 languageCode: 'en-us'
 title: 'Braindump'
 theme: ["PaperMod"]
