@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       3492ec38-6a97-4bd1-8c9c-65c091e0aeb1
+:END:
+#+title: wayland
+#+author: Kristian Alexander P
+#+description: display server protocol
+#+date: <2024-02-22 Thu 21:53>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: linux
+It is aimed to become the successor of the X Window System([[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][xorg]]). You can find a comparison between Wayland and Xorg on Wikipedia

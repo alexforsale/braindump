@@ -9,3 +9,4 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: hugo web
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.

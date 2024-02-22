@@ -3,9 +3,10 @@
 :END:
 #+title: git
 #+author: Kristian Alexander P
-#+description: Git
+#+description: a distributed version control system
 #+date: <2024-02-21 Wed 12:43>
 #+hugo_base_dir: ..
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: git
+Git was originally authored by Linus Torvalds in 2005 for development of the [[id:a2c344c2-6d47-4928-90ee-81f128b45610][archlinux]] kernel, with other kernel developers contributing to its initial development.

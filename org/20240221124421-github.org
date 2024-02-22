@@ -9,39 +9,90 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: git github
+is a developer platform that allows developers to create, store, manage and share their code. . It uses [[id:a08698f4-453d-4aea-a3c5-50d128769533][git]] software, providing the distributed version control of git[[id:a08698f4-453d-4aea-a3c5-50d128769533][git]] plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 * Github action for org-mode and [[id:ffca9e60-c110-4880-b3c1-929b17c740f0][hugo]]
 ** Create new access token with read and write access to the repository.
 ** Store the token into a new secret variable in the repository settings.
-
 #+begin_src yaml
-name: hugo CI
+name: Deploy Hugo PaperMod Demo to Pages
 
 on:
   push:
-    branches: [ main ]
+    paths-ignore:
+      - "images/**"
+      - "LICENSE"
+      - "README.md"
+    branches:
+      - master
+      - exampleSite
+  workflow_dispatch:
+    # manual run
+    inputs:
+      hugoVersion:
+        description: "Hugo Version"
+        required: false
+        default: "0.112.4"
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: "0.112.4"
     steps:
-​      - uses: actions/checkout@v2
+      - name: Check version
+        if: ${{ github.event.inputs.hugoVersion }}
+        run: export HUGO_VERSION="${{ github.event.inputs.hugoVersion }}"
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          submodules: true
-          fetch-depth: 1
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+          ref: exampleSite
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Get Theme
+        run: git submodule update --init --recursive
+      - name: Update theme to Latest commit
+        run: git submodule update --remote --merge
+      - name: Build with Hugo
+        run: |
+          hugo \
+            --buildDrafts --gc --verbose \
+            --baseURL ${{ steps.pages.outputs.base_url }}
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          hugo-version: 'latest'
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.TOKEN_VARIABLE_NAME }}
-          external_repository: github_user/github_user.github.io
-          publish_branch: main
-          publish_dir: ./public
+          path: ./public
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
 #+end_src
+This is using [[id:6c637406-817f-4e9b-b45c-457f377acb12][emacs]] [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]].

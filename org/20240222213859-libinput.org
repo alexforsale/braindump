@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       90886bdd-4c6e-4c01-b663-8d7d8e3ce98d
+:END:
+#+title: libinput
+#+author: Kristian Alexander P
+#+description: a library to handle input devices in Wayland compositors and to provide a generic X.Org input driver
+#+date: <2024-02-22 Thu 21:38>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: xorg linux
+provides device detection, device handling, input device event processing and abstraction to minimize the amount of custom input code compositors need to provide the common set of functionality that users expect.
+* Configuration file
+Create a /etc/X11/xorg.conf.d/30-touchpad.conf.
+#+begin_src conf
+Section "InputClass"
+    Identifier "touchpad"
+    Driver "libinput"
+    MatchIsTouchpad "on"
+    Option "Tapping" "on"
+    Option "NaturalScrolling" "true"
+EndSection
+#+end_src
+
+This is only when using [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][xorg]], not necessarily needed when using [[id:3492ec38-6a97-4bd1-8c9c-65c091e0aeb1][wayland]].
