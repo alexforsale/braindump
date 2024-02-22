@@ -47,6 +47,8 @@ params:
     #imageHeight: 120
     #imageTitle: my image
     buttons:
+      - name: Home
+        url: ../
       - name: Posts
         url: posts
       - name: Tags
