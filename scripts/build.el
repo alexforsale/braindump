@@ -4,10 +4,13 @@
 (package-initialize)
 (package-install 'ox-hugo)
 (package-install 'org-roam)
+(package-install 'org-roam-ui)
 
 (require 'ox-hugo)
 (require 'org-roam)
+(require 'org-roam-ui)
 (setq org-roam-directory default-directory)
+(setq org-roam-db-location (expand-file-name "org-roam.db" default-directory))
 (org-roam-db-sync)
 
 (defun collect-backlinks-string (backend)
