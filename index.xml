@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Braindump</title>
+    <link>/braindump/</link>
+    <description>Recent content on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 12:47:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>org-mode</title>
+      <link>/braindump/posts/20240221124747-org_mode/</link>
+      <pubDate>Wed, 21 Feb 2024 12:47:00 +0000</pubDate>
+      <guid>/braindump/posts/20240221124747-org_mode/</guid>
+      <description>a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs and its derivatives.</description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>/braindump/posts/20240221124553-hugo/</link>
+      <pubDate>Wed, 21 Feb 2024 12:45:00 +0000</pubDate>
+      <guid>/braindump/posts/20240221124553-hugo/</guid>
+      <description>open source static site generator</description>
+    </item>
+    <item>
+      <title>emacs</title>
+      <link>/braindump/posts/20240221124457-emacs/</link>
+      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
+      <guid>/braindump/posts/20240221124457-emacs/</guid>
+      <description>emacs</description>
+    </item>
+    <item>
+      <title>github</title>
+      <link>/braindump/posts/20240221124421-github/</link>
+      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
+      <guid>/braindump/posts/20240221124421-github/</guid>
+      <description>github</description>
+    </item>
+    <item>
+      <title>git</title>
+      <link>/braindump/posts/20240221124353-git/</link>
+      <pubDate>Wed, 21 Feb 2024 12:43:00 +0000</pubDate>
+      <guid>/braindump/posts/20240221124353-git/</guid>
+      <description>Git</description>
+    </item>
+    <item>
+      <title>xorg</title>
+      <link>/braindump/posts/20240220160349-xorg/</link>
+      <pubDate>Tue, 20 Feb 2024 16:03:00 +0000</pubDate>
+      <guid>/braindump/posts/20240220160349-xorg/</guid>
+      <description>Xorg</description>
+    </item>
+    <item>
+      <title>archlinux</title>
+      <link>/braindump/posts/20240220160143-archlinux/</link>
+      <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
+      <guid>/braindump/posts/20240220160143-archlinux/</guid>
+      <description>All about archlinux</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arch on Braindump</title>
+    <link>/braindump/tags/arch/</link>
+    <description>Recent content in Arch on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 16:01:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/arch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archlinux</title>
+      <link>/braindump/posts/20240220160143-archlinux/</link>
+      <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
+      <guid>/braindump/posts/20240220160143-archlinux/</guid>
+      <description>All about archlinux</description>
+    </item>
+  </channel>
+</rss>

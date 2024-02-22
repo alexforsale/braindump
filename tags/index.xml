@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Braindump</title>
+    <link>/braindump/tags/</link>
+    <description>Recent content in Tags on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 12:47:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs</title>
+      <link>/braindump/tags/emacs/</link>
+      <pubDate>Wed, 21 Feb 2024 12:47:00 +0000</pubDate>
+      <guid>/braindump/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org</title>
+      <link>/braindump/tags/org/</link>
+      <pubDate>Wed, 21 Feb 2024 12:47:00 +0000</pubDate>
+      <guid>/braindump/tags/org/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>/braindump/tags/hugo/</link>
+      <pubDate>Wed, 21 Feb 2024 12:45:00 +0000</pubDate>
+      <guid>/braindump/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>/braindump/tags/web/</link>
+      <pubDate>Wed, 21 Feb 2024 12:45:00 +0000</pubDate>
+      <guid>/braindump/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>/braindump/tags/git/</link>
+      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
+      <guid>/braindump/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>/braindump/tags/github/</link>
+      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
+      <guid>/braindump/tags/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>/braindump/tags/linux/</link>
+      <pubDate>Tue, 20 Feb 2024 16:03:00 +0000</pubDate>
+      <guid>/braindump/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xorg</title>
+      <link>/braindump/tags/xorg/</link>
+      <pubDate>Tue, 20 Feb 2024 16:03:00 +0000</pubDate>
+      <guid>/braindump/tags/xorg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arch</title>
+      <link>/braindump/tags/arch/</link>
+      <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
+      <guid>/braindump/tags/arch/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
