@@ -10,11 +10,8 @@
 (require 'org-roam)
 (require 'org-roam-ui)
 (setq org-roam-directory default-directory)
-(setq org-roam-db-location (expand-file-name "orgs/org-roam.db" default-directory))
+(setq org-roam-db-location (expand-file-name "org-roam.db" default-directory))
 (org-roam-db-sync)
-
-(unless (file-directory-p (expand-file-name "orgs" default-directory))
-  (make-directory (expand-file-name "orgs" default-directory)))
 
 (defun collect-backlinks-string (backend)
   (when (org-roam-node-at-point)
