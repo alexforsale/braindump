@@ -62,8 +62,8 @@ params:
 
 menu:
   main:
-    - identifier: Blog
-      name: Blog
+    - identifier: Home
+      name: Home
       url: ../
       weight: 10
     - identifier: categories
