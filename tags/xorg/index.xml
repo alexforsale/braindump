@@ -6,8 +6,15 @@
     <description>Recent content in Xorg on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2024 16:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:38:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/xorg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>libinput</title>
+      <link>/braindump/posts/20240222213859-libinput/</link>
+      <pubDate>Thu, 22 Feb 2024 21:38:00 +0000</pubDate>
+      <guid>/braindump/posts/20240222213859-libinput/</guid>
+      <description>a library to handle input devices in Wayland compositors and to provide a generic X.Org input driver</description>
+    </item>
     <item>
       <title>xorg</title>
       <link>/braindump/posts/20240220160349-xorg/</link>

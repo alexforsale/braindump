@@ -5,11 +5,32 @@
     <loc>/braindump/</loc>
     <lastmod>2024-02-22T23:24:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/categories/</loc>
+    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240222232402-linux/</loc>
+    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/linux/</loc>
+    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/</loc>
     <lastmod>2024-02-22T23:24:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/categories/</loc>
-    <lastmod>2024-02-21T12:47:00+00:00</lastmod>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/tech/</loc>
+    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240222215322-wayland/</loc>
+    <lastmod>2024-02-22T21:53:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240222213859-libinput/</loc>
+    <lastmod>2024-02-22T21:38:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/xorg/</loc>
+    <lastmod>2024-02-22T21:38:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/emacs/</loc>
     <lastmod>2024-02-21T12:47:00+00:00</lastmod>
@@ -18,12 +39,6 @@
     <lastmod>2024-02-21T12:47:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240221124747-org_mode/</loc>
-    <lastmod>2024-02-21T12:47:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
-    <lastmod>2024-02-21T12:47:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/tech/</loc>
     <lastmod>2024-02-21T12:47:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240221124553-hugo/</loc>
@@ -50,13 +65,7 @@
     <loc>/braindump/posts/20240221124353-git/</loc>
     <lastmod>2024-02-21T12:43:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/linux/</loc>
-    <lastmod>2024-02-20T16:03:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/20240220160349-xorg/</loc>
-    <lastmod>2024-02-20T16:03:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/xorg/</loc>
     <lastmod>2024-02-20T16:03:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/arch/</loc>

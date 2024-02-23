@@ -6,8 +6,29 @@
     <description>Recent content in Tech on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2024 12:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 23:24:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>linux</title>
+      <link>/braindump/posts/20240222232402-linux/</link>
+      <pubDate>Thu, 22 Feb 2024 23:24:00 +0000</pubDate>
+      <guid>/braindump/posts/20240222232402-linux/</guid>
+      <description>operating system</description>
+    </item>
+    <item>
+      <title>wayland</title>
+      <link>/braindump/posts/20240222215322-wayland/</link>
+      <pubDate>Thu, 22 Feb 2024 21:53:00 +0000</pubDate>
+      <guid>/braindump/posts/20240222215322-wayland/</guid>
+      <description>display server protocol</description>
+    </item>
+    <item>
+      <title>libinput</title>
+      <link>/braindump/posts/20240222213859-libinput/</link>
+      <pubDate>Thu, 22 Feb 2024 21:38:00 +0000</pubDate>
+      <guid>/braindump/posts/20240222213859-libinput/</guid>
+      <description>a library to handle input devices in Wayland compositors and to provide a generic X.Org input driver</description>
+    </item>
     <item>
       <title>org-mode</title>
       <link>/braindump/posts/20240221124747-org_mode/</link>
