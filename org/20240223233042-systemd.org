@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       22e15274-b3b2-4c9c-ac06-4161780c25b2
+:END:
+#+title: systemd
+#+author: Kristian Alexander P
+#+description: linux init system
+#+date: <2024-02-23 Fri 23:30>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: linux systemd
+[[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]] init system.
+* [[id:6c637406-817f-4e9b-b45c-457f377acb12][emacs]] systemd user unit
+#+begin_src conf
+  Description=Emacs text editor
+  Documentation=info:emacs man:emacs(1) https://gnu.org/software/emacs/
+
+  [Service]
+  Type=notify
+  ExecStart=/usr/bin/emacs --fg-daemon
+
+  # Emacs will exit with status 15 after having received SIGTERM, which
+  # is the default "KillSignal" value systemd uses to stop services.
+  SuccessExitStatus=15
+
+  # The location of the SSH auth socket varies by distribution, and some
+  # set it from PAM, so don't override by default.
+  # Environment=SSH_AUTH_SOCK=%t/keyring/ssh
+  Restart=on-failure
+
+  [Install]
+  WantedBy=default.target
+#+end_src

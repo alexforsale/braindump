@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       6dde68f1-5b99-41a6-a361-7aa97a047603
+:END:
+#+title: davmail
+#+author: Kristian Alexander P
+#+description: Exchange proxy
+#+date: <2024-02-23 Fri 23:33>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: exchange microsoft linux mail proxy
+The answer for [[id:cefef286-5b6e-4d1b-98d0-151e6895b918][microsoft]] [[id:e59ea932-2f79-47b7-b10b-1ff3a1009849][exchange]] in [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]].
+* Configuration
+#+begin_src
+davmail.server=true
+davmail.mode=Auto
+davmail.url=https://mail.domain.com/EWS/Exchange.asmx
+davmail.defaultDomain=DOMAIN
+davmail.ssl.nosecurecaldav=false
+davmail.ssl.nosecureimap=false
+davmail.ssl.nosecureldap=false
+davmail.ssl.nosecurepop=false
+davmail.ssl.nosecuresmtp=false
+davmail.caldavPort=1081
+davmail.imapPort=1144
+davmail.ldapPort=1390
+davmail.popPort=1111
+davmail.smtpPort=1026
+davmail.imapAutoExpunge=true
+davmail.allowRemote=false
+davmail.logFilePath=/tmp/davmail-mkn.log
+davmail.logFileSize=1MB
+davmail.disableGuiNotifications=true
+davmail.disableTrayActivitySwitch=true
+davmail.showStartupBanner=false
+davmail.enableKerberos=false
+#+end_src
+** Systemd user unit
+most [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]] distro uses [[id:22e15274-b3b2-4c9c-ac06-4161780c25b2][systemd]] anyway.
+#+begin_src
+# /usr/lib/systemd/user/davmail@.service
+[Unit]
+Description=DavMail for %i
+
+[Service]
+ExecStart=/usr/bin/davmail %h/.config/davmail/%i.properties
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
+DefaultInstance=davmail
+#+end_src

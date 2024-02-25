@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       cefef286-5b6e-4d1b-98d0-151e6895b918
+:END:
+#+title: microsoft
+#+author: Kristian Alexander P
+#+description: microsoft
+#+date: <2024-02-23 Fri 23:35>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: microsoft

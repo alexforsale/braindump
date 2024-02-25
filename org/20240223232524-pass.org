@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b325a0b1-dc1c-403e-b16b-08fd4d95c866
+:ROAM_ALIASES: password-store
+:END:
+#+title: pass
+#+author: Kristian Alexander P
+#+description: password management
+#+date: <2024-02-23 Fri 23:25>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: pass linux
+Password Manager for [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]].

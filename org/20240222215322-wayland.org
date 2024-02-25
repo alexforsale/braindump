@@ -9,4 +9,4 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: linux
-It is aimed to become the successor of the X Window System. I use this on linux.
+It is aimed to become the successor of the X Window System. I use this on [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]].

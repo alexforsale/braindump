@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e59ea932-2f79-47b7-b10b-1ff3a1009849
+:END:
+#+title: exchange
+#+author: Kristian Alexander P
+#+description: exchange
+#+date: <2024-02-23 Fri 23:35>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: microsoft mail

@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       0d5bf06b-aa51-4f93-a929-b2fe129c1900
+:END:
+#+title: notmuch
+#+author: Kristian Alexander P
+#+description: notmuch
+#+date: <2024-02-23 Fri 23:13>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: emacs mail
+* Required Setups
+** Packages
+- [[id:0d5bf06b-aa51-4f93-a929-b2fe129c1900][notmuch]]
+- [[id:e32aabe1-8a9e-4a19-8efe-536baf2342be][msmtp]]
+- Preferrably, [[id:6c637406-817f-4e9b-b45c-457f377acb12][emacs]] as a frontend.
+** Message
+#+begin_src emacs-lisp
+  (use-package message
+    :custom
+    (message-directory (expand-file-name ".mail" (getenv "HOME")))
+    (message-sendmail-envelope-from 'header))
+#+end_src
+Notes:
+- ~message-directory~ should reflects the root directory for mail.
+** sendmail
+#+begin_src emacs-lisp
+  (use-package sendmail
+    :custom
+    (mail-specify-envelope-from t)
+    (mail-envelope-from 'header)
+    (send-mail-function 'sendmail-send-it)
+    (sendmail-program (executable-find "msmtp")))
+#+end_src
+Notes:
+- ~sendmail-program~ should point to the full path.
+
+* Hooks
+
+** Post-new
+#+begin_src sh
+#!/usr/bin/env bash
+
+_AFEW=$(command -v afew)
+newcount=$(notmuch count tag:new)
+summary="Notmuch: ${newcount} new message"
+
+[ -n "${_AFEW}" ] &&
+    "${_AFEW}" --tag --new -vv
+
+if [ $newcount -gt 1 ]; then summary="${summary}s"; fi
+if [ $newcount -gt 0 ]; then detail="$(notmuch search --output=summary --format=json tag:new | sed -e 's/.*authors": "//;s/|[^"]*"/"/;s/", "subject": "/ : /;s/".*//')"; fi
+
+notmuch tag -new        -- tag:new
+
+# See the notmuch pre-hook for DISPLAY thoughts
+# Desktop notifications
+if [ $newcount -gt 0 ]; then logger -t notmuch "calling notify-send '$summary' '$detail'" && notify-send -i /usr/share/icons/Papirus/symbolic/actions/mail-message-new-symbolic.svg "$summary" "$detail"; fi
+# Stop the astroid spinner; this will refresh the UI
+[[ "$(pgrep astroid)" != "" ]] && logger -t notmuch "Astroid polling stop requested during post-new hook" && astroid --stop-polling 2>&1 >/dev/null
+[ "$(command -v notifymuch)" ] && notifymuch
+
+exit 0
+#+end_src
+
+** Pre-new
+#+begin_src sh
+#!/usr/bin/env bash
+
+[[ -x $(which offlineimap) ]] && offlineimap -s
+[[ "$(pgrep astroid)" != "" ]] && logger -t notmuch "Astroid polling start requested during pre-new hook" && astroid --start-polling 2>&1 >/dev/null
+
+# Ensure that this script exits with success, otherwise notmuch will fail out.
+exit 0
+#+end_src
