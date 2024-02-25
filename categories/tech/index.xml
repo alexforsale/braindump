@@ -6,8 +6,57 @@
     <description>Recent content in Tech on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 23:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exchange</title>
+      <link>/braindump/posts/20240223233558-exchange/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233558-exchange/</guid>
+      <description>exchange</description>
+    </item>
+    <item>
+      <title>microsoft</title>
+      <link>/braindump/posts/20240223233522-microsoft/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233522-microsoft/</guid>
+      <description>microsoft</description>
+    </item>
+    <item>
+      <title>davmail</title>
+      <link>/braindump/posts/20240223233349-davmail/</link>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233349-davmail/</guid>
+      <description>Exchange proxy</description>
+    </item>
+    <item>
+      <title>systemd</title>
+      <link>/braindump/posts/20240223233042-systemd/</link>
+      <pubDate>Fri, 23 Feb 2024 23:30:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233042-systemd/</guid>
+      <description>linux init system</description>
+    </item>
+    <item>
+      <title>pass</title>
+      <link>/braindump/posts/20240223232524-pass/</link>
+      <pubDate>Fri, 23 Feb 2024 23:25:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223232524-pass/</guid>
+      <description>password management</description>
+    </item>
+    <item>
+      <title>msmtp</title>
+      <link>/braindump/posts/20240223232154-msmtp/</link>
+      <pubDate>Fri, 23 Feb 2024 23:21:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223232154-msmtp/</guid>
+      <description>msmtp</description>
+    </item>
+    <item>
+      <title>notmuch</title>
+      <link>/braindump/posts/20240223231317-notmuch/</link>
+      <pubDate>Fri, 23 Feb 2024 23:13:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223231317-notmuch/</guid>
+      <description>notmuch</description>
+    </item>
     <item>
       <title>linux</title>
       <link>/braindump/posts/20240222232402-linux/</link>

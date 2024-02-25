@@ -6,8 +6,29 @@
     <description>Recent content in Linux on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 23:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 23:33:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>davmail</title>
+      <link>/braindump/posts/20240223233349-davmail/</link>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233349-davmail/</guid>
+      <description>Exchange proxy</description>
+    </item>
+    <item>
+      <title>systemd</title>
+      <link>/braindump/posts/20240223233042-systemd/</link>
+      <pubDate>Fri, 23 Feb 2024 23:30:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233042-systemd/</guid>
+      <description>linux init system</description>
+    </item>
+    <item>
+      <title>pass</title>
+      <link>/braindump/posts/20240223232524-pass/</link>
+      <pubDate>Fri, 23 Feb 2024 23:25:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223232524-pass/</guid>
+      <description>password management</description>
+    </item>
     <item>
       <title>linux</title>
       <link>/braindump/posts/20240222232402-linux/</link>

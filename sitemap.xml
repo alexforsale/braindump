@@ -3,24 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/braindump/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/20240222232402-linux/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <loc>/braindump/posts/20240223233558-exchange/</loc>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/linux/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <loc>/braindump/tags/mail/</loc>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223233522-microsoft/</loc>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/microsoft/</loc>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/</loc>
-    <lastmod>2024-02-22T23:24:00+00:00</lastmod>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/tech/</loc>
+    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223233349-davmail/</loc>
+    <lastmod>2024-02-23T23:33:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/exchange/</loc>
+    <lastmod>2024-02-23T23:33:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/linux/</loc>
+    <lastmod>2024-02-23T23:33:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/proxy/</loc>
+    <lastmod>2024-02-23T23:33:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223233042-systemd/</loc>
+    <lastmod>2024-02-23T23:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/systemd/</loc>
+    <lastmod>2024-02-23T23:30:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223232524-pass/</loc>
+    <lastmod>2024-02-23T23:25:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/pass/</loc>
+    <lastmod>2024-02-23T23:25:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223232154-msmtp/</loc>
+    <lastmod>2024-02-23T23:21:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/emacs/</loc>
+    <lastmod>2024-02-23T23:13:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240223231317-notmuch/</loc>
+    <lastmod>2024-02-23T23:13:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240222232402-linux/</loc>
     <lastmod>2024-02-22T23:24:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240222215322-wayland/</loc>
@@ -31,9 +73,6 @@
   </url><url>
     <loc>/braindump/tags/xorg/</loc>
     <lastmod>2024-02-22T21:38:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/emacs/</loc>
-    <lastmod>2024-02-21T12:47:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/org/</loc>
     <lastmod>2024-02-21T12:47:00+00:00</lastmod>

@@ -6,13 +6,62 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 23:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mail</title>
+      <link>/braindump/tags/mail/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/tags/mail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>/braindump/tags/microsoft/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exchange</title>
+      <link>/braindump/tags/exchange/</link>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
+      <guid>/braindump/tags/exchange/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>/braindump/tags/linux/</link>
-      <pubDate>Thu, 22 Feb 2024 23:24:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
       <guid>/braindump/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proxy</title>
+      <link>/braindump/tags/proxy/</link>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
+      <guid>/braindump/tags/proxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systemd</title>
+      <link>/braindump/tags/systemd/</link>
+      <pubDate>Fri, 23 Feb 2024 23:30:00 +0000</pubDate>
+      <guid>/braindump/tags/systemd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pass</title>
+      <link>/braindump/tags/pass/</link>
+      <pubDate>Fri, 23 Feb 2024 23:25:00 +0000</pubDate>
+      <guid>/braindump/tags/pass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>/braindump/tags/emacs/</link>
+      <pubDate>Fri, 23 Feb 2024 23:13:00 +0000</pubDate>
+      <guid>/braindump/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +69,6 @@
       <link>/braindump/tags/xorg/</link>
       <pubDate>Thu, 22 Feb 2024 21:38:00 +0000</pubDate>
       <guid>/braindump/tags/xorg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>/braindump/tags/emacs/</link>
-      <pubDate>Wed, 21 Feb 2024 12:47:00 +0000</pubDate>
-      <guid>/braindump/tags/emacs/</guid>
       <description></description>
     </item>
     <item>

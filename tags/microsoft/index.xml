@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microsoft on Braindump</title>
+    <link>/braindump/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exchange</title>
+      <link>/braindump/posts/20240223233558-exchange/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233558-exchange/</guid>
+      <description>exchange</description>
+    </item>
+    <item>
+      <title>microsoft</title>
+      <link>/braindump/posts/20240223233522-microsoft/</link>
+      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233522-microsoft/</guid>
+      <description>microsoft</description>
+    </item>
+    <item>
+      <title>davmail</title>
+      <link>/braindump/posts/20240223233349-davmail/</link>
+      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
+      <guid>/braindump/posts/20240223233349-davmail/</guid>
+      <description>Exchange proxy</description>
+    </item>
+  </channel>
+</rss>
