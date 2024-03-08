@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       0607e7ee-1c11-4cd0-910b-b65f36b21f84
+:END:
+#+title: windows
+#+author: Kristian Alexander P
+#+description: windows
+#+date: <2024-02-25 Sun 10:30>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: operating-system microsoft
+
+Operating system from [[id:cefef286-5b6e-4d1b-98d0-151e6895b918][microsoft]].

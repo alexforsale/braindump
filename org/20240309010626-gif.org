@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3bfc28ff-7c8b-4b07-85a5-1715c3c930fa
+:END:
+#+title: gif
+#+author: Kristian Alexander P
+#+description: gif file format
+#+date: <2024-03-09 Sat 01:06>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: gif multimedia video image
+Graphics Interchange Format
+* reduce gif file size using [[https://github.com/kohler/gifsicle][gifsicle]].
+#+begin_src sh
+gifsicle --optimize=3 --lossy=100 -o output.gif input.gif
+#+end_src
+* convert mp4 [[id:cd73371c-bc03-41e0-80e2-ed3c0e9d6770][video]] to gif using [[id:efecd991-c45b-4823-95ee-764738c40841][ffmpeg]]
+#+begin_src sh
+ffmpeg -ss 3 -to 8 -i input.mp4 -filter_complex "fps=10,scale=360:-1[s]; [s]split[a][b]; [a]palettegen[palette]; [b][palette]paletteuse" output.gif
+#+end_src

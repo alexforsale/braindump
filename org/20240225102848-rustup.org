@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       645d663a-1e63-472f-a1f9-0343f8109485
+:END:
+#+title: rustup
+#+author: Kristian Alexander P
+#+description: rust tool
+#+date: <2024-02-25 Sun 10:28>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: rust programming tool
+* Install [[id:86ad6cb9-b813-495e-8991-3a4783a0d29d][rust]]
+Get the installer script [[https://rustup.rs/][here]] for [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]], but alsow support other os'es like [[id:0607e7ee-1c11-4cd0-910b-b65f36b21f84][windows]].

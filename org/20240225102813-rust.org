@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       86ad6cb9-b813-495e-8991-3a4783a0d29d
+:END:
+#+title: rust
+#+author: Kristian Alexander P
+#+description: Rust
+#+date: <2024-02-25 Sun 10:28>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: rust
+* Hello world
+#+begin_src rust
+fn main() {
+    // Statements here are executed when the compiled binary is called.
+
+    // Print text to the console.
+    println!("Hello World!");
+}
+#+end_src
+
+#+RESULTS:
+: Hello World!

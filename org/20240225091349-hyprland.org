@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a9860921-7867-4bee-9a2c-5c72667d40ae
+:ROAM_REFS: https://wiki.hyprland.org/
+:END:
+#+title: hyprland
+#+author: Kristian Alexander P
+#+description: wayland compositor
+#+date: <2024-02-25 Sun 09:13>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: wayland tiling window-manager linux
+A [[id:3492ec38-6a97-4bd1-8c9c-65c091e0aeb1][wayland]] compositor.

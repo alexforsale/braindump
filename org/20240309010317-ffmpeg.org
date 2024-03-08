@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       efecd991-c45b-4823-95ee-764738c40841
+:END:
+#+title: ffmpeg
+#+author: Kristian Alexander P
+#+description: cross-platform solution to record, convert and stream audio and video.
+#+date: <2024-03-09 Sat 01:03>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: ffmpeg audio video multimedia
+
+tools to record, convert, stream [[id:0e4b5c15-bdde-4939-ab24-6fd35f085281][audio]], and [[id:cd73371c-bc03-41e0-80e2-ed3c0e9d6770][video]] in [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]].
