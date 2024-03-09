@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ffmpeg on Braindump</title>
+    <link>/braindump/tags/ffmpeg/</link>
+    <description>Recent content in Ffmpeg on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 01:03:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ffmpeg</title>
+      <link>/braindump/posts/20240309010317-ffmpeg/</link>
+      <pubDate>Sat, 09 Mar 2024 01:03:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010317-ffmpeg/</guid>
+      <description>cross-platform solution to record, convert and stream audio and video.</description>
+    </item>
+  </channel>
+</rss>

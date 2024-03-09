@@ -6,8 +6,15 @@
     <description>Recent content in Linux on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 23:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 09:13:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hyprland</title>
+      <link>/braindump/posts/20240225091349-hyprland/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225091349-hyprland/</guid>
+      <description>wayland compositor</description>
+    </item>
     <item>
       <title>davmail</title>
       <link>/braindump/posts/20240223233349-davmail/</link>

@@ -6,8 +6,113 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 01:06:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gif</title>
+      <link>/braindump/tags/gif/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/tags/gif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image</title>
+      <link>/braindump/tags/image/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/tags/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multimedia</title>
+      <link>/braindump/tags/multimedia/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/tags/multimedia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>/braindump/tags/video/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>/braindump/tags/audio/</link>
+      <pubDate>Sat, 09 Mar 2024 01:03:00 +0000</pubDate>
+      <guid>/braindump/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ffmpeg</title>
+      <link>/braindump/tags/ffmpeg/</link>
+      <pubDate>Sat, 09 Mar 2024 01:03:00 +0000</pubDate>
+      <guid>/braindump/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>/braindump/tags/microsoft/</link>
+      <pubDate>Sun, 25 Feb 2024 10:30:00 +0000</pubDate>
+      <guid>/braindump/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operating-System</title>
+      <link>/braindump/tags/operating-system/</link>
+      <pubDate>Sun, 25 Feb 2024 10:30:00 +0000</pubDate>
+      <guid>/braindump/tags/operating-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>/braindump/tags/programming/</link>
+      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
+      <guid>/braindump/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>/braindump/tags/rust/</link>
+      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
+      <guid>/braindump/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tool</title>
+      <link>/braindump/tags/tool/</link>
+      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
+      <guid>/braindump/tags/tool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>/braindump/tags/linux/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiling</title>
+      <link>/braindump/tags/tiling/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/tags/tiling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wayland</title>
+      <link>/braindump/tags/wayland/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/tags/wayland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Window-Manager</title>
+      <link>/braindump/tags/window-manager/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/tags/window-manager/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mail</title>
       <link>/braindump/tags/mail/</link>
@@ -16,24 +121,10 @@
       <description></description>
     </item>
     <item>
-      <title>Microsoft</title>
-      <link>/braindump/tags/microsoft/</link>
-      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
-      <guid>/braindump/tags/microsoft/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Exchange</title>
       <link>/braindump/tags/exchange/</link>
       <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
       <guid>/braindump/tags/exchange/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>/braindump/tags/linux/</link>
-      <pubDate>Fri, 23 Feb 2024 23:33:00 +0000</pubDate>
-      <guid>/braindump/tags/linux/</guid>
       <description></description>
     </item>
     <item>

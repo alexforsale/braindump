@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gif on Braindump</title>
+    <link>/braindump/tags/gif/</link>
+    <description>Recent content in Gif on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 01:06:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/gif/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gif</title>
+      <link>/braindump/posts/20240309010626-gif/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010626-gif/</guid>
+      <description>gif file format</description>
+    </item>
+  </channel>
+</rss>

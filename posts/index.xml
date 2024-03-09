@@ -6,8 +6,64 @@
     <description>Recent content in Posts on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 01:06:00 +0000</lastBuildDate>
     <atom:link href="/braindump/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gif</title>
+      <link>/braindump/posts/20240309010626-gif/</link>
+      <pubDate>Sat, 09 Mar 2024 01:06:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010626-gif/</guid>
+      <description>gif file format</description>
+    </item>
+    <item>
+      <title>ffmpeg</title>
+      <link>/braindump/posts/20240309010317-ffmpeg/</link>
+      <pubDate>Sat, 09 Mar 2024 01:03:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010317-ffmpeg/</guid>
+      <description>cross-platform solution to record, convert and stream audio and video.</description>
+    </item>
+    <item>
+      <title>video</title>
+      <link>/braindump/posts/20240309010300-video/</link>
+      <pubDate>Sat, 09 Mar 2024 01:03:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010300-video/</guid>
+      <description>video</description>
+    </item>
+    <item>
+      <title>audio</title>
+      <link>/braindump/posts/20240309010156-audio/</link>
+      <pubDate>Sat, 09 Mar 2024 01:01:00 +0000</pubDate>
+      <guid>/braindump/posts/20240309010156-audio/</guid>
+      <description>Audio</description>
+    </item>
+    <item>
+      <title>windows</title>
+      <link>/braindump/posts/20240225103030-windows/</link>
+      <pubDate>Sun, 25 Feb 2024 10:30:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225103030-windows/</guid>
+      <description>windows</description>
+    </item>
+    <item>
+      <title>rust</title>
+      <link>/braindump/posts/20240225102813-rust/</link>
+      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225102813-rust/</guid>
+      <description>Rust</description>
+    </item>
+    <item>
+      <title>rustup</title>
+      <link>/braindump/posts/20240225102848-rustup/</link>
+      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225102848-rustup/</guid>
+      <description>rust tool</description>
+    </item>
+    <item>
+      <title>hyprland</title>
+      <link>/braindump/posts/20240225091349-hyprland/</link>
+      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225091349-hyprland/</guid>
+      <description>wayland compositor</description>
+    </item>
     <item>
       <title>exchange</title>
       <link>/braindump/posts/20240223233558-exchange/</link>

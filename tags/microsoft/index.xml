@@ -6,8 +6,15 @@
     <description>Recent content in Microsoft on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 23:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 10:30:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>windows</title>
+      <link>/braindump/posts/20240225103030-windows/</link>
+      <pubDate>Sun, 25 Feb 2024 10:30:00 +0000</pubDate>
+      <guid>/braindump/posts/20240225103030-windows/</guid>
+      <description>windows</description>
+    </item>
     <item>
       <title>exchange</title>
       <link>/braindump/posts/20240223233558-exchange/</link>
