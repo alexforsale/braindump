@@ -13,6 +13,8 @@
 (setq org-roam-db-location (expand-file-name "org-roam.db" default-directory))
 (org-roam-db-sync)
 
+(setq org-confirm-babel-evaluate nil)
+
 (defun collect-backlinks-string (backend)
   (when (org-roam-node-at-point)
     (goto-char (point-max))

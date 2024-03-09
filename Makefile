@@ -2,4 +2,8 @@
 
 all:
 	@echo "Publishing org files..."
-	emacs -Q -q --batch --load scripts/build.el --funcall export-org-roam-files
+	emacs -q --batch --load scripts/build.el --funcall export-org-roam-files
+
+clean:
+	@echo "cleaning public/ and content/ directory..."
+	@rm -rfv public/* content/*
