@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/braindump/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
+    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
@@ -18,9 +21,6 @@
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/multimedia/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/posts/</loc>
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/</loc>
