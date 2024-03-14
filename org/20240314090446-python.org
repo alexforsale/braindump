@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a2aaa7e1-2d85-43de-8493-1e58656df395
+:END:
+#+title: python
+#+author: Kristian Alexander P
+#+description: Python
+#+date: <2024-03-14 Thu 09:04>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: python
+
