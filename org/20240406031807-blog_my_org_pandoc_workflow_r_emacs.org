@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c7a0f5e1-66e9-43b9-8d2b-a200b7388d78
+:ROAM_REFS: https://www.reddit.com/r/emacs/comments/1bqmc8j/blog_my_orgpandoc_workflow/
+:END:
+#+title: [Blog] My Org+Pandoc Workflow : r/emacs
+#+author: Kristian Alexander P
+#+description: Interesting org-roam graph builder
+#+date: <2024-04-06 Sat 03:18>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+hugo_tags: orgmode org-mode org-roam
+

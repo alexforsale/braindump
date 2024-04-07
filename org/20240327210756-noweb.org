@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       9aa4dfc5-32d0-45f0-a3df-05942d642dce
+:END:
+#+title: noweb
+#+author: Kristian Alexander P
+#+description: noweb
+#+date: <2024-03-27 Wed 21:07>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: org-mode orgmode noweb
+* noweb in [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]]
+
+#+name: first-block
+#+begin_src python :results output
+print ("first-block")
+#+end_src
+
+#+RESULTS: first-block
+: first-block
+
+#+begin_src python :noweb yes :results output
+<<first-block>>
+print("second-block")
+#+end_src
+
+#+RESULTS:
+: first-block
+: second-block

@@ -9,4 +9,43 @@
 #+hugo_section: posts
 #+hugo_categories: programming
 #+hugo_tags: python
+* Example python scripts
+** [[id:a2c344c2-6d47-4928-90ee-81f128b45610][archlinux]] packages
+#+begin_src python 
+import subprocess
 
+def packages_list():
+    """Yay packages list"""
+    packages = subprocess.run(["yay", "-Qu"], capture_output=True, text=True)
+    if packages.stdout:
+        return packages.stdout
+    else:
+        return "all packages updated!"
+
+return packages_list()
+#+end_src
+
+#+RESULTS:
+: google-chrome 123.0.6312.58-1 -> 123.0.6312.86-1
+** get the wireless interface
+#+begin_src python
+import subprocess
+import re
+
+def get_wlan_iface():
+    """Get the wireless interface name."""
+    interfaces = subprocess.run(
+        ["ip", "link", "show"], capture_output=True, text=True
+    )
+    pattern = r"(^\d+:\s+)(wl.+):"
+    for iface in interfaces.stdout.splitlines():
+        if re.search(pattern, iface):
+            match = re.search(pattern, iface)
+    assert match is not None
+    return match.group(2)
+
+return get_wlan_iface()
+#+end_src
+
+#+RESULTS:
+: wlp0s20f0u1
