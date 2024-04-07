@@ -6,8 +6,15 @@
     <description>Recent content in Emacs on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2024 23:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 22:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>org-agenda</title>
+      <link>/braindump/posts/20240319220055-org_agenda/</link>
+      <pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240319220055-org_agenda/</guid>
+      <description>org-agenda</description>
+    </item>
     <item>
       <title>notmuch</title>
       <link>/braindump/posts/20240223231317-notmuch/</link>

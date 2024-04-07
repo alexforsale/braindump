@@ -6,8 +6,22 @@
     <description>Recent content in Tech on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2024 01:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 21:07:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>noweb</title>
+      <link>/braindump/posts/20240327210756-noweb/</link>
+      <pubDate>Wed, 27 Mar 2024 21:07:00 +0000</pubDate>
+      <guid>/braindump/posts/20240327210756-noweb/</guid>
+      <description>noweb</description>
+    </item>
+    <item>
+      <title>org-agenda</title>
+      <link>/braindump/posts/20240319220055-org_agenda/</link>
+      <pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240319220055-org_agenda/</guid>
+      <description>org-agenda</description>
+    </item>
     <item>
       <title>gif</title>
       <link>/braindump/posts/20240309010626-gif/</link>

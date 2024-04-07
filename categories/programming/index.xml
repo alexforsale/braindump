@@ -6,8 +6,15 @@
     <description>Recent content in Programming on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 10:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 09:04:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>/braindump/posts/20240314090446-python/</link>
+      <pubDate>Thu, 14 Mar 2024 09:04:00 +0000</pubDate>
+      <guid>/braindump/posts/20240314090446-python/</guid>
+      <description>Python</description>
+    </item>
     <item>
       <title>rust</title>
       <link>/braindump/posts/20240225102813-rust/</link>

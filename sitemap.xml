@@ -2,14 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/braindump/</loc>
-    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+    <loc>/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/</loc>
-    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+    <loc>/braindump/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/org-mode/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/org-roam/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/orgmode/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240327210756-noweb/</loc>
+    <lastmod>2024-03-27T21:07:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/noweb/</loc>
+    <lastmod>2024-03-27T21:07:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/tech/</loc>
+    <lastmod>2024-03-27T21:07:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/emacs/</loc>
+    <lastmod>2024-03-19T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240319220055-org_agenda/</loc>
+    <lastmod>2024-03-19T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/others/</loc>
+    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240314090533-perfect_number/</loc>
+    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/theory/</loc>
+    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/programming/</loc>
+    <lastmod>2024-03-14T09:04:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240314090446-python/</loc>
+    <lastmod>2024-03-14T09:04:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/python/</loc>
+    <lastmod>2024-03-14T09:04:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240309010626-gif/</loc>
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
@@ -21,12 +72,6 @@
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/multimedia/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/tech/</loc>
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/video/</loc>
@@ -57,9 +102,6 @@
     <lastmod>2024-02-25T10:30:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/programming/</loc>
-    <lastmod>2024-02-25T10:28:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/programming/</loc>
     <lastmod>2024-02-25T10:28:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240225102813-rust/</loc>
@@ -121,9 +163,6 @@
   </url><url>
     <loc>/braindump/posts/20240223232154-msmtp/</loc>
     <lastmod>2024-02-23T23:21:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/emacs/</loc>
-    <lastmod>2024-02-23T23:13:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240223231317-notmuch/</loc>
     <lastmod>2024-02-23T23:13:00+00:00</lastmod>

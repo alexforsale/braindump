@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2024 01:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 03:18:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Org-Mode</title>
+      <link>/braindump/tags/org-mode/</link>
+      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <guid>/braindump/tags/org-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org-Roam</title>
+      <link>/braindump/tags/org-roam/</link>
+      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <guid>/braindump/tags/org-roam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orgmode</title>
+      <link>/braindump/tags/orgmode/</link>
+      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <guid>/braindump/tags/orgmode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noweb</title>
+      <link>/braindump/tags/noweb/</link>
+      <pubDate>Wed, 27 Mar 2024 21:07:00 +0000</pubDate>
+      <guid>/braindump/tags/noweb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>/braindump/tags/emacs/</link>
+      <pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
+      <guid>/braindump/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theory</title>
+      <link>/braindump/tags/theory/</link>
+      <pubDate>Thu, 14 Mar 2024 09:05:00 +0000</pubDate>
+      <guid>/braindump/tags/theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>/braindump/tags/python/</link>
+      <pubDate>Thu, 14 Mar 2024 09:04:00 +0000</pubDate>
+      <guid>/braindump/tags/python/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gif</title>
       <link>/braindump/tags/gif/</link>
@@ -146,13 +195,6 @@
       <link>/braindump/tags/pass/</link>
       <pubDate>Fri, 23 Feb 2024 23:25:00 +0000</pubDate>
       <guid>/braindump/tags/pass/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>/braindump/tags/emacs/</link>
-      <pubDate>Fri, 23 Feb 2024 23:13:00 +0000</pubDate>
-      <guid>/braindump/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
