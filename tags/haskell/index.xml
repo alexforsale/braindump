@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haskell on Braindump</title>
+    <link>/braindump/tags/haskell/</link>
+    <description>Recent content in Haskell on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>haskell</title>
+      <link>/braindump/posts/2025-07-29_01-40-38-haskell/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-40-38-haskell/</guid>
+      <description>&lt;p&gt;Haskell is a general-purpose, statically typed, purely functional &lt;a href=&#34;/braindump/posts/2025-07-29_01-29-35-programming/&#34;&gt;programming&lt;/a&gt; language. It is known for its strong emphasis on functional programming principles and features like type inference and lazy evaluation.&lt;/p&gt;
+&lt;h2 id=&#34;purely-functional&#34;&gt;Purely Functional&lt;/h2&gt;
+&lt;p&gt;In Haskell, functions are treated as mathematical functions, meaning they always produce the same output for the same input and have no side effects (they do not modify external state).&lt;/p&gt;
+&lt;h2 id=&#34;statically-typed&#34;&gt;Statically Typed&lt;/h2&gt;
+&lt;p&gt;The type of variables and expressions is checked at compile time, catching many potential errors before runtime. Haskell also features strong type inference, allowing the compiler to deduce types without explicit declarations in many cases.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

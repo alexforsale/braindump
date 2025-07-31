@@ -6,20 +6,55 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 03:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs</title>
+      <link>/braindump/tags/emacs/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Haskell</title>
+      <link>/braindump/tags/haskell/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/haskell/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Org-Mode</title>
       <link>/braindump/tags/org-mode/</link>
-      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/org-mode/</guid>
       <description></description>
     </item>
     <item>
       <title>Org-Roam</title>
       <link>/braindump/tags/org-roam/</link>
-      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/org-roam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>/braindump/tags/programming/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>/braindump/tags/python/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>/braindump/tags/rust/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/rust/</guid>
       <description></description>
     </item>
     <item>
@@ -34,27 +69,6 @@
       <link>/braindump/tags/noweb/</link>
       <pubDate>Wed, 27 Mar 2024 21:07:00 +0000</pubDate>
       <guid>/braindump/tags/noweb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emacs</title>
-      <link>/braindump/tags/emacs/</link>
-      <pubDate>Tue, 19 Mar 2024 22:00:00 +0000</pubDate>
-      <guid>/braindump/tags/emacs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theory</title>
-      <link>/braindump/tags/theory/</link>
-      <pubDate>Thu, 14 Mar 2024 09:05:00 +0000</pubDate>
-      <guid>/braindump/tags/theory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>/braindump/tags/python/</link>
-      <pubDate>Thu, 14 Mar 2024 09:04:00 +0000</pubDate>
-      <guid>/braindump/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -111,20 +125,6 @@
       <link>/braindump/tags/operating-system/</link>
       <pubDate>Sun, 25 Feb 2024 10:30:00 +0000</pubDate>
       <guid>/braindump/tags/operating-system/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>/braindump/tags/programming/</link>
-      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
-      <guid>/braindump/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rust</title>
-      <link>/braindump/tags/rust/</link>
-      <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
-      <guid>/braindump/tags/rust/</guid>
       <description></description>
     </item>
     <item>
@@ -244,6 +244,20 @@
       <link>/braindump/tags/arch/</link>
       <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
       <guid>/braindump/tags/arch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archlinux</title>
+      <link>/braindump/tags/archlinux/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/archlinux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latex</title>
+      <link>/braindump/tags/latex/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/latex/</guid>
       <description></description>
     </item>
   </channel>

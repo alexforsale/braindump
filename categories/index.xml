@@ -6,12 +6,19 @@
     <description>Recent content in Categories on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 03:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>/braindump/categories/programming/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/categories/programming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reference</title>
       <link>/braindump/categories/reference/</link>
-      <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/categories/reference/</guid>
       <description></description>
     </item>
@@ -20,20 +27,6 @@
       <link>/braindump/categories/tech/</link>
       <pubDate>Wed, 27 Mar 2024 21:07:00 +0000</pubDate>
       <guid>/braindump/categories/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Others</title>
-      <link>/braindump/categories/others/</link>
-      <pubDate>Thu, 14 Mar 2024 09:05:00 +0000</pubDate>
-      <guid>/braindump/categories/others/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>/braindump/categories/programming/</link>
-      <pubDate>Thu, 14 Mar 2024 09:04:00 +0000</pubDate>
-      <guid>/braindump/categories/programming/</guid>
       <description></description>
     </item>
   </channel>

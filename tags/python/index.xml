@@ -6,8 +6,27 @@
     <description>Recent content in Python on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 09:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>python</title>
+      <link>/braindump/posts/2025-07-29_01-37-50-python/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-37-50-python/</guid>
+      <description>&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. It is known for its clear and readable syntax, which emphasizes code readability and reduces the cost of program maintenance.&lt;/p&gt;
+&lt;p&gt;Key characteristics of Python:&lt;/p&gt;
+&lt;h2 id=&#34;interpreted&#34;&gt;Interpreted&lt;/h2&gt;
+&lt;p&gt;Python code is executed line by line by an interpreter, without the need for a separate compilation step. This speeds up the development process, as changes can be tested immediately.&lt;/p&gt;
+&lt;h2 id=&#34;high-level&#34;&gt;High-level&lt;/h2&gt;
+&lt;p&gt;Python abstracts away low-level details of computer hardware, allowing developers to focus on problem-solving rather than managing memory or system resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>perfect-number</title>
+      <link>/braindump/posts/20240314090533-perfect_number/</link>
+      <pubDate>Thu, 14 Mar 2024 09:05:00 +0000</pubDate>
+      <guid>/braindump/posts/20240314090533-perfect_number/</guid>
+      <description>perfect number</description>
+    </item>
     <item>
       <title>python</title>
       <link>/braindump/posts/20240314090446-python/</link>

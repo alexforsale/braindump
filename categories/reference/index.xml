@@ -6,8 +6,22 @@
     <description>Recent content in Reference on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2024 03:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Take Notes with Org-roam</title>
+      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
+      <description>&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Org-roam User Manual</title>
+      <link>/braindump/posts/org_roam_user_manual/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/org_roam_user_manual/</guid>
+      <description>&lt;p&gt;Testing org-roam-capture-ref-templates&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>
       <link>/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/</link>

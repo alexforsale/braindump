@@ -6,8 +6,22 @@
     <description>Recent content in Emacs on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Take Notes with Org-roam</title>
+      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
+      <description>&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Org-roam User Manual</title>
+      <link>/braindump/posts/org_roam_user_manual/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/org_roam_user_manual/</guid>
+      <description>&lt;p&gt;Testing org-roam-capture-ref-templates&lt;/p&gt;</description>
+    </item>
     <item>
       <title>org-agenda</title>
       <link>/braindump/posts/20240319220055-org_agenda/</link>
@@ -31,10 +45,19 @@
     </item>
     <item>
       <title>emacs</title>
-      <link>/braindump/posts/20240221124457-emacs/</link>
-      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
-      <guid>/braindump/posts/20240221124457-emacs/</guid>
-      <description>emacs</description>
+      <link>/braindump/posts/20240218140133-emacs/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218140133-emacs/</guid>
+      <description>&lt;p&gt;Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.&lt;/p&gt;
+&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via Org-mode).&lt;/p&gt;
+&lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

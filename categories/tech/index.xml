@@ -149,13 +149,6 @@
       <description>open source static site generator</description>
     </item>
     <item>
-      <title>emacs</title>
-      <link>/braindump/posts/20240221124457-emacs/</link>
-      <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
-      <guid>/braindump/posts/20240221124457-emacs/</guid>
-      <description>emacs</description>
-    </item>
-    <item>
       <title>github</title>
       <link>/braindump/posts/20240221124421-github/</link>
       <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
@@ -182,6 +175,41 @@
       <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
       <guid>/braindump/posts/20240220160143-archlinux/</guid>
       <description>All about archlinux</description>
+    </item>
+    <item>
+      <title>Archlinux</title>
+      <link>/braindump/posts/20240218135841-archlinux/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218135841-archlinux/</guid>
+      <description>&lt;h2 id=&#34;emacs-installation&#34;&gt;Emacs installation&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt; export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>emacs</title>
+      <link>/braindump/posts/20240218140133-emacs/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218140133-emacs/</guid>
+      <description>&lt;p&gt;Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.&lt;/p&gt;
+&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via Org-mode).&lt;/p&gt;
+&lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Latex</title>
+      <link>/braindump/posts/20240218135651-latex/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218135651-latex/</guid>
+      <description>&lt;p&gt;Latex in linux&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

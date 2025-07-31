@@ -2,31 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/emacs/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_01-40-38-haskell/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/haskell/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/how_i_take_notes_with_org_roam/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/org-mode/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/org-roam/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/org_roam_user_manual/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_01-29-35-programming/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/programming/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/programming/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_01-37-50-python/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/python/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_00-38-11-rust/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/rust/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_05-52-54-rust_struct/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-07-29_02-34-23-rust_vector/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/</loc>
     <lastmod>2024-04-06T03:18:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/org-mode/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/org-roam/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/orgmode/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/posts/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/reference/</loc>
-    <lastmod>2024-04-06T03:18:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2024-04-06T03:18:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240327210756-noweb/</loc>
@@ -38,28 +83,13 @@
     <loc>/braindump/categories/tech/</loc>
     <lastmod>2024-03-27T21:07:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/emacs/</loc>
-    <lastmod>2024-03-19T22:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/20240319220055-org_agenda/</loc>
     <lastmod>2024-03-19T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/others/</loc>
-    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240314090533-perfect_number/</loc>
     <lastmod>2024-03-14T09:05:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/theory/</loc>
-    <lastmod>2024-03-14T09:05:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/programming/</loc>
-    <lastmod>2024-03-14T09:04:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/20240314090446-python/</loc>
-    <lastmod>2024-03-14T09:04:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/python/</loc>
     <lastmod>2024-03-14T09:04:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240309010626-gif/</loc>
@@ -101,13 +131,7 @@
     <loc>/braindump/posts/20240225103030-windows/</loc>
     <lastmod>2024-02-25T10:30:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/programming/</loc>
-    <lastmod>2024-02-25T10:28:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/20240225102813-rust/</loc>
-    <lastmod>2024-02-25T10:28:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/rust/</loc>
     <lastmod>2024-02-25T10:28:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240225102848-rustup/</loc>
@@ -194,9 +218,6 @@
     <loc>/braindump/tags/web/</loc>
     <lastmod>2024-02-21T12:45:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/20240221124457-emacs/</loc>
-    <lastmod>2024-02-21T12:44:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/git/</loc>
     <lastmod>2024-02-21T12:44:00+00:00</lastmod>
   </url><url>
@@ -217,5 +238,20 @@
   </url><url>
     <loc>/braindump/posts/20240220160143-archlinux/</loc>
     <lastmod>2024-02-20T16:01:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240218135841-archlinux/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/archlinux/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240218140133-emacs/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/20240218135651-latex/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/latex/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
   </url>
 </urlset>
