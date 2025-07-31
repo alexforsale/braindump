@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d7aebff6-4d3e-4575-91af-d20d3da6dfbe
+:ROAM_ALIASES: Libvirt
+:END:
+#+title: libvirt
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: vm virtualization libvirt
+* Libvirt
+Libvirt is a virtualization API that provides a consistent and unified way to manage different virtualization technologies like KVM, Xen, and [[id:d7184060-7ae0-499c-af7f-c0540b74ea65][QEMU]]. It offers a stable API, a daemon (libvirtd), and command-line tools (like [[id:d933dc40-3f05-45ae-82b4-5b9c9feaede1][virsh]]) for managing virtual machines and other virtualization features such as storage and networking.
+[[id:d933dc40-3f05-45ae-82b4-5b9c9feaede1][virsh]]

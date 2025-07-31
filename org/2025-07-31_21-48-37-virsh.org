@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d933dc40-3f05-45ae-82b4-5b9c9feaede1
+:END:
+#+title: virsh
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: vm qemu libvirt virtualization
+* virsh
+Virsh is a command-line interface (CLI) utility used for managing virtual machines (VMs) and other virtualization components, interacting with them through the [[id:d7aebff6-4d3e-4575-91af-d20d3da6dfbe][Libvirt]] virtualization API. It allows users to create, manage, and control virtual machines, as well as interact with storage pools and networks within a virtualization environment.

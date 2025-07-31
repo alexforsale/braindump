@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       0607e7ee-1c11-4cd0-910b-b65f36b21f84
+:ROAM_ALIASES: Windows
 :END:
 #+title: windows
 #+author: Kristian Alexander P

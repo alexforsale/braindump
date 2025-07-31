@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d7184060-7ae0-499c-af7f-c0540b74ea65
+:ROAM_ALIASES: QEMU
+:END:
+#+title: qemu
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: qemu vm virtualization
+* Qemu
+QEMU is a free and open-source emulator and virtualizer. It allows users to run different operating systems and programs on various hardware architectures, effectively emulating a different computer system. It can be used as a standalone emulator or combined with other virtualization technologies like KVM for near-native performance.

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       54fd34c7-170c-4517-ac77-ba35d394e423
+:END:
+#+title: virt-manager
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: vm virtualization libvirt
+* virt-manager
+virt-manager is a graphical tool, a frontend, for managing virtual machines (VMs) using [[id:d7aebff6-4d3e-4575-91af-d20d3da6dfbe][libvirt]]. It primarily works with KVM (Kernel-based Virtual Machine) but also supports Xen and LXC containers. It offers features like creating and configuring new VMs, managing existing ones, monitoring performance, and accessing virtual consoles.
+* Windows VM
+- I can only get native resolution for [[id:0607e7ee-1c11-4cd0-910b-b65f36b21f84][windows]] vm using QXL Video mode.
