@@ -1,14 +1,14 @@
 :PROPERTIES:
 :ID:       a2aaa7e1-2d85-43de-8493-1e58656df395
 :END:
-#+title: python
+#+title: python script examples
 #+author: Kristian Alexander P
 #+description: Python
 #+date: <2024-03-14 Thu 09:04>
 #+hugo_base_dir: ..
 #+hugo_section: posts
 #+hugo_categories: programming
-#+hugo_tags: python
+#+hugo_tags: python programming
 * Example python scripts
 ** [[id:a2c344c2-6d47-4928-90ee-81f128b45610][archlinux]] packages
 #+begin_src python 
