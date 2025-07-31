@@ -6,7 +6,7 @@
 #+date: <2025-07-31 Thu>
 #+description:
 #+hugo_base_dir: ..
-#+hugo_section: post
+#+hugo_section: posts
 #+hugo_categories: programming
 #+property: header-args :exports both
 #+hugo_tags: rust programming
