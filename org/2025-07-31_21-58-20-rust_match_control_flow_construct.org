@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       edcb7f5b-1297-4844-9aca-72301a719f0c
+:END:
+#+title: rust match
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming
+* =match= Control flow construct
+[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] has an extremely powerful control flow construct called =match= that allows you to compare a value against a series of patterns and then execute code based on which pattern matches. Patterns can be made up of literal values, variable names, wildcards, and many other things.
+
+Think of a match expression as being like a coin-sorting machine: coins slide down a track with variously sized holes along it, and each coin falls through the first hole it encounters that it fits into. In the same way, values go through each pattern in a =match=, and at the first pattern the value “fits,” the value falls into the associated code block to be used during execution.
+
+#+caption: An =enum= and a =match= expression that has the variants of the enum as its patterns
+#+begin_src rust
+  enum Coin {
+      Penny,
+      Nickel,
+      Dime,
+      Quarter,
+  }
+
+  fn value_in_cents(coin: Coin) -> u8 {
+      match coin {
+          Coin::Penny => 1,
+          Coin::Nickel => 5,
+          Coin::Dime => 10,
+          Coin::Quarter => 25,
+      }
+  }
+#+end_src
+
+Let’s break down the =match= in the =value_in_cents= function. First we list the =match= keyword followed by an expression, which in this case is the value =coin=. This seems very similar to a conditional expression used with =if=, but there’s a big difference: with =if=, the condition needs to evaluate to a Boolean value, but here it can be any type. The type of =coin= in this example is the =Coin= [[id:c9a19a97-dba0-4b9a-ba80-6c0206c06e7e][enum]] that we defined on the first line.
+
+Next are the =match= arms. An arm has two parts: a pattern and some code. The first arm here has a pattern that is the value =Coin::Penny= and then the ~=>~ operator that separates the pattern and the code to run. The code in this case is just the value =1=. Each arm is separated from the next with a comma.
+
+When the =match= expression executes, it compares the resultant value against the pattern of each arm, in order. If a pattern matches the value, the code associated with that pattern is executed. If that pattern doesn’t match the value, execution continues to the next arm, much as in a coin-sorting machine. We can have as many arms as we need.
+
+The code associated with each arm is an expression, and the resultant value of the expression in the matching arm is the value that gets returned for the entire =match= expression.
+
+#+begin_src rust
+  fn value_in_cents(coin: Coin) -> u8 {
+      match coin {
+          Coin::Penny => {
+              println!("Lucky penny!");
+              1
+          }
+          Coin::Nickel => 5,
+          Coin::Dime => 10,
+          Coin::Quarter => 25,
+      }
+  }
+#+end_src
