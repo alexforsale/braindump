@@ -12,11 +12,204 @@
 #+property: header-args :exports both
 
 Data types for[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][rust]].
+Every value in Rust is of a certain /data type/, which tells Rust what kind of data is being specified so it knows how to work with that data.
+
+Keep in mind that Rust is a /statically typed/ language, which means that it must know the types of all variables at compile time.
 * Scalar Types
+A /scalar type/ represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters. You may recognize these from other programming languages. Let’s jump into how they work in Rust.
 ** Integers
+| length                 | Signed  | Unsigned |
+| 8-bit                  | =i8=    | =u8=     |
+| 16-bit                 | =i16=   | =u16=    |
+| 32-bit                 | =i32=   | =u32=    |
+| 64-bit                 | =i64=   | =u64=    |
+| 128-bit                | =i128=  | =u128=   |
+| architecture-dependent | =isize= | =usize=  |
+
+The =isize= and =usize= types depend on the architecture of the computer your program is running on: 64 bits if you’re on a 64-bit architecture and 32 bits if you’re on a 32-bit architecture.
 ** Floating Points
+Rust also has two primitive types for /floating-point/ numbers, which are numbers with decimal points. Rust’s floating-point types are =f32= and =f64=, which are 32 bits and 64 bits in size, respectively.
+
+The default type is =f64= because on modern CPUs, it’s roughly the same speed as =f32= but is capable of more precision. All floating-point types are signed.
+*** Numeric operation
+Rust supports the basic mathematical operations you’d expect for all the number types: addition, subtraction, multiplication, division, and remainder. Integer division truncates toward zero to the nearest integer.
+#+begin_src rust
+  fn main() {
+      // addition
+      let sum = 5 + 10;
+      println!("sum is: {}", sum);
+
+      // subtraction
+      let difference = 95.5 - 4.3;
+      println!("difference is: {}", difference);
+
+      // multiplication
+      let product = 4 * 30;
+      println!("product is: {}", product);
+
+      // division
+      let quotient = 56.7 / 32.2;
+      println!("quotient is: {}", quotient);
+      let truncated = -5 / 3; // Results in -1
+      println!("truncated is: {}", truncated);
+
+      // remainder
+      let remainder = 43 % 5;
+      println!("remainder is: {}", remainder);
+  }
+#+end_src
+
+#+RESULTS:
+: sum is: 15
+: difference is: 91.2
+: product is: 120
+: quotient is: 1.7608695652173911
+: truncated is: -1
+: remainder is: 3
+
 ** Boolean Type
+As in most other programming languages, a Boolean type in Rust has two possible values: =true= and =false=. Booleans are one byte in size. The Boolean type in Rust is specified using =bool=.
+
+#+begin_src rust
+  fn main() {
+      let t = true;
+
+      let f: bool = false; // with explicit type annotation
+      println!("f is {}", f)
+  }
+#+end_src
+
+#+RESULTS:
+: f is false
+
 ** Character Type
+Rust’s =char= type is the language’s most primitive alphabetic type. Here are some examples of declaring =char= values:
+
+#+begin_src rust
+  fn main() {
+      let c = 'z';
+      let z: char = 'ℤ'; // with explicit type annotation
+      let heart_eyed_cat = '😻';
+
+      println!("c is {}, z is {}, and heart_eyed_cat is {}", c, z, heart_eyed_cat);
+  }
+#+end_src
+
+#+RESULTS:
+: c is z, z is ℤ, and heart_eyed_cat is 😻
+
+Note that we specify =char= literals with single quotes, as opposed to string literals, which use double quotes.
 * Compound Types
+/Compound types/ can group multiple values into one type. Rust has two primitive compound types: tuples and arrays.
 ** Tuple Type
+A =tuple= is a general way of grouping together a number of values with a variety of types into one compound type. Tuples have a fixed length: once declared, they cannot grow or shrink in size.
+
+We create a tuple by writing a comma-separated list of values inside parentheses. Each position in the tuple has a type, and the types of the different values in the tuple don’t have to be the same.
+
+#+begin_src rust
+  fn main() {
+      let tup: (i32, f64, u8) = (500, 6.4, 1);
+  }
+#+end_src
+
+The variable =tup= binds to the entire tuple because a tuple is considered a single compound element. To get the individual values out of a tuple, we can use pattern matching to destructure a tuple value
+
+#+begin_src rust
+  fn main() {
+      let tup = (500, 6.4, 1);
+
+      let (x, y, z) = tup;
+
+      println!("The value of y is: {y}");
+  }
+#+end_src
+
+#+RESULTS:
+: The value of y is: 6.4
+
+This program first creates a tuple and binds it to the variable =tup=. It then uses a pattern with let to take =tup= and turn it into three separate variables, =x=, =y=, and =z=. This is called /destructuring/ because it breaks the single tuple into three parts. Finally, the program prints the value of y, which is 6.4.
+
+We can also access a tuple element directly by using a period (=.=) followed by the index of the value we want to access. For example:
+
+#+begin_src rust
+  fn main() {
+      let x: (i32, f64, u8) = (500, 6.4, 1);
+
+      let five_hundred = x.0;
+
+      let six_point_four = x.1;
+
+      let one = x.2;
+  }
+#+end_src
+
+This program creates the tuple =x= and then accesses each element of the tuple using their respective indices. As with most programming languages, the first index in a tuple is 0.
+
+The tuple without any values has a special name, unit. This value and its corresponding type are both written =()= and represent an empty value or an empty return type. Expressions implicitly return the unit value if they don’t return any other value.
+
+Additionally, we can modify individual elements of a mutable tuple. For example:
+
+#+begin_src rust
+  fn main() {
+      let mut x: (i32, i32) = (1, 2);
+      x.0 = 0;
+      x.1 += 5;
+      println!("x is {:?}", x)
+  }
+#+end_src
+
+#+RESULTS:
+: x is (0, 7)
+
 ** Array Type
+Another way to have a collection of multiple values is with an /array/. Unlike a tuple, every element of an array must have the same type. Unlike arrays in some other languages, arrays in Rust have a fixed length.
+
+We write the values in an array as a comma-separated list inside square brackets:
+
+#+begin_src rust
+  fn main() {
+      let a = [1, 2, 3, 4, 5];
+  }
+#+end_src
+
+Arrays are more useful when you know the number of elements will not need to change. For example, if you were using the names of the month in a program, you would probably use an array rather than a vector because you know it will always contain 12 elements:
+
+#+begin_src rust
+  let months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+#+end_src
+
+You write an array’s type using square brackets with the type of each element, a semicolon, and then the number of elements in the array, like so:
+
+#+begin_src rust
+  let a: [i32; 5] = [1, 2, 3, 4, 5];
+#+end_src
+
+Here, =i32= is the type of each element. After the semicolon, the number =5= indicates the array contains five elements.
+
+You can also initialize an array to contain the same value for each element by specifying the initial value, followed by a semicolon, and then the length of the array in square brackets, as shown here:
+
+#+begin_src rust
+  let a = [3; 5];
+  println!("{:?}", a);
+#+end_src
+
+#+RESULTS:
+: [3, 3, 3, 3, 3]
+
+*** Accessing array elements
+An array is a single chunk of memory of a known, fixed size that can be allocated on the stack. You can access elements of an array using indexing, like this:
+
+#+begin_src rust
+  fn main() {
+      let a = [1, 2, 3, 4, 5];
+
+      let first = a[0];
+      let second = a[1];
+
+      println!("a is: {:?}, first is {}, second is {}", a, first, second)
+  }
+#+end_src
+
+#+RESULTS:
+: a is: [1, 2, 3, 4, 5], first is 1, second is 2
