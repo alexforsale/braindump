@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       4b27bd20-cd69-41fb-8b21-1dfcc2b9f578
+:END:
+#+title: Rust Functions
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming
+* Functions
+Functions are prevalent in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] code. You’ve already seen one of the most important functions in the language: the =main= function, which is the entry point of many programs. You’ve also seen the =fn= keyword, which allows you to declare new functions.
+
+Rust code uses /snake case/ as the conventional style for function and variable names, in which all letters are lowercase and underscores separate words. Here’s a program that contains an example function definition:
+
+#+begin_src rust
+  fn main() {
+      println!("Hello, world!");
+
+      another_function();
+  }
+
+  fn another_function() {
+      println!("Another function.");
+  }
+#+end_src
+
+#+RESULTS:
+: Hello, world!
+: Another function.

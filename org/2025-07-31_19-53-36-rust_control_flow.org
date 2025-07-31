@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       965c65fe-3190-405c-a0f3-2fa458e11372
+:END:
+#+title: Rust Control Flow
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming
+* Control Flow
+The ability to run some code depending on whether a condition is =true= and to run some code repeatedly while a condition is =true= are basic building blocks in most programming languages. The most common constructs that let you control the flow of execution of [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] code are if expressions and loops.

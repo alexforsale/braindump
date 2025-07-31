@@ -8,7 +8,7 @@
 #+hugo_base_dir: ..
 #+hugo_section: posts
 #+hugo_categories: programming
-#+hugo_tags: python
+#+hugo_tags: python programming
 #+property: header-args :exports both
 
 * What is perfect number?
