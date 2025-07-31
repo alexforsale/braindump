@@ -9,6 +9,27 @@
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Emacs</title>
+      <link>/braindump/tags/emacs/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org-Mode</title>
+      <link>/braindump/tags/org-mode/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/org-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org-Roam</title>
+      <link>/braindump/tags/org-roam/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/org-roam/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Programming</title>
       <link>/braindump/tags/programming/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -23,31 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Emacs</title>
-      <link>/braindump/tags/emacs/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/emacs/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Haskell</title>
       <link>/braindump/tags/haskell/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/haskell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Org-Mode</title>
-      <link>/braindump/tags/org-mode/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/org-mode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Org-Roam</title>
-      <link>/braindump/tags/org-roam/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/org-roam/</guid>
       <description></description>
     </item>
     <item>

@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>org-roam</title>
+      <link>/braindump/post/2025-07-31_20-53-56-org_roam/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_20-53-56-org_roam/</guid>
+      <description>A plain-text personal knowledge management system.</description>
+    </item>
+    <item>
       <title>Rust Comments</title>
       <link>/braindump/post/2025-07-31_19-51-32-rust_comments/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -74,7 +81,7 @@
       <link>/braindump/post/template_expansion_the_org_manual/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/post/template_expansion_the_org_manual/</guid>
-      <description>&lt;p&gt;Org-mode capture template expansion&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;Org-mode&lt;/a&gt; capture template expansion&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://orgmode.org/manual/Template-expansion.html&#34;&gt;https://orgmode.org/manual/Template-expansion.html&lt;/a&gt;&lt;/li&gt;

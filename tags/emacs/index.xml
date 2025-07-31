@@ -6,15 +6,24 @@
     <description>Recent content in Emacs on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>org-roam</title>
+      <link>/braindump/post/2025-07-31_20-53-56-org_roam/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_20-53-56-org_roam/</guid>
+      <description>A plain-text personal knowledge management system.</description>
+    </item>
     <item>
       <title>How I Take Notes with Org-roam</title>
       <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;</description>
+&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
+&lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
+&lt;p&gt;Intricate &lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Org-roam User Manual</title>
@@ -25,7 +34,8 @@
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&#34;&gt;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;p&gt;Official &lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt; manual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>org-agenda</title>
@@ -54,14 +64,16 @@
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/20240218140133-emacs/</guid>
       <description>&lt;p&gt;Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.&lt;/p&gt;
-&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via Org-mode).&lt;/p&gt;
+&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;Org-mode&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

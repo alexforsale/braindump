@@ -13,7 +13,7 @@
       <link>/braindump/post/template_expansion_the_org_manual/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/post/template_expansion_the_org_manual/</guid>
-      <description>&lt;p&gt;Org-mode capture template expansion&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;Org-mode&lt;/a&gt; capture template expansion&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://orgmode.org/manual/Template-expansion.html&#34;&gt;https://orgmode.org/manual/Template-expansion.html&lt;/a&gt;&lt;/li&gt;
@@ -25,7 +25,9 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;</description>
+&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
+&lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
+&lt;p&gt;Intricate &lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Org-roam User Manual</title>
@@ -36,7 +38,8 @@
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&#34;&gt;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;p&gt;Official &lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt; manual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>
