@@ -77,6 +77,15 @@
 &lt;p&gt;Rust code uses &lt;em&gt;snake case&lt;/em&gt; as the conventional style for function and variable names, in which all letters are lowercase and underscores separate words. Here’s a program that contains an example function definition:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>rust match</title>
+      <link>/braindump/posts/2025-07-31_21-58-20-rust_match_control_flow_construct/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-58-20-rust_match_control_flow_construct/</guid>
+      <description>&lt;h2 id=&#34;match-control-flow-construct&#34;&gt;&lt;code&gt;match&lt;/code&gt; Control flow construct&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; has an extremely powerful control flow construct called &lt;code&gt;match&lt;/code&gt; that allows you to compare a value against a series of patterns and then execute code based on which pattern matches. Patterns can be made up of literal values, variable names, wildcards, and many other things.&lt;/p&gt;
+&lt;p&gt;Think of a match expression as being like a coin-sorting machine: coins slide down a track with variously sized holes along it, and each coin falls through the first hole it encounters that it fits into. In the same way, values go through each pattern in a &lt;code&gt;match&lt;/code&gt;, and at the first pattern the value “fits,” the value falls into the associated code block to be used during execution.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Rust Ownership</title>
       <link>/braindump/posts/2025-07-31_20-04-32-rust_ownership/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
