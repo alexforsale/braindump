@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fd4eed23-6637-451c-8d31-0cc50d2d5449
+:ROAM_REFS: https://i3wm.org/
+:END:
+#+title: i3 website
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: i3 window-manager unix
+
+* Official i3wm website
+The [[id:85731395-63c5-4513-933b-279f9c64d148][i3wm]] tiling window manager.
+
+* Links
+- [[https://i3wm.org/]]

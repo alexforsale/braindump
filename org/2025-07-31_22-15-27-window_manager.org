@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       39becf48-36e4-4acb-9d92-6e5356d0a236
+:END:
+#+title: window-manager
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: window-manager
+
+Window managers are [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][X]] clients that control the appearance and behaviour of the frames ("windows") where the various graphical applications are drawn.
