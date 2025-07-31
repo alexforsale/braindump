@@ -13,3 +13,9 @@
 https://jethrokuan.github.io/org-roam-guide/
 
 * jethrokua Org-roam configuration
+
+* NEXT Implement this
+:LOGBOOK:
+- State "NEXT"       from              [2025-07-31 Thu 20:56]
+:END:
+Intricate [[id:1d560727-4c96-4cee-81b5-a6fedb9fc756][Org-roam]] configuration.

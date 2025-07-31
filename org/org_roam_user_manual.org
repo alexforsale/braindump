@@ -14,3 +14,5 @@ Testing org-roam-capture-ref-templates
 
 * Links
 - https://www.orgroam.com/manual.html#org_002droam_002dprotocol
+
+Official [[id:1d560727-4c96-4cee-81b5-a6fedb9fc756][org-roam]] manual.

@@ -11,6 +11,6 @@
 #+hugo_categories: reference
 #+property: header-args :exports both
 #+hugo_tags:
-Org-mode capture template expansion
+[[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]] capture template expansion
 * Links
 - [[https://orgmode.org/manual/Template-expansion.html]]

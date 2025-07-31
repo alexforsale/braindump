@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       abf66a3f-a12e-4424-a9cd-d68a364bdab7
+:ROAM_ALIASES: Org-mode
 :END:
 #+title: org-mode
 #+author: Kristian Alexander P
