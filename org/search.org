@@ -2,7 +2,7 @@
 #+author: Kristian Alexander P
 #+hugo_section: /
 #+hugo_base_dir: ../
-#+date: <2024-02-28>
+#+date: <2025-07-31 Thu>
 #+title: search
 #+hugo_custom_front_matter: :layout search :placeholder "Search..."
 * search
