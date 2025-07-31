@@ -11,3 +11,6 @@
 #+hugo_tags: org-mode emacs
 
 Testing org-roam-capture-ref-templates
+
+* Links
+- https://www.orgroam.com/manual.html#org_002droam_002dprotocol

@@ -10,4 +10,6 @@
 #+hugo_categories: reference
 #+hugo_tags: org-roam org-mode emacs
 
+https://jethrokuan.github.io/org-roam-guide/
+
 * jethrokua Org-roam configuration

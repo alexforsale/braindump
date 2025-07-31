@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c8618217-a049-4032-aa93-21fba9e7386c
+:ROAM_REFS: https://orgmode.org/manual/Template-expansion.html
+:END:
+#+title: Template expansion (The Org Manual)
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags:
+Org-mode capture template expansion
+* Links
+- [[https://orgmode.org/manual/Template-expansion.html]]
