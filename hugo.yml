@@ -64,9 +64,24 @@ params:
 
   HomeInfoParams:
     Title: "Braindump"
-  socialIcons:
-    - name: github
+
+  socialIcons: # optional
+    - name: "github"
       url: "https://github.com/alexforsale"
+    - name: "gitlab"
+      url: "https://gitlab.com/alexforsale"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/alexforsale"
+    - name: "email"
+      url: "mailto:alexforsale@yahoo.com"
+    - name: "key"
+      url: "https://keys.openpgp.org/vks/v1/by-fingerprint/27517709E592F14C5A51D90B972B3C2D613E4AE9"
+    - name: "matrix"
+      url: "matrix:@alexforsale:matrix.org"
+    - name: "reddit"
+      url: "https://www.reddit.com/user/alexforsale"
+    - name: "telegram"
+      url: "https://t.me/alexforsale"
 
 menu:
   main:
