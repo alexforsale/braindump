@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       d24b29bb-844a-475b-be42-36f7575efd5a
+:END:
+#+title: programming
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: programming
+A programming language is a formal constructed language designed to communicate instructions to a machine, particularly a computer. Programming languages are used to create computer programs, which implement algorithms.
+Key characteristics and concepts of programming languages include:
+
+* Syntax
+The set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in the language.
+* Semantics
+The meaning of the instructions and how they are executed by the computer.
+* Data Types
+Classifications of data that determine the possible values for variables and the operations that can be performed on them (e.g., integers, strings, booleans).
+* Variables
+Named storage locations in memory that can hold values.
+* Operators
+Symbols or keywords that perform operations on values or variables (e.g., arithmetic operators like +, -, comparison operators like ==, >).
+* Control Structures
+Statements that dictate the flow of execution in a program, such as conditional statements (if-else), loops (for, while), and function calls.
+* Libraries and Frameworks
+Collections of pre-written code that provide functionalities and tools to expedite development.
+* Paradigms
+Different styles or approaches to programming, such as procedural, object-oriented, functional, or declarative programming.
+
+Examples of widely used programming languages include [[id:4b4989ab-1d7c-4bb4-b1d3-9d34a5dde3d5][Python]], Java, JavaScript, C++, C#, Go, and Ruby, each suited for different applications and development needs.

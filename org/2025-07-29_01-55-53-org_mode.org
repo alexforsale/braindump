@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       78ca4732-19ca-474b-8964-4f345cc4cf1f
+:ROAM_ALIASES: Org-mode
+:END:
+#+title: org-mode
+#+author: Kristian Alexander P
+#+date: <2027-07-29 Thu>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: org-mode emacs
+a mode for document editing, formatting, and organizing within the free software text editor GNU [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] and its derivatives, designed for notes, planning, and authoring.

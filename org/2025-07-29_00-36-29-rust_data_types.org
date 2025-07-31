@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       517a77e9-425c-4e98-b58e-f856e1c9f7a5
+:ROAM_ALIASES: "Rust Data Types"
+:END:
+#+title: rust data types
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: rust
+
+Data types for[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][rust]].
+* Scalar Types
+** Integers
+** Floating Points
+** Boolean Type
+** Character Type
+* Compound Types
+** Tuple Type
+** Array Type

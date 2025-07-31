@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       4b4989ab-1d7c-4bb4-b1d3-9d34a5dde3d5
+:END:
+#+title: python
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: python
+Python is a high-level, interpreted, general-purpose programming language. It is known for its clear and readable syntax, which emphasizes code readability and reduces the cost of program maintenance.
+
+Key characteristics of Python:
+* Interpreted
+Python code is executed line by line by an interpreter, without the need for a separate compilation step. This speeds up the development process, as changes can be tested immediately.
+* High-level
+Python abstracts away low-level details of computer hardware, allowing developers to focus on problem-solving rather than managing memory or system resources.
+* General-purpose
+Python is not specialized for any particular type of application and can be used for a wide range of tasks.
+* Object-oriented
+Python supports object-oriented programming (OOP) paradigms, allowing for modular and reusable code through the use of classes and objects.
+* Extensive standard library and ecosystem
+Python comes with a large standard library that provides modules for various functionalities, and a vast ecosystem of third-party libraries and frameworks are available through the Python Package Index (PyPI).
+* Cross-platform
+Python runs on various operating systems, including Windows, macOS, and Linux.
+* Beginner-friendly
+Its simple and intuitive syntax, along with abundant learning resources, makes Python a popular choice for beginners in programming.

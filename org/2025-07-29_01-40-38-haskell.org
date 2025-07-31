@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0fdfb1f5-4dc4-43c8-8d79-98bacccad26c
+:END:
+#+title: haskell
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: haskell
+Haskell is a general-purpose, statically typed, purely functional [[id:d24b29bb-844a-475b-be42-36f7575efd5a][programming]] language. It is known for its strong emphasis on functional programming principles and features like type inference and lazy evaluation.
+* Purely Functional
+In Haskell, functions are treated as mathematical functions, meaning they always produce the same output for the same input and have no side effects (they do not modify external state).
+* Statically Typed
+The type of variables and expressions is checked at compile time, catching many potential errors before runtime. Haskell also features strong type inference, allowing the compiler to deduce types without explicit declarations in many cases.
+* Lazy Evaluation (Non-Strict)
+Expressions are not evaluated until their results are actually needed. This allows for working with potentially infinite data structures and can lead to more efficient computations in certain scenarios.
+* Strong Abstraction Capabilities
+Haskell offers features like higher-order functions, type classes, and algebraic data types, enabling the creation of highly abstract and reusable code.
+* Emphasis on Correctness and Reliability
+The language design encourages writing robust and maintainable software by promoting pure functions and a strong type system.

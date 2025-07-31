@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       fc792cf9-f834-4b0c-9377-92c4f87198b2
+:END:
+#+title: rust vector
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: rust
+
+* Creating vector in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][rust]].
+#+begin_src rust
+  let mut v = Vec::new();
+
+      v.push(5);
+      v.push(6);
+      v.push(7);
+      v.push(8);
+  println!("{:?}", v)
+#+end_src
+
+#+RESULTS:
+: [5, 6, 7, 8]
+
+* Reading Elements of Vectors
+#+begin_src rust
+  let v = vec![1, 2, 3, 4, 5];
+
+      let third: &i32 = &v[2];
+      println!("The third element is {third}");
+
+      let third: Option<&i32> = v.get(2);
+      match third {
+          Some(third) => println!("The third element is {third}"),
+          None => println!("There is no third element."),
+      }
+
+  println!("{:?}", v)
+#+end_src
+
+#+RESULTS:
+: The third element is 3
+: The third element is 3
+: [1, 2, 3, 4, 5]
+
+Option<T> is an enum that represents the presence or absence of a value. It is a fundamental type in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]]'s approach to handling nullable values and potential errors, promoting explicit handling rather than implicit null pointers found in other languages.

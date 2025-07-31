@@ -10,7 +10,24 @@
 #+hugo_categories: tech
 #+hugo_tags: org-mode orgmode noweb
 * noweb in [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]]
+:PROPERTIES:
+:header-args: :exports both
+:END:
 
+The Code in org-[[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]]:
+#+begin_src org
+#+name: first-block
+,#+begin_src python :results output
+print ("first-block")
+,#+end_src
+
+,#+begin_src python :noweb yes :results output
+<<first-block>>
+print("second-block")
+,#+end_src
+#+end_src
+
+#+caption: first block
 #+name: first-block
 #+begin_src python :results output
 print ("first-block")
@@ -19,6 +36,8 @@ print ("first-block")
 #+RESULTS: first-block
 : first-block
 
+#+caption: second block
+#+name: second-block
 #+begin_src python :noweb yes :results output
 <<first-block>>
 print("second-block")

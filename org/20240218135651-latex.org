@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d237d3c2-1693-4c61-96e4-28ff2e748ddd
+:END:
+#+title: Latex
+#+author: Kristian Alexander P
+#+date: <2024-02-18 Sun>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+hugo_tags: latex
+Latex in linux

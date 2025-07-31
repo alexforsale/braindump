@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       bfe2369d-290c-42b5-890d-54ea16ed204e
+:ROAM_REFS: https://www.orgroam.com/manual.html#org_002droam_002dprotocol
+:END:
+#+title: Org-roam User Manual
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+hugo_tags: org-mode emacs
+
+Testing [[id:c8940b5c-00a2-4968-a0f4-d960f39a72f3][org-roam]]-capture-ref-templates

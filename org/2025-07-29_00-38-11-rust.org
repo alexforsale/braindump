@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       b0c3a713-8b46-4f98-857d-7145ced06d68
+:ROAM_ALIASES: Rust
+:END:
+#+title: rust
+#+author: Kristian Alexander P
+#+date: <2025-07-29 Tue>
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+hugo_tags: rust
+
+
+Rust is a modern, general-purpose [[id:d24b29bb-844a-475b-be42-36f7575efd5a][programming]] language known for its emphasis on performance, memory safety, and concurrency. It is designed to build reliable and efficient software, particularly in areas where performance is critical, such as systems programming, game engines, databases, and operating systems.
+Key characteristics of Rust include:
+
+* Performance
+Rust offers speed and memory efficiency without requiring a runtime or garbage collector, making it suitable for low-level systems programming.
+* Memory Safety
+Rust's unique ownership model and borrow checker enforce memory safety at compile time, preventing common errors like null pointer dereferences and data races without the overhead of a garbage collector.
+* Concurrency
+Rust provides strong support for concurrent programming, enabling safe and efficient parallel execution of code.
+* Productivity
+It features a helpful compiler, comprehensive documentation, and robust tooling to aid developer productivity.
+* Versatility
+Rust can be used for a wide range of applications, including web services, command-line tools, embedded systems, and WebAssembly.
