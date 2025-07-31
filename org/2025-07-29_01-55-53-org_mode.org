@@ -9,4 +9,5 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: org-mode emacs
+
 a mode for document editing, formatting, and organizing within the free software text editor GNU [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]]  and its derivatives, designed for notes, planning, and authoring.
