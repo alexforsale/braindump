@@ -132,7 +132,7 @@ Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells 
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Option&amp;lt;T&amp;gt; is an enum that represents the presence or absence of a value. It is a fundamental type in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;&amp;rsquo;s approach to handling nullable values and potential errors, promoting explicit handling rather than implicit null pointers found in other languages.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>rust</title>
+      <title>rust hello world</title>
       <link>/braindump/posts/20240225102813-rust/</link>
       <pubDate>Sun, 25 Feb 2024 10:28:00 +0000</pubDate>
       <guid>/braindump/posts/20240225102813-rust/</guid>
