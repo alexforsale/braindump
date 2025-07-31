@@ -9,6 +9,33 @@
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Rust Comments</title>
+      <link>/braindump/post/2025-07-31_19-51-32-rust_comments/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_19-51-32-rust_comments/</guid>
+      <description>&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
+&lt;p&gt;All programmers strive to make their code easy to understand, but sometimes extra explanation is warranted. In these cases, programmers leave comments in their source code that the compiler will ignore but people reading the source code may find useful.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// hello, world
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In Rust, the idiomatic comment style starts a comment with two slashes, and the comment continues until the end of the line. For comments that extend beyond a single line, you’ll need to include &lt;code&gt;//&lt;/code&gt; on each line, like this:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rust Control Flow</title>
+      <link>/braindump/post/2025-07-31_19-53-36-rust_control_flow/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_19-53-36-rust_control_flow/</guid>
+      <description>&lt;h2 id=&#34;control-flow&#34;&gt;Control Flow&lt;/h2&gt;
+&lt;p&gt;The ability to run some code depending on whether a condition is &lt;code&gt;true&lt;/code&gt; and to run some code repeatedly while a condition is &lt;code&gt;true&lt;/code&gt; are basic building blocks in most programming languages. The most common constructs that let you control the flow of execution of &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; code are if expressions and loops.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rust Functions</title>
+      <link>/braindump/post/2025-07-31_19-49-54-rust_functions/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_19-49-54-rust_functions/</guid>
+      <description>&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
+&lt;p&gt;Functions are prevalent in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; code. You’ve already seen one of the most important functions in the language: the &lt;code&gt;main&lt;/code&gt; function, which is the entry point of many programs. You’ve also seen the &lt;code&gt;fn&lt;/code&gt; keyword, which allows you to declare new functions.&lt;/p&gt;
+&lt;p&gt;Rust code uses &lt;em&gt;snake case&lt;/em&gt; as the conventional style for function and variable names, in which all letters are lowercase and underscores separate words. Here’s a program that contains an example function definition:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>rust variables</title>
       <link>/braindump/post/2025-07-31_19-14-21-rust_variables/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
