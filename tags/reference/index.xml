@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reference on Braindump</title>
+    <link>/braindump/tags/reference/</link>
+    <description>Recent content in Reference on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rust resources</title>
+      <link>/braindump/posts/2025-07-31_22-50-41-rust_resources/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_22-50-41-rust_resources/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; free and online resources&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@letsgetrusty&#34;&gt;https://www.youtube.com/@letsgetrusty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

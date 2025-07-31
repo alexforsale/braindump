@@ -117,6 +117,17 @@
 &lt;p&gt;Ownership is &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;’s most unique feature and has deep implications for the rest of the language. It enables Rust to make memory safety guarantees without needing a garbage collector, so it’s important to understand how ownership works. In this chapter, we’ll talk about ownership as well as several related features: borrowing, slices, and how Rust lays data out in memory.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>rust resources</title>
+      <link>/braindump/posts/2025-07-31_22-50-41-rust_resources/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_22-50-41-rust_resources/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; free and online resources&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@letsgetrusty&#34;&gt;https://www.youtube.com/@letsgetrusty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>rust variables</title>
       <link>/braindump/posts/2025-07-31_19-14-21-rust_variables/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
