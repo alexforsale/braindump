@@ -27,6 +27,14 @@
 &lt;p&gt;The ability to run some code depending on whether a condition is &lt;code&gt;true&lt;/code&gt; and to run some code repeatedly while a condition is &lt;code&gt;true&lt;/code&gt; are basic building blocks in most programming languages. The most common constructs that let you control the flow of execution of &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; code are if expressions and loops.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rust Enums</title>
+      <link>/braindump/post/2025-07-31_20-06-17-rust_enums/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_20-06-17-rust_enums/</guid>
+      <description>&lt;h2 id=&#34;defining-enum&#34;&gt;Defining Enum&lt;/h2&gt;
+&lt;p&gt;Where &lt;em&gt;structs&lt;/em&gt; give you a way of grouping together related fields and data, like a &lt;code&gt;Rectangle&lt;/code&gt; with its width and height, &lt;em&gt;enums&lt;/em&gt; give you a way of saying a value is one of a possible set of values. For example, we may want to say that &lt;code&gt;Rectangle&lt;/code&gt; is one of a set of possible shapes that also includes &lt;code&gt;Circle&lt;/code&gt; and &lt;code&gt;Triangle&lt;/code&gt;. To do this, &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; allows us to encode these possibilities as an enum.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Rust Functions</title>
       <link>/braindump/post/2025-07-31_19-49-54-rust_functions/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -34,6 +42,14 @@
       <description>&lt;h2 id=&#34;functions&#34;&gt;Functions&lt;/h2&gt;
 &lt;p&gt;Functions are prevalent in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; code. You’ve already seen one of the most important functions in the language: the &lt;code&gt;main&lt;/code&gt; function, which is the entry point of many programs. You’ve also seen the &lt;code&gt;fn&lt;/code&gt; keyword, which allows you to declare new functions.&lt;/p&gt;
 &lt;p&gt;Rust code uses &lt;em&gt;snake case&lt;/em&gt; as the conventional style for function and variable names, in which all letters are lowercase and underscores separate words. Here’s a program that contains an example function definition:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rust Ownership</title>
+      <link>/braindump/post/2025-07-31_20-04-32-rust_ownership/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_20-04-32-rust_ownership/</guid>
+      <description>&lt;h2 id=&#34;understanding-ownership&#34;&gt;Understanding Ownership&lt;/h2&gt;
+&lt;p&gt;Ownership is &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;’s most unique feature and has deep implications for the rest of the language. It enables Rust to make memory safety guarantees without needing a garbage collector, so it’s important to understand how ownership works. In this chapter, we’ll talk about ownership as well as several related features: borrowing, slices, and how Rust lays data out in memory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>rust variables</title>
