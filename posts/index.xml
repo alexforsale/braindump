@@ -13,7 +13,7 @@
       <link>/braindump/posts/2025-07-31_22-13-46-i3wm/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-31_22-13-46-i3wm/</guid>
-      <description>&lt;p&gt;i3 is a tiling &lt;a href=&#34;/braindump/posts/2025-07-31_22-15-27-window_manager/&#34;&gt;window manager&lt;/a&gt;, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:&lt;/p&gt;
+      <description>&lt;p&gt;i3 is a tiling &lt;a href=&#34;/braindump/posts/2025-07-31_22-15-27-window_manager/&#34;&gt;window manager&lt;/a&gt;, completely written from scratch. The target platforms are &lt;a href=&#34;/braindump/posts/20240222232402-linux/&#34;&gt;GNU/Linux&lt;/a&gt; and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/post/i3_i3_improved_tiling_x11_window_manager/&#34;&gt;i3 website&lt;/a&gt;&lt;/li&gt;
