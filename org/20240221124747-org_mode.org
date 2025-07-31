@@ -4,7 +4,7 @@
 :END:
 #+title: org-mode
 #+author: Kristian Alexander P
-#+description: a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs and its derivatives.
+#+description:
 #+date: <2024-02-21 Wed 12:47>
 #+hugo_base_dir: ..
 #+hugo_section: posts
