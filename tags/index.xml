@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>I3</title>
+      <link>/braindump/tags/i3/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/i3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Libvirt</title>
       <link>/braindump/tags/libvirt/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -58,6 +65,13 @@
       <description></description>
     </item>
     <item>
+      <title>Unix</title>
+      <link>/braindump/tags/unix/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/unix/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Virtualization</title>
       <link>/braindump/tags/virtualization/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -69,6 +83,13 @@
       <link>/braindump/tags/vm/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/vm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Window-Manager</title>
+      <link>/braindump/tags/window-manager/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/window-manager/</guid>
       <description></description>
     </item>
     <item>
@@ -181,13 +202,6 @@
       <link>/braindump/tags/wayland/</link>
       <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
       <guid>/braindump/tags/wayland/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Window-Manager</title>
-      <link>/braindump/tags/window-manager/</link>
-      <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
-      <guid>/braindump/tags/window-manager/</guid>
       <description></description>
     </item>
     <item>

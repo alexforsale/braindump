@@ -6,8 +6,42 @@
     <description>Recent content in Window-Manager on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 09:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/window-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>i3 website</title>
+      <link>/braindump/post/i3_i3_improved_tiling_x11_window_manager/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/i3_i3_improved_tiling_x11_window_manager/</guid>
+      <description>&lt;h2 id=&#34;official-i3wm-website&#34;&gt;Official i3wm website&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&#34;/braindump/posts/2025-07-31_22-13-46-i3wm/&#34;&gt;i3wm&lt;/a&gt; tiling window manager.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;https://i3wm.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>i3wm</title>
+      <link>/braindump/posts/2025-07-31_22-13-46-i3wm/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_22-13-46-i3wm/</guid>
+      <description>&lt;p&gt;i3 is a tiling &lt;a href=&#34;/braindump/posts/2025-07-31_22-15-27-window_manager/&#34;&gt;window manager&lt;/a&gt;, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/post/i3_i3_improved_tiling_x11_window_manager/&#34;&gt;i3 website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>window-manager</title>
+      <link>/braindump/posts/2025-07-31_22-15-27-window_manager/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_22-15-27-window_manager/</guid>
+      <description>&lt;p&gt;Window managers are &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;X&lt;/a&gt; clients that control the appearance and behaviour of the frames (&amp;ldquo;windows&amp;rdquo;) where the various graphical applications are drawn.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_22-13-46-i3wm/&#34;&gt;i3wm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>hyprland</title>
       <link>/braindump/posts/20240225091349-hyprland/</link>
