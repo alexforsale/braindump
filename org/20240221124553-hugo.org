@@ -9,4 +9,4 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: hugo web
-Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. I use this for publishing my Org-mode notes in Emacs.
+Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again. I use this for publishing my [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]] notes in [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]].
