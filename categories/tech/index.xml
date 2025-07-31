@@ -9,11 +9,62 @@
     <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>libvirt</title>
+      <link>/braindump/posts/2025-07-31_21-46-40-libvirt/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-46-40-libvirt/</guid>
+      <description>&lt;h2 id=&#34;libvirt&#34;&gt;Libvirt&lt;/h2&gt;
+&lt;p&gt;Libvirt is a virtualization API that provides a consistent and unified way to manage different virtualization technologies like KVM, Xen, and &lt;a href=&#34;/braindump/posts/2025-07-31_21-47-28-qemu/&#34;&gt;QEMU&lt;/a&gt;. It offers a stable API, a daemon (libvirtd), and command-line tools (like &lt;a href=&#34;/braindump/posts/2025-07-31_21-48-37-virsh/&#34;&gt;virsh&lt;/a&gt;) for managing virtual machines and other virtualization features such as storage and networking.
+&lt;a href=&#34;/braindump/posts/2025-07-31_21-48-37-virsh/&#34;&gt;virsh&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-50-34-virt_manager/&#34;&gt;virt-manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-48-37-virsh/&#34;&gt;virsh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>org-roam</title>
       <link>/braindump/posts/2025-07-31_20-53-56-org_roam/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-31_20-53-56-org_roam/</guid>
       <description>A plain-text personal knowledge management system.</description>
+    </item>
+    <item>
+      <title>qemu</title>
+      <link>/braindump/posts/2025-07-31_21-47-28-qemu/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-47-28-qemu/</guid>
+      <description>&lt;h2 id=&#34;qemu&#34;&gt;Qemu&lt;/h2&gt;
+&lt;p&gt;QEMU is a free and open-source emulator and virtualizer. It allows users to run different operating systems and programs on various hardware architectures, effectively emulating a different computer system. It can be used as a standalone emulator or combined with other virtualization technologies like KVM for near-native performance.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>virsh</title>
+      <link>/braindump/posts/2025-07-31_21-48-37-virsh/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-48-37-virsh/</guid>
+      <description>&lt;h2 id=&#34;virsh&#34;&gt;virsh&lt;/h2&gt;
+&lt;p&gt;Virsh is a command-line interface (CLI) utility used for managing virtual machines (VMs) and other virtualization components, interacting with them through the &lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;Libvirt&lt;/a&gt; virtualization API. It allows users to create, manage, and control virtual machines, as well as interact with storage pools and networks within a virtualization environment.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>virt-manager</title>
+      <link>/braindump/posts/2025-07-31_21-50-34-virt_manager/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-50-34-virt_manager/</guid>
+      <description>&lt;h2 id=&#34;virt-manager&#34;&gt;virt-manager&lt;/h2&gt;
+&lt;p&gt;virt-manager is a graphical tool, a frontend, for managing virtual machines (VMs) using &lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;. It primarily works with KVM (Kernel-based Virtual Machine) but also supports Xen and LXC containers. It offers features like creating and configuring new VMs, managing existing ones, monitoring performance, and accessing virtual consoles.&lt;/p&gt;
+&lt;h2 id=&#34;windows-vm&#34;&gt;Windows VM&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I can only get native resolution for &lt;a href=&#34;/braindump/posts/20240225103030-windows/&#34;&gt;windows&lt;/a&gt; vm using QXL Video mode.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>noweb</title>

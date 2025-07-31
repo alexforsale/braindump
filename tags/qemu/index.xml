@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qemu on Braindump</title>
+    <link>/braindump/tags/qemu/</link>
+    <description>Recent content in Qemu on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/qemu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>qemu</title>
+      <link>/braindump/posts/2025-07-31_21-47-28-qemu/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-47-28-qemu/</guid>
+      <description>&lt;h2 id=&#34;qemu&#34;&gt;Qemu&lt;/h2&gt;
+&lt;p&gt;QEMU is a free and open-source emulator and virtualizer. It allows users to run different operating systems and programs on various hardware architectures, effectively emulating a different computer system. It can be used as a standalone emulator or combined with other virtualization technologies like KVM for near-native performance.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>virsh</title>
+      <link>/braindump/posts/2025-07-31_21-48-37-virsh/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-31_21-48-37-virsh/</guid>
+      <description>&lt;h2 id=&#34;virsh&#34;&gt;virsh&lt;/h2&gt;
+&lt;p&gt;Virsh is a command-line interface (CLI) utility used for managing virtual machines (VMs) and other virtualization components, interacting with them through the &lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;Libvirt&lt;/a&gt; virtualization API. It allows users to create, manage, and control virtual machines, as well as interact with storage pools and networks within a virtualization environment.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_21-46-40-libvirt/&#34;&gt;libvirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
