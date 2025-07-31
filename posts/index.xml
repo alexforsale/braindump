@@ -90,7 +90,7 @@ Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells 
       <link>/braindump/posts/2025-07-29_05-52-54-rust_struct/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-29_05-52-54-rust_struct/</guid>
-      <description>&lt;p&gt;Structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>rust vector</title>

@@ -16,7 +16,7 @@
       <description>&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
 &lt;p&gt;All programmers strive to make their code easy to understand, but sometimes extra explanation is warranted. In these cases, programmers leave comments in their source code that the compiler will ignore but people reading the source code may find useful.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;// hello, world
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In Rust, the idiomatic comment style starts a comment with two slashes, and the comment continues until the end of the line. For comments that extend beyond a single line, you’ll need to include &lt;code&gt;//&lt;/code&gt; on each line, like this:&lt;/p&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;, the idiomatic comment style starts a comment with two slashes, and the comment continues until the end of the line. For comments that extend beyond a single line, you’ll need to include &lt;code&gt;//&lt;/code&gt; on each line, like this:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rust Control Flow</title>
@@ -64,6 +64,13 @@ Key characteristics and concepts of programming languages include:&lt;/p&gt;
 &lt;p&gt;The set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in the language.&lt;/p&gt;
 &lt;h2 id=&#34;semantics&#34;&gt;Semantics&lt;/h2&gt;
 &lt;p&gt;The meaning of the instructions and how they are executed by the computer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rust struct</title>
+      <link>/braindump/posts/2025-07-29_05-52-54-rust_struct/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_05-52-54-rust_struct/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>perfect-number</title>
