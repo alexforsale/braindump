@@ -12,3 +12,7 @@
 #+hugo_tags: window-manager
 
 Window managers are [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][X]] clients that control the appearance and behaviour of the frames ("windows") where the various graphical applications are drawn.
+* types
+- tiling window manager
+- stacking window manager
+- dynamic window manager
