@@ -87,14 +87,17 @@ menu:
       name: Home
       url: ../
       weight: 10
+    - name: Braindump
+      url: ../braindump/
+      weight: 20
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 20
+      weight: 30
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 30
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
