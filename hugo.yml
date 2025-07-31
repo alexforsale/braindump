@@ -38,10 +38,6 @@ params:
   showtoc: false
   tocopen: false
   social: true
-  editPost:
-    URL: "https://github.com/alexforsale/braindump/org"
-    Text: "Suggest Changes"
-    appendFilePath: true
   comments: true
 
   profileMode:
