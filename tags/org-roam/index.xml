@@ -10,9 +10,9 @@
     <atom:link href="/braindump/tags/org-roam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>org-roam</title>
-      <link>/braindump/post/2025-07-31_20-53-56-org_roam/</link>
+      <link>/braindump/posts/2025-07-31_20-53-56-org_roam/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/2025-07-31_20-53-56-org_roam/</guid>
+      <guid>/braindump/posts/2025-07-31_20-53-56-org_roam/</guid>
       <description>A plain-text personal knowledge management system.</description>
     </item>
     <item>
@@ -23,7 +23,7 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
 &lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
-&lt;p&gt;Intricate &lt;a href=&#34;/braindump/post/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
+&lt;p&gt;Intricate &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>
