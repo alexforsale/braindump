@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       cd73371c-bc03-41e0-80e2-ed3c0e9d6770
 :END:
-#+title: video
+#+title: video formats
 #+author: Kristian Alexander P
 #+description: video
 #+date: <2024-03-09 Sat 01:03>
