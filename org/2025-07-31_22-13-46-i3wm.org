@@ -11,4 +11,4 @@
 #+property: header-args :exports both
 #+hugo_tags: window-manager
 
-i3 is a tiling [[id:39becf48-36e4-4acb-9d92-6e5356d0a236][window manager]], completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:
+i3 is a tiling [[id:39becf48-36e4-4acb-9d92-6e5356d0a236][window manager]], completely written from scratch. The target platforms are [[id:65db4594-b7ec-463b-9e97-64d080e44c12][GNU/Linux]] and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:
