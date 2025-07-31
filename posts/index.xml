@@ -164,6 +164,12 @@
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-31_22-15-27-window_manager/</guid>
       <description>&lt;p&gt;Window managers are &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;X&lt;/a&gt; clients that control the appearance and behaviour of the frames (&amp;ldquo;windows&amp;rdquo;) where the various graphical applications are drawn.&lt;/p&gt;
+&lt;h2 id=&#34;types&#34;&gt;types&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;tiling window manager&lt;/li&gt;
+&lt;li&gt;stacking window manager&lt;/li&gt;
+&lt;li&gt;dynamic window manager&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_22-13-46-i3wm/&#34;&gt;i3wm&lt;/a&gt;&lt;/li&gt;
