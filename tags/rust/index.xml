@@ -6,8 +6,26 @@
     <description>Recent content in Rust on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rust variables</title>
+      <link>/braindump/post/2025-07-31_19-14-21-rust_variables/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/2025-07-31_19-14-21-rust_variables/</guid>
+      <description>&lt;h2 id=&#34;immutable&#34;&gt;Immutable&lt;/h2&gt;
+&lt;p&gt;By default &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt; variables are immutable. Once a value is bound to a name, you can’t change that value. We can make a mutable variable using the keyword &lt;code&gt;mut&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;fn&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;mut&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The value of x is: &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{x}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The value of x is: &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{x}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The value of x is: 5
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The value of x is: 6
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;constant-dot&#34;&gt;Constant.&lt;/h2&gt;
+&lt;p&gt;Like immutable variables, constants are values that are bound to a name and are not allowed to change, but there are a few differences between constants and variables. First, you aren’t allowed to use &lt;code&gt;mut&lt;/code&gt; with constants. Constants aren’t just immutable by default—they’re always immutable. You declare constants using the &lt;code&gt;const&lt;/code&gt; keyword instead of the let keyword, and the type of the value must be annotated. We’ll cover types and type annotations in the next section, “&lt;a href=&#34;/braindump/posts/2025-07-29_00-36-29-rust_data_types/&#34;&gt;Data Types&lt;/a&gt;”, so don’t worry about the details right now. Just know that you must always annotate the type.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>rust</title>
       <link>/braindump/posts/2025-07-29_00-38-11-rust/</link>
@@ -25,15 +43,11 @@ Key characteristics of Rust include:&lt;/p&gt;
       <link>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</guid>
-      <description>&lt;p&gt;Data types for&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Data types for&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.
+Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells Rust what kind of data is being specified so it knows how to work with that data.&lt;/p&gt;
+&lt;p&gt;Keep in mind that Rust is a &lt;em&gt;statically typed&lt;/em&gt; language, which means that it must know the types of all variables at compile time.&lt;/p&gt;
 &lt;h2 id=&#34;scalar-types&#34;&gt;Scalar Types&lt;/h2&gt;
-&lt;h3 id=&#34;integers&#34;&gt;Integers&lt;/h3&gt;
-&lt;h3 id=&#34;floating-points&#34;&gt;Floating Points&lt;/h3&gt;
-&lt;h3 id=&#34;boolean-type&#34;&gt;Boolean Type&lt;/h3&gt;
-&lt;h3 id=&#34;character-type&#34;&gt;Character Type&lt;/h3&gt;
-&lt;h2 id=&#34;compound-types&#34;&gt;Compound Types&lt;/h2&gt;
-&lt;h3 id=&#34;tuple-type&#34;&gt;Tuple Type&lt;/h3&gt;
-&lt;h3 id=&#34;array-type&#34;&gt;Array Type&lt;/h3&gt;</description>
+&lt;p&gt;A &lt;em&gt;scalar type&lt;/em&gt; represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters. You may recognize these from other programming languages. Let’s jump into how they work in Rust.&lt;/p&gt;</description>
     </item>
     <item>
       <title>rust struct</title>
