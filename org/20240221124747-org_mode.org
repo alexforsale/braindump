@@ -10,6 +10,6 @@
 #+hugo_categories: tech
 #+hugo_tags: org emacs
 
-a mode for document editing, formatting, and organizing within the free software text editor GNU [[id:6c637406-817f-4e9b-b45c-457f377acb12][emacs]] and its derivatives, designed for notes, planning, and authoring.
+a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs  and its derivatives, designed for notes, planning, and authoring.
 * Using Property in headline
-[[id:6811d132-0210-4fc4-8b3d-22390c82cb84][org-agenda]] will automatically show the =CATEGORY= property if it is set.
+Org-agenda will automatically show the =CATEGORY= property if it is set.

@@ -10,4 +10,4 @@
 #+hugo_categories: reference
 #+hugo_tags: org-roam org-mode emacs
 
-* jethrokua [[id:c8940b5c-00a2-4968-a0f4-d960f39a72f3][org-roam]] configuration
+* jethrokua Org-roam configuration
