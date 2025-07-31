@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9065a11f-d362-468c-9c31-cfdce3c297bc
+:END:
+#+title: rust resources
+#+author: Kristian Alexander P
+#+date: <2025-07-31 Thu>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming reference
+[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] free and online resources
+* Links
+- https://www.youtube.com/@letsgetrusty
