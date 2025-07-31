@@ -12,4 +12,4 @@
 
 a mode for document editing, formatting, and organizing within the free software text editor GNU [[id:6c637406-817f-4e9b-b45c-457f377acb12][emacs]] and its derivatives, designed for notes, planning, and authoring.
 * Using Property in headline
-[[id:df205d97-7b1f-4795-9f5a-ae4b5a818dff][org-agenda]] will automatically show the =CATEGORY= property if it is set.
+[[id:6811d132-0210-4fc4-8b3d-22390c82cb84][org-agenda]] will automatically show the =CATEGORY= property if it is set.
