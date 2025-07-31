@@ -22,7 +22,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
@@ -38,6 +38,11 @@ params:
   showtoc: false
   tocopen: false
   social: true
+  editPost:
+    URL: "https://github.com/alexforsale/braindump/org"
+    Text: "Suggest Changes"
+    appendFilePath: true
+  comments: true
 
   profileMode:
     enabled: false # needs to be explicitly set
@@ -57,6 +62,8 @@ params:
       - name: Categories
         url: categories
 
+  HomeInfoParams:
+    Title: "Braindump"
   socialIcons:
     - name: github
       url: "https://github.com/alexforsale"
@@ -86,3 +93,13 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+services:
+  disqus:
+    shortname: alexforsale

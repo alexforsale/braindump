@@ -1,0 +1,8 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil
+#+author: Kristian Alexander P
+#+hugo_section: /
+#+hugo_base_dir: ../
+#+date: <2024-02-28>
+#+title: search
+#+hugo_custom_front_matter: :layout search :placeholder "Search..."
+* search
