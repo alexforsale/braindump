@@ -9,4 +9,4 @@
 #+hugo_section: posts
 #+hugo_categories: tech
 #+hugo_tags: org-roam org-mode emacs
-Org-roam is a tool for networked thought. It reproduces some of Roam Research's 1 key features within [[id:78ca4732-19ca-474b-8964-4f345cc4cf1f][Org-mode]]. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking in [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] fun and easy.
+Org-roam is a tool for networked thought. It reproduces some of Roam Research's 1 key features within [[id:78ca4732-19ca-474b-8964-4f345cc4cf1f][Org-mode]]. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking in [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]] fun and easy.
