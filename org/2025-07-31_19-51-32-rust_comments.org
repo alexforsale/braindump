@@ -17,7 +17,7 @@ All programmers strive to make their code easy to understand, but sometimes extr
   // hello, world
 #+end_src
 
-In Rust, the idiomatic comment style starts a comment with two slashes, and the comment continues until the end of the line. For comments that extend beyond a single line, you’ll need to include =//= on each line, like this:
+In [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]], the idiomatic comment style starts a comment with two slashes, and the comment continues until the end of the line. For comments that extend beyond a single line, you’ll need to include =//= on each line, like this:
 
 #+begin_src rust
   // So we're doing something complicated here, long enough that we need

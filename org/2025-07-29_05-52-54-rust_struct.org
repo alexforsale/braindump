@@ -7,10 +7,10 @@
 #+hugo_base_dir: ..
 #+hugo_section: posts
 #+hugo_categories: programming
-#+hugo_tags: rust
+#+hugo_tags: rust programming
 #+property: header-args :exports both
 
-Structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.
+[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.
 
 #+begin_src rust
   #[derive(Debug)]
