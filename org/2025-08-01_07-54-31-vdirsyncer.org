@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c0098c14-80f3-40d7-9c1b-9c97306809d0
+:END:
+#+title: vdirsyncer
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: unix linux calendar service
+* vdirsyncer
+Vdirsyncer is a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. The most popular usecase is to synchronize a server with a local folder and use a set of other programs to change the local events and contacts. Vdirsyncer can then synchronize those changes back to the server.
