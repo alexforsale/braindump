@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       283be2c0-f804-4e6f-ae5c-02f4152e0aaf
+:END:
+#+title: Personal knowledge management
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: lifehack
+#+property: header-args :exports both
+#+hugo_tags: knowledge-management
+
+Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities and the way in which these processes support work activities.

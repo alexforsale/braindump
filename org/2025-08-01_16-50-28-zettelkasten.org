@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f8a1e554-99ba-41e3-9e24-d86a70febef0
+:END:
+#+title: zettelkasten
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: lifehack
+#+property: header-args :exports both
+#+hugo_tags: zettelkasten
+* Zettelkasten
+A /Zettelkasten/ (German: 'slipbox', plural /Zettelkästen/) or card file consists of small items of information stored on /Zetteln/ (German: 'slips'), paper slips or cards, that may be linked to each other through subject headings or other metadata such as numbers and tags. It has often been used as a system of note-taking and [[id:283be2c0-f804-4e6f-ae5c-02f4152e0aaf][personal knowledge management]] for research, study, and writing.
+
+This is the basis for [[id:1d560727-4c96-4cee-81b5-a6fedb9fc756][org-roam]].

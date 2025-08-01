@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b20bc2b0-91ca-437c-ba80-4865427fcb53
+:ROAM_REFS: https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/
+:END:
+#+title: Molecular Notes: Principles · Reasonable Deviations
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: knowledge-management
+
+* Second brain
+- Another [[id:283be2c0-f804-4e6f-ae5c-02f4152e0aaf][personal knowledge management]]?
+
+
+* Links
+- [[https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/]]
