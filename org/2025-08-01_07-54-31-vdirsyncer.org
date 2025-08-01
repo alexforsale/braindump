@@ -12,3 +12,84 @@
 #+hugo_tags: unix linux calendar service
 * vdirsyncer
 Vdirsyncer is a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. The most popular usecase is to synchronize a server with a local folder and use a set of other programs to change the local events and contacts. Vdirsyncer can then synchronize those changes back to the server.
+* config
+
+#+name: vdirsyncer
+#+caption: vdirsyncer configuration
+#+begin_src conf
+  # An example configuration for vdirsyncer.
+  #
+  # Move it to ~/.vdirsyncer/config or ~/.config/vdirsyncer/config and edit it.
+  # Run `vdirsyncer --help` for CLI usage.
+  #
+  # Optional parameters are commented out.
+  # This file doesn't document all available parameters, see
+  # http://vdirsyncer.pimutils.org/ for the rest of them.
+
+  [general]
+  # A folder where vdirsyncer can store some metadata about each pair.
+  status_path = "~/.local/share/vdirsyncer/status/"
+
+  # CARDDAV
+  [pair alexarians_contacts]
+  # A `[pair <name>]` block defines two storages `a` and `b` that should be
+  # synchronized. The definition of these storages follows in `[storage <name>]`
+  # blocks. This is similar to accounts in OfflineIMAP.
+  a = "alexarians_contacts_local"
+  b = "alexarians_contacts_remote"
+
+  # Synchronize all collections that can be found.
+  # You need to run `vdirsyncer discover` if new calendars/addressbooks are added
+  # on the server.
+  collections = ["from a", "from b"]
+
+  # Synchronize the "display name" property into a local file (~/.contacts/displayname).
+  metadata = ["displayname", "description"]
+
+  # To resolve a conflict the following values are possible:
+  #   `null` - abort when collisions occur (default)
+  #   `"a wins"` - assume a's items to be more up-to-date
+  #   `"b wins"` - assume b's items to be more up-to-date
+  #conflict_resolution = null
+
+  [storage alexarians_contacts_local]
+  # A storage references actual data on a remote server or on the local disk.
+  # Similar to repositories in OfflineIMAP.
+  type = "filesystem"
+  path = "~/.contacts/"
+  fileext = ".vcf"
+
+  [storage alexarians_contacts_remote]
+  type = "google_contacts"
+  token_file = "~/.local/share/vdirsyncer/google_contacts_token"
+  client_id = "<Client ID from Google developer console>"
+  client_secret = "<Client secret from Google developer console>"
+
+  #username =
+  # The password can also be fetched from the system password storage, netrc or a
+  # custom command. See http://vdirsyncer.pimutils.org/en/stable/keyring.html
+  #password =
+
+  # CALDAV
+  [pair alexarians_calendar]
+  a = "alexarians_calendar_local"
+  b = "alexarians_calendar_remote"
+  collections = ["from a", "from b"]
+
+  # Calendars also have a color property
+  metadata = ["displayname", "color"]
+
+  [storage alexarians_calendar_local]
+  type = "filesystem"
+  path = "~/.calendars/"
+  fileext = ".ics"
+
+  [storage alexarians_calendar_remote]
+  type = "google_calendar"
+  token_file = "~/.local/share/vdirsyncer/google_calendar_token"
+  client_id = "<Client ID from Google developer console>"
+  client_secret = "<Client secret from Google developer console>"
+  #url = "https://owncloud.example.com/remote.php/caldav/"
+  #username =
+  #password =
+#+end_src

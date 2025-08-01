@@ -12,3 +12,24 @@
 #+hugo_tags: unix linux calendar terminal
 * Khal
 Khal is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through [[id:c0098c14-80f3-40d7-9c1b-9c97306809d0][vdirsyncer]].
+* configuration
+#+name: khal
+#+caption: khal configuration
+#+begin_src conf
+  [calendars]
+
+  [[personal]]
+  path = /home/alexforsale/.calendars/*
+  type = discover
+  color = auto
+
+  [locale]
+  timeformat = %H:%M
+  dateformat = %Y-%m-%d
+  longdateformat = %Y-%m-%d %a
+  datetimeformat = %Y-%m-%d %H:%M
+  longdatetimeformat = %Y-%m-%d %H:%M
+
+  [default]
+  default_calendar = alexarians@gmail.com
+#+end_src
