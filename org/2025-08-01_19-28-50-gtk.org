@@ -1,0 +1,73 @@
+:PROPERTIES:
+:ID:       241982ae-1d36-4a3c-8ff7-c9dc39fcaf14
+:END:
+#+title: gtk
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: gtk widgets toolkit
+
+GTK, or the [[id:c491fd18-06f3-45fa-8406-78c4ca93cb03][GIMP]] Toolkit, is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off tools to complete application suites
+
+GTK was initially made by the GNU Project for GIMP, but it is now a very popular toolkit with bindings for many languages. This article will explore the tools used to configure the GTK theme, style, icon, [[id:b7e435c2-0a2b-426a-9c8b-1b29d85e6b01][font]] and font size, and also detail manual configuration.
+* Configuration
+** GTK-3
+#+name: gtk command line
+#+caption: gtk command line using gsettings
+#+begin_src sh :tangle no
+  gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
+  gsettings set org.gnome.desktop.interface gtk-theme "Breeze-Dark"
+  gsettings set org.gnome.desktop.interface icon-theme "Papirus"
+  gsettings set org.gnome.desktop.interface gtk-key-theme "Emacs"
+#+end_src
+
+#+name: configuration file for gtk-3.0
+#+caption: ~~/.config/gtk-3.0/settings.ini~
+#+begin_src conf
+  [Settings]
+  gtk-theme-name=Breeze-Dark
+  gtk-cursor-theme-size=0
+  gtk-toolbar-style=GTK_TOOLBAR_BOTH
+  gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
+  gtk-button-images=1
+  gtk-menu-images=1
+  gtk-enable-event-sounds=1
+  gtk-enable-input-feedback-sounds=1
+  gtk-xft-antialias=1
+  gtk-xft-hinting=1
+  gtk-xft-hintstyle=hintfull
+  gtk-key-theme-name=Emacs
+  gtk-font-name=JetBrainsMonoNL Nerd Font Mono 8
+  gtk-sound-theme-name=freedesktop
+  gtk-icon-theme-name=Papirus
+  gtk-cursor-theme-name=Bibata-Modern-Classic
+  gtk-application-prefer-dark-theme=1
+  gtk-xft-rgba=rgb
+#+end_src
+** GTK-4
+#+name: configuration fro gtk-4.0
+#+caption: ~~/.config/gtk-4.0/settings.ini~
+#+begin_src conf
+  [Settings]
+  gtk-theme-name=Breeze-Dark
+  gtk-cursor-theme-size=0
+  gtk-toolbar-style=GTK_TOOLBAR_BOTH
+  gtk-toolbar-icon-size=GTK_ICON_SIZE_LARGE_TOOLBAR
+  gtk-button-images=1
+  gtk-menu-images=1
+  gtk-enable-event-sounds=1
+  gtk-enable-input-feedback-sounds=1
+  gtk-xft-antialias=1
+  gtk-xft-hinting=1
+  gtk-xft-hintstyle=hintfull
+  gtk-key-theme-name=Emacs
+  gtk-font-name=JetBrainsMonoNL Nerd Font Mono, 8
+  gtk-sound-theme-name=freedesktop
+  gtk-icon-theme-name=Papirus
+  gtk-cursor-theme-name=Bibata-Modern-Classic
+  gtk-application-prefer-dark-theme=1
+#+end_src

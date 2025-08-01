@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c491fd18-06f3-45fa-8406-78c4ca93cb03
+:END:
+#+title: gimp
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: gimp image gnome
+
+GIMP is a powerful raster image editing program, and commonly used for photo retouching, image composition, and general graphic design work. It can be used as a simple paint program, an expert quality photo retouching program, an online batch processing system, a mass production image renderer, an image format converter, etc.

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a82a0814-d7f5-46ee-a358-ce1d298c9ed3
+:END:
+#+title: neovim
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: terminal editor
+Neovim is a fork of [[id:714351d4-0ec0-458d-9204-681ff24e0e33][Vim]] aiming to improve the codebase, allowing for easier implementation of APIs, improved user experience and plugin implementation. Neovim inspired editors like Helix.
