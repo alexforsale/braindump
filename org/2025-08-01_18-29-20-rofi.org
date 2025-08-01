@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       253996fc-4a2d-4742-b149-7f971e3bb062
+:END:
+#+title: rofi
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: rofi window-switcher
+
+Rofi is a window switcher, run dialog, ssh-launcher and [[id:5b98a2b0-c3af-409d-ad95-1d1f0c3614da][dmenu]] replacement. Rofi is mainly used on [[id:3ce7a6a5-ae8b-4e02-9959-9b3e8d9705ac][Xorg]], but a patch has been made available so it can also be used in [[id:3492ec38-6a97-4bd1-8c9c-65c091e0aeb1][wayland]].

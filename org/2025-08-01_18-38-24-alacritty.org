@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e21e162b-194b-4d5a-884b-e75703cf5c1a
+:END:
+#+title: alacritty
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: terminal
+Alacritty is a simple, GPU-accelerated terminal emulator written in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]]. It supports scrollback, 24-bit colors, copy/paste, clicking on URLs, and custom key bindings.

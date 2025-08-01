@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d50752d3-01e0-4fd1-a8bf-960860d83924
+:END:
+#+title: mpd
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: mpd music
+
+MPD (music player daemon) is an audio player that has a server-client architecture. It plays [[id:0e4b5c15-bdde-4939-ab24-6fd35f085281][audio]] files, organizes playlists and maintains a music database, all while using very few resources. In order to interface with it, a separate client is needed.

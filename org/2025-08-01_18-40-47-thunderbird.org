@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       6fe689ad-51e2-4d1a-8d31-becc2c28fe39
+:END:
+#+title: thunderbird
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: thunderbird mail-client
+Thunderbird is an open source email, news, and chat client previously developed by the Mozilla Foundation.

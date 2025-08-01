@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       eea5ffbf-688d-45b3-862a-9eb14c903d7b
+:END:
+#+title: ncmpcpp
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: music mpd
+
+Ncmpcpp is an [[id:d50752d3-01e0-4fd1-a8bf-960860d83924][mpd]] client (compatible with mopidy) with a UI very similar to ncmpc, but it provides new useful features such as support for regular expressions for library searches, extended song format, items filtering, the ability to sort playlists, and a local filesystem browser.
+
+To use it, a functional mpd must be present on the system since ncmpcpp/mpd work together in a client/server relationship.

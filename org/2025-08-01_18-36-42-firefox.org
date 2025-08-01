@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2cd80fe5-fc50-4ba8-8416-5a9d2af2ad06
+:END:
+#+title: firefox
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: web-browser
+
+Firefox is a popular open source graphical web browser from Mozilla.
