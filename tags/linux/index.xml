@@ -6,8 +6,28 @@
     <description>Recent content in Linux on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 09:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>khal</title>
+      <link>/braindump/posts/2025-08-01_08-07-10-khal/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_08-07-10-khal/</guid>
+      <description>&lt;h2 id=&#34;khal&#34;&gt;Khal&lt;/h2&gt;
+&lt;p&gt;Khal is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through &lt;a href=&#34;/braindump/posts/2025-08-01_07-54-31-vdirsyncer/&#34;&gt;vdirsyncer&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vdirsyncer</title>
+      <link>/braindump/posts/2025-08-01_07-54-31-vdirsyncer/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_07-54-31-vdirsyncer/</guid>
+      <description>&lt;h2 id=&#34;vdirsyncer&#34;&gt;vdirsyncer&lt;/h2&gt;
+&lt;p&gt;Vdirsyncer is a command-line tool for synchronizing calendars and addressbooks between a variety of servers and the local filesystem. The most popular usecase is to synchronize a server with a local folder and use a set of other programs to change the local events and contacts. Vdirsyncer can then synchronize those changes back to the server.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_08-07-10-khal/&#34;&gt;khal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>hyprland</title>
       <link>/braindump/posts/20240225091349-hyprland/</link>

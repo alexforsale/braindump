@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>/braindump/categories/tech/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/categories/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Programming</title>
       <link>/braindump/categories/programming/</link>
@@ -20,13 +27,6 @@
       <link>/braindump/categories/reference/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/categories/reference/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>/braindump/categories/tech/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/categories/tech/</guid>
       <description></description>
     </item>
   </channel>

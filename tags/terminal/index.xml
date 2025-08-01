@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Terminal on Braindump</title>
+    <link>/braindump/tags/terminal/</link>
+    <description>Recent content in Terminal on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>khal</title>
+      <link>/braindump/posts/2025-08-01_08-07-10-khal/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_08-07-10-khal/</guid>
+      <description>&lt;h2 id=&#34;khal&#34;&gt;Khal&lt;/h2&gt;
+&lt;p&gt;Khal is a standards based CLI and terminal calendar program, able to synchronize with CalDAV servers through &lt;a href=&#34;/braindump/posts/2025-08-01_07-54-31-vdirsyncer/&#34;&gt;vdirsyncer&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
