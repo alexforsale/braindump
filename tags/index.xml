@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Dmenu</title>
+      <link>/braindump/tags/dmenu/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/dmenu/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Knowledge-Management</title>
       <link>/braindump/tags/knowledge-management/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -30,10 +37,38 @@
       <description></description>
     </item>
     <item>
+      <title>Mail-Client</title>
+      <link>/braindump/tags/mail-client/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/mail-client/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mpd</title>
+      <link>/braindump/tags/mpd/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/mpd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>/braindump/tags/music/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/music/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Programming</title>
       <link>/braindump/tags/programming/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rofi</title>
+      <link>/braindump/tags/rofi/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/rofi/</guid>
       <description></description>
     </item>
     <item>
@@ -58,10 +93,31 @@
       <description></description>
     </item>
     <item>
+      <title>Thunderbird</title>
+      <link>/braindump/tags/thunderbird/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/thunderbird/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Unix</title>
       <link>/braindump/tags/unix/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/unix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Browser</title>
+      <link>/braindump/tags/web-browser/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/web-browser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Window-Switcher</title>
+      <link>/braindump/tags/window-switcher/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/window-switcher/</guid>
       <description></description>
     </item>
     <item>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Window-Switcher on Braindump</title>
+    <link>/braindump/tags/window-switcher/</link>
+    <description>Recent content in Window-Switcher on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/window-switcher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dmenu</title>
+      <link>/braindump/posts/2025-08-01_18-33-27-dmenu/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-33-27-dmenu/</guid>
+      <description>&lt;p&gt;dmenu is a fast and lightweight dynamic menu for &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;X&lt;/a&gt;. It reads arbitrary text from stdin, and creates a menu with one item for each line. The user can then select an item, through the arrow keys or typing a part of the name, and the line is printed to stdout. dmenu_run is a wrapper that ships with the dmenu distribution that allows its use as an application launcher.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_18-29-20-rofi/&#34;&gt;rofi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>rofi</title>
+      <link>/braindump/posts/2025-08-01_18-29-20-rofi/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-29-20-rofi/</guid>
+      <description>&lt;p&gt;Rofi is a window switcher, run dialog, ssh-launcher and &lt;a href=&#34;/braindump/posts/2025-08-01_18-33-27-dmenu/&#34;&gt;dmenu&lt;/a&gt; replacement. Rofi is mainly used on &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;Xorg&lt;/a&gt;, but a patch has been made available so it can also be used in &lt;a href=&#34;/braindump/posts/20240222215322-wayland/&#34;&gt;wayland&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

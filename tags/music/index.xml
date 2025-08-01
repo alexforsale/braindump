@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Music on Braindump</title>
+    <link>/braindump/tags/music/</link>
+    <description>Recent content in Music on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mpd</title>
+      <link>/braindump/posts/2025-08-01_18-17-35-mpd/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-17-35-mpd/</guid>
+      <description>&lt;p&gt;MPD (music player daemon) is an audio player that has a server-client architecture. It plays &lt;a href=&#34;/braindump/posts/20240309010156-audio/&#34;&gt;audio&lt;/a&gt; files, organizes playlists and maintains a music database, all while using very few resources. In order to interface with it, a separate client is needed.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_18-22-37-ncmpcpp/&#34;&gt;ncmpcpp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ncmpcpp</title>
+      <link>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</guid>
+      <description>&lt;p&gt;Ncmpcpp is an &lt;a href=&#34;/braindump/posts/2025-08-01_18-17-35-mpd/&#34;&gt;mpd&lt;/a&gt; client (compatible with mopidy) with a UI very similar to ncmpc, but it provides new useful features such as support for regular expressions for library searches, extended song format, items filtering, the ability to sort playlists, and a local filesystem browser.&lt;/p&gt;
+&lt;p&gt;To use it, a functional mpd must be present on the system since ncmpcpp/mpd work together in a client/server relationship.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

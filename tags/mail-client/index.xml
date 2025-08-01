@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mail-Client on Braindump</title>
+    <link>/braindump/tags/mail-client/</link>
+    <description>Recent content in Mail-Client on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/mail-client/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>thunderbird</title>
+      <link>/braindump/posts/2025-08-01_18-40-47-thunderbird/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-40-47-thunderbird/</guid>
+      <description>&lt;p&gt;Thunderbird is an open source email, news, and chat client previously developed by the Mozilla Foundation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/posts/2025-08-01_18-38-24-alacritty/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,15 @@
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_18-33-27-dmenu/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/dmenu/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_18-36-42-firefox/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_08-07-10-khal/</loc>
@@ -23,7 +35,22 @@
     <loc>/braindump/tags/linux/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/tags/mail-client/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/post/molecular_notes_principles_reasonable_deviations/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_18-17-35-mpd/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/mpd/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/music/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</loc>
@@ -44,6 +71,12 @@
     <loc>/braindump/categories/reference/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/posts/2025-08-01_18-29-20-rofi/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/rofi/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/tags/rust/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,10 +95,22 @@
     <loc>/braindump/tags/terminal/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/posts/2025-08-01_18-40-47-thunderbird/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/thunderbird/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/tags/unix/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_07-54-31-vdirsyncer/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/web-browser/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/window-switcher/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_16-50-28-zettelkasten/</loc>

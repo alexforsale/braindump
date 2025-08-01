@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>alacritty</title>
+      <link>/braindump/posts/2025-08-01_18-38-24-alacritty/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-38-24-alacritty/</guid>
+      <description>&lt;p&gt;Alacritty is a simple, GPU-accelerated terminal emulator written in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;. It supports scrollback, 24-bit colors, copy/paste, clicking on URLs, and custom key bindings.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>khal</title>
       <link>/braindump/posts/2025-08-01_08-07-10-khal/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>

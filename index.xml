@@ -9,6 +9,31 @@
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>alacritty</title>
+      <link>/braindump/posts/2025-08-01_18-38-24-alacritty/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-38-24-alacritty/</guid>
+      <description>&lt;p&gt;Alacritty is a simple, GPU-accelerated terminal emulator written in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;. It supports scrollback, 24-bit colors, copy/paste, clicking on URLs, and custom key bindings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>dmenu</title>
+      <link>/braindump/posts/2025-08-01_18-33-27-dmenu/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-33-27-dmenu/</guid>
+      <description>&lt;p&gt;dmenu is a fast and lightweight dynamic menu for &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;X&lt;/a&gt;. It reads arbitrary text from stdin, and creates a menu with one item for each line. The user can then select an item, through the arrow keys or typing a part of the name, and the line is printed to stdout. dmenu_run is a wrapper that ships with the dmenu distribution that allows its use as an application launcher.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_18-29-20-rofi/&#34;&gt;rofi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>firefox</title>
+      <link>/braindump/posts/2025-08-01_18-36-42-firefox/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-36-42-firefox/</guid>
+      <description>&lt;p&gt;Firefox is a popular open source graphical web browser from Mozilla.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>khal</title>
       <link>/braindump/posts/2025-08-01_08-07-10-khal/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -53,6 +78,25 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>mpd</title>
+      <link>/braindump/posts/2025-08-01_18-17-35-mpd/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-17-35-mpd/</guid>
+      <description>&lt;p&gt;MPD (music player daemon) is an audio player that has a server-client architecture. It plays &lt;a href=&#34;/braindump/posts/20240309010156-audio/&#34;&gt;audio&lt;/a&gt; files, organizes playlists and maintains a music database, all while using very few resources. In order to interface with it, a separate client is needed.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_18-22-37-ncmpcpp/&#34;&gt;ncmpcpp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ncmpcpp</title>
+      <link>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</guid>
+      <description>&lt;p&gt;Ncmpcpp is an &lt;a href=&#34;/braindump/posts/2025-08-01_18-17-35-mpd/&#34;&gt;mpd&lt;/a&gt; client (compatible with mopidy) with a UI very similar to ncmpc, but it provides new useful features such as support for regular expressions for library searches, extended song format, items filtering, the ability to sort playlists, and a local filesystem browser.&lt;/p&gt;
+&lt;p&gt;To use it, a functional mpd must be present on the system since ncmpcpp/mpd work together in a client/server relationship.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Personal knowledge management</title>
       <link>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -66,12 +110,26 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>rofi</title>
+      <link>/braindump/posts/2025-08-01_18-29-20-rofi/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-29-20-rofi/</guid>
+      <description>&lt;p&gt;Rofi is a window switcher, run dialog, ssh-launcher and &lt;a href=&#34;/braindump/posts/2025-08-01_18-33-27-dmenu/&#34;&gt;dmenu&lt;/a&gt; replacement. Rofi is mainly used on &lt;a href=&#34;/braindump/posts/20240220160349-xorg/&#34;&gt;Xorg&lt;/a&gt;, but a patch has been made available so it can also be used in &lt;a href=&#34;/braindump/posts/20240222215322-wayland/&#34;&gt;wayland&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>rust cargo</title>
       <link>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</guid>
       <description>&lt;h2 id=&#34;cargo&#34;&gt;Cargo&lt;/h2&gt;
 &lt;p&gt;Cargo is the &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; package manager. Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages, and uploads them to crates.io, the Rust community’s package registry. You can contribute to this book on GitHub.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>thunderbird</title>
+      <link>/braindump/posts/2025-08-01_18-40-47-thunderbird/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_18-40-47-thunderbird/</guid>
+      <description>&lt;p&gt;Thunderbird is an open source email, news, and chat client previously developed by the Mozilla Foundation.&lt;/p&gt;</description>
     </item>
     <item>
       <title>vdirsyncer</title>
