@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       41df5a4f-ed71-4205-afe1-927135ec9641
+:END:
+#+title: rust cargo
+#+author: Kristian Alexander P
+#+date: <2025-08-01 Fri>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming
+* Cargo
+Cargo is the [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] package manager. Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages, and uploads them to crates.io, the Rust community’s package registry. You can contribute to this book on GitHub.
