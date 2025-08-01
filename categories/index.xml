@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lifehack</title>
+      <link>/braindump/categories/lifehack/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/categories/lifehack/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Programming</title>
       <link>/braindump/categories/programming/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -16,17 +23,17 @@
       <description></description>
     </item>
     <item>
+      <title>Reference</title>
+      <link>/braindump/categories/reference/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/categories/reference/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tech</title>
       <link>/braindump/categories/tech/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/categories/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reference</title>
-      <link>/braindump/categories/reference/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/categories/reference/</guid>
       <description></description>
     </item>
   </channel>

@@ -39,6 +39,32 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>Molecular Notes: Principles · Reasonable Deviations</title>
+      <link>/braindump/post/molecular_notes_principles_reasonable_deviations/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/molecular_notes_principles_reasonable_deviations/</guid>
+      <description>&lt;h2 id=&#34;second-brain&#34;&gt;Second brain&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Another &lt;a href=&#34;/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/&#34;&gt;personal knowledge management&lt;/a&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/&#34;&gt;https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Personal knowledge management</title>
+      <link>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</guid>
+      <description>&lt;p&gt;Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities and the way in which these processes support work activities.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/post/molecular_notes_principles_reasonable_deviations/&#34;&gt;Molecular Notes: Principles · Reasonable Deviations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_16-50-28-zettelkasten/&#34;&gt;zettelkasten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>rust cargo</title>
       <link>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -138,6 +164,15 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_08-07-10-khal/&#34;&gt;khal&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>zettelkasten</title>
+      <link>/braindump/posts/2025-08-01_16-50-28-zettelkasten/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_16-50-28-zettelkasten/</guid>
+      <description>&lt;h2 id=&#34;zettelkasten&#34;&gt;Zettelkasten&lt;/h2&gt;
+&lt;p&gt;A &lt;em&gt;Zettelkasten&lt;/em&gt; (German: &amp;lsquo;slipbox&amp;rsquo;, plural &lt;em&gt;Zettelkästen&lt;/em&gt;) or card file consists of small items of information stored on &lt;em&gt;Zetteln&lt;/em&gt; (German: &amp;lsquo;slips&amp;rsquo;), paper slips or cards, that may be linked to each other through subject headings or other metadata such as numbers and tags. It has often been used as a system of note-taking and &lt;a href=&#34;/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/&#34;&gt;personal knowledge management&lt;/a&gt; for research, study, and writing.&lt;/p&gt;
+&lt;p&gt;This is the basis for &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>i3 website</title>

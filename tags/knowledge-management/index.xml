@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Braindump</title>
-    <link>/braindump/post/</link>
-    <description>Recent content in Posts on Braindump</description>
+    <title>Knowledge-Management on Braindump</title>
+    <link>/braindump/tags/knowledge-management/</link>
+    <description>Recent content in Knowledge-Management on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/braindump/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/braindump/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Molecular Notes: Principles · Reasonable Deviations</title>
       <link>/braindump/post/molecular_notes_principles_reasonable_deviations/</link>
@@ -23,15 +23,15 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>i3 website</title>
-      <link>/braindump/post/i3_i3_improved_tiling_x11_window_manager/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/i3_i3_improved_tiling_x11_window_manager/</guid>
-      <description>&lt;h2 id=&#34;official-i3wm-website&#34;&gt;Official i3wm website&lt;/h2&gt;
-&lt;p&gt;The &lt;a href=&#34;/braindump/posts/2025-07-31_22-13-46-i3wm/&#34;&gt;i3wm&lt;/a&gt; tiling window manager.&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+      <title>Personal knowledge management</title>
+      <link>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</guid>
+      <description>&lt;p&gt;Personal knowledge management (PKM) is a process of collecting information that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities and the way in which these processes support work activities.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://i3wm.org/&#34;&gt;https://i3wm.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/post/molecular_notes_principles_reasonable_deviations/&#34;&gt;Molecular Notes: Principles · Reasonable Deviations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_16-50-28-zettelkasten/&#34;&gt;zettelkasten&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
