@@ -13,3 +13,31 @@
 #+hugo_tags: org-mode emacs org-roam
 
 Org-roam is a [[id:283be2c0-f804-4e6f-ae5c-02f4152e0aaf][knowledge management system]], or personal wiki, built on top of [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]]' [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]]. It implements a networked thought system, similar to Roam Research, allowing users to create interconnected notes in a non-hierarchical way. This facilitates effortless linking and discovery of connections between ideas, effectively creating a "second brain" for managing information.
+* Setting up Org-roam
+Since I'm also publishing the notes using [[id:ffca9e60-c110-4880-b3c1-929b17c740f0][hugo]], some properties are needed.
+#+name: org-roam-capture-templates
+#+caption: =org-roam-capture-templates= for quick note capturing.
+#+begin_src emacs-lisp
+  (setq org-roam-capture-templates
+        '(("d" "default" plain
+           "#+author: %n\n#+date: %t\n#+description: \n#+hugo_base_dir: ..\n#+hugo_section: posts\n#+hugo_categories: other\n#+property: header-args :exports both\n#+hugo_tags: \n%?"
+           :if-new (file+head "%<%Y-%m-%d_%H-%M-%S>-${slug}.org" "#+title: ${title}\n")
+           :unnarrowed t)
+          ("p" "programming" plain
+           "#+author: %n\n#+date: %t\n#+description: \n#+hugo_base_dir: ..\n#+hugo_section: posts\n#+hugo_categories: programming\n#+property: header-args :exports both\n#+hugo_tags: \n%?"
+           :if-new (file+head "%<%Y-%m-%d_%H-%M-%S>-${slug}.org" "#+title: ${title}\n")
+           :unnarrowed t)
+          ("t" "tech" plain
+           "#+author: %n\n#+date: %t\n#+description: \n#+hugo_base_dir: ..\n#+hugo_section: posts\n#+hugo_categories: tech\n#+property: header-args :exports both\n#+hugo_tags: \n%?"
+           :if-new (file+head "%<%Y-%m-%d_%H-%M-%S>-${slug}.org" "#+title: ${title}\n")
+           :unnarrowed t)))
+#+end_src
+These will separate each templates into its own category. Other category is still needed as default, for when I'm using a less used category.
+
+#+name: org-roam-capture-ref-templates
+#+caption: =org-roam-capture-ref-templates= for capturing links.
+#+begin_src emacs-lisp
+  (setq org-roam-capture-ref-templates
+        '(("r" "ref" plain "#+author: %n\n#+date: %t\n#+description: \n#+hugo_base_dir: ..\n#+hugo_section: post\n#+hugo_categories: reference\n#+property: header-args :exports both\n#+hugo_tags: \n%?\n* Links\n- %l" :target (file+head "${slug}.org" "#+title: ${title}")
+           :unnarrowed t)))
+#+end_src
