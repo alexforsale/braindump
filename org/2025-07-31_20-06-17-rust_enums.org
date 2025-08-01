@@ -12,3 +12,127 @@
 #+hugo_tags: rust programming
 * Defining Enum
 Where /structs/ give you a way of grouping together related fields and data, like a =Rectangle= with its width and height, /enums/ give you a way of saying a value is one of a possible set of values. For example, we may want to say that =Rectangle= is one of a set of possible shapes that also includes =Circle= and =Triangle=. To do this, [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] allows us to encode these possibilities as an enum.
+
+#+begin_src rust
+  enum IpAddrKind {
+      V4,
+      V6,
+  }
+#+end_src
+
+=IpAddrKind= is now a custom data type that we can use elsewhere in our code.
+** Enum Values
+We can create instances of each of the two variants of =IpAddrKind= like this:
+
+#+begin_src rust
+  let four = IpAddrKind::V4;
+  let six = IpAddrKind::V6;
+#+end_src
+
+Note that the variants of the enum are namespaced under its identifier, and we use a double colon to separate the two. This is useful because now both values =IpAddrKind::V4= and =IpAddrKind::V6= are of the same type: =IpAddrKind=. We can then, for instance, define a function that takes any =IpAddrKind=:
+
+#+begin_src rust
+  fn route(ip_kind: IpAddrKind) {}
+#+end_src
+
+And we can call this function with either variant:
+
+#+begin_src rust
+  route(IpAddrKind::V4);
+  route(IpAddrKind::V6);
+#+end_src
+
+Representing the same concept using just an enum is more concise: rather than an enum inside a struct, we can put data directly into each enum variant. This new definition of the =IpAddr= enum says that both =V4= and =V6= variants will have associated String values:
+
+#+begin_src rust
+  enum IpAddr {
+      V4(String),
+      V6(String),
+  }
+
+  let home = IpAddr::V4(String::from("127.0.0.1"));
+
+  let loopback = IpAddr::V6(String::from("::1"));
+#+end_src
+
+There’s another advantage to using an enum rather than a struct: each variant can have different types and amounts of associated data. Version four IP addresses will always have four numeric components that will have values between 0 and 255. If we wanted to store =V4= addresses as four u8 values but still express =V6= addresses as one String value, we wouldn’t be able to with a struct. Enums handle this case with ease:
+
+#+begin_src rust
+  enum IpAddr {
+      V4(u8, u8, u8, u8),
+      V6(String),
+  }
+
+  let home = IpAddr::V4(127, 0, 0, 1);
+
+  let loopback = IpAddr::V6(String::from("::1"));
+#+end_src
+
+#+caption: A =Message= enum whose variants each store different amounts and types of values
+#+begin_src rust
+  enum Message {
+      Quit,
+      Move { x: i32, y: i32 },
+      Write(String),
+      ChangeColor(i32, i32, i32),
+  }
+#+end_src
+
+This enum has four variants with different types:
+- =Quit= :: Has no data associated with it at all.
+- =Move= :: Has named fields, like a struct does
+- =Write= :: Includes a single =String=
+- =ChangeColor= :: Includes three =i32= values
+
+This similar to defining different kinds of struct definitions, except the enum doesn’t use the struct keyword and all the variants are grouped together under the =Message= type. The following =structs= could hold the same data that the preceding enum variants hold:
+
+#+begin_src rust
+  struct QuitMessage; // unit struct
+  struct MoveMessage {
+      x: i32,
+      y: i32,
+  }
+  struct WriteMessage(String); // tuple struct
+  struct ChangeColorMessage(i32, i32, i32); // tuple struct
+#+end_src
+
+There is one more similarity between enums and structs: just as we’re able to define methods on structs using =impl=, we’re also able to define methods on enums. Here’s a method named =call= that we could define on our =Message= enum:
+
+#+begin_src rust
+  impl Message {
+          fn call(&self) {
+              // method body would be defined here
+          }
+      }
+
+      let m = Message::Write(String::from("hello"));
+      m.call();
+#+end_src
+
+The body of the method would use =self= to get the value that we called the method on. In this example, we’ve created a variable =m= that has the value =Message::Write(String::from("hello"))=, and that is what =self= will be in the body of the =call= method when =m.call()= runs.
+** Option Enum
+The =Option= enum, which is another enum defined by the standard library. The =Option= type encodes the very common scenario in which a value could be something or it could be nothing.
+
+For example, if you request the first item in a non-empty list, you would get a value. If you request the first item in an empty list, you would get nothing. Expressing this concept in terms of the type system means the compiler can check whether you’ve handled all the cases you should be handling; this functionality can prevent bugs that are extremely common in other programming languages.
+
+Programming language design is often thought of in terms of which features you include, but the features you exclude are important too. Rust doesn’t have the null feature that many other languages have. Null is a value that means there is no value there. In languages with null, variables can always be in one of two states: null or not-null.
+
+Rust does not have nulls, but it does have an enum that can encode the concept of a value being present or absent. This enum is =Option<T>=, and it is defined by the standard library as follows:
+
+#+begin_src rust
+  enum Option<T> {
+      None,
+      Some(T),
+  }
+#+end_src
+
+The =Option<T>= enum is so useful that it’s even included in the prelude; you don’t need to bring it into scope explicitly. Its variants are also included in the prelude: you can use =Some= and =None= directly without the =Option::= prefix. The =Option<T>= enum is still just a regular enum, and =Some(T)= and None are still variants of type =Option<T>=.
+
+The =<T>= syntax is a feature of Rust we haven’t talked about yet. It’s a generic type parameter, and we’ll cover generics in more detail in Chapter 10. For now, all you need to know is that =<T>= means that the =Some= variant of the =Option= enum can hold one piece of data of any type, and that each concrete type that gets used in place of =T= makes the overall =Option<T>= type a different type. Here are some examples of using =Option= values to hold number types and char types:
+
+#+begin_src rust
+  let some_number = Some(5);
+  let some_char = Some('e');
+
+  let absent_number: Option<i32> = None;
+#+end_src
