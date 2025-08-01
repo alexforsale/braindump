@@ -20,7 +20,40 @@
     <loc>/braindump/tags/dmenu/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/tags/editor/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_19-27-26-fd/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/fd/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/2025-08-01_18-36-42-firefox/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_19-21-49-fonts/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/fonts/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_19-29-39-gimp/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/gimp/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/gnome/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-01_19-28-50-gtk/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/gtk/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/image/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_08-07-10-khal/</loc>
@@ -53,6 +86,9 @@
     <loc>/braindump/posts/2025-08-01_18-22-37-ncmpcpp/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/posts/2025-08-01_19-24-06-neovim/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -71,6 +107,12 @@
     <loc>/braindump/categories/reference/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/posts/2025-08-01_19-25-38-ripgrep/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/ripgrep/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/2025-08-01_18-29-20-rofi/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,6 +123,9 @@
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/search/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/service/</loc>
@@ -101,13 +146,25 @@
     <loc>/braindump/tags/thunderbird/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/tags/toolkit/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/tags/unix/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_07-54-31-vdirsyncer/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/posts/2025-08-01_19-23-19-vim/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/vim/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/tags/web-browser/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/widgets/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/window-switcher/</loc>
@@ -261,9 +318,6 @@
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/gif/</loc>
-    <lastmod>2024-03-09T01:06:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/image/</loc>
     <lastmod>2024-03-09T01:06:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/multimedia/</loc>

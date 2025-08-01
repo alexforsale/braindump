@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gimp on Braindump</title>
+    <link>/braindump/tags/gimp/</link>
+    <description>Recent content in Gimp on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/gimp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gimp</title>
+      <link>/braindump/posts/2025-08-01_19-29-39-gimp/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_19-29-39-gimp/</guid>
+      <description>&lt;p&gt;GIMP is a powerful raster image editing program, and commonly used for photo retouching, image composition, and general graphic design work. It can be used as a simple paint program, an expert quality photo retouching program, an online batch processing system, a mass production image renderer, an image format converter, etc.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_19-28-50-gtk/&#34;&gt;gtk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

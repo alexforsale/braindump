@@ -45,5 +45,23 @@
   khal configuration
 &lt;/div&gt;</description>
     </item>
+    <item>
+      <title>neovim</title>
+      <link>/braindump/posts/2025-08-01_19-24-06-neovim/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_19-24-06-neovim/</guid>
+      <description>&lt;p&gt;Neovim is a fork of &lt;a href=&#34;/braindump/posts/2025-08-01_19-23-19-vim/&#34;&gt;Vim&lt;/a&gt; aiming to improve the codebase, allowing for easier implementation of APIs, improved user experience and plugin implementation. Neovim inspired editors like Helix.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vim</title>
+      <link>/braindump/posts/2025-08-01_19-23-19-vim/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_19-23-19-vim/</guid>
+      <description>&lt;p&gt;Vim is a terminal text editor. It is an extended version of vi with additional features, including syntax highlighting, a comprehensive help system, native scripting (Vim script), a visual mode for text selection, comparison of files (vimdiff), and tools with restricted capabilities such as rview and rvim.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_19-24-06-neovim/&#34;&gt;neovim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

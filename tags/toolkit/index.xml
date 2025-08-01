@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Toolkit on Braindump</title>
+    <link>/braindump/tags/toolkit/</link>
+    <description>Recent content in Toolkit on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/toolkit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gtk</title>
+      <link>/braindump/posts/2025-08-01_19-28-50-gtk/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_19-28-50-gtk/</guid>
+      <description>&lt;p&gt;GTK, or the &lt;a href=&#34;/braindump/posts/2025-08-01_19-29-39-gimp/&#34;&gt;GIMP&lt;/a&gt; Toolkit, is a multi-platform toolkit for creating graphical user interfaces. Offering a complete set of widgets, GTK is suitable for projects ranging from small one-off tools to complete application suites&lt;/p&gt;
+&lt;p&gt;GTK was initially made by the GNU Project for GIMP, but it is now a very popular toolkit with bindings for many languages. This article will explore the tools used to configure the GTK theme, style, icon, &lt;a href=&#34;/braindump/posts/2025-08-01_19-21-49-fonts/&#34;&gt;font&lt;/a&gt; and font size, and also detail manual configuration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
