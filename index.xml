@@ -39,6 +39,14 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>rust cargo</title>
+      <link>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</guid>
+      <description>&lt;h2 id=&#34;cargo&#34;&gt;Cargo&lt;/h2&gt;
+&lt;p&gt;Cargo is the &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; package manager. Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages, and uploads them to crates.io, the Rust community’s package registry. You can contribute to this book on GitHub.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>vdirsyncer</title>
       <link>/braindump/posts/2025-08-01_07-54-31-vdirsyncer/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>

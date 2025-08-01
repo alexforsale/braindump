@@ -6,8 +6,16 @@
     <description>Recent content in Rust on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rust cargo</title>
+      <link>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</guid>
+      <description>&lt;h2 id=&#34;cargo&#34;&gt;Cargo&lt;/h2&gt;
+&lt;p&gt;Cargo is the &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; package manager. Cargo downloads your Rust package’s dependencies, compiles your packages, makes distributable packages, and uploads them to crates.io, the Rust community’s package registry. You can contribute to this book on GitHub.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Rust Comments</title>
       <link>/braindump/posts/2025-07-31_19-51-32-rust_comments/</link>
