@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/exercises/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/programming/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/programming/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/rust/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-02_11-46-31-rust_env_test/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-02_12-13-37-rust_external_command/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/2025-08-01_18-38-24-alacritty/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/calendar/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-01_18-33-27-dmenu/</loc>
@@ -95,15 +119,6 @@
     <loc>/braindump/post/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/programming/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/programming/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/categories/reference/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -119,19 +134,16 @@
     <loc>/braindump/tags/rofi/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/rust/</loc>
+    <loc>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/2025-08-01_15-45-44-rust_cargo/</loc>
+    <loc>/braindump/posts/2025-08-01_20-33-15-rust_common_collection/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/search/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/service/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/tech/</loc>
