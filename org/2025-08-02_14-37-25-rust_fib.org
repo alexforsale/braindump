@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       9c044fea-c42a-40cf-9ee1-fed5d4d983c7
+:END:
+#+title: rust fib
+#+author: Kristian Alexander P
+#+date: <2025-08-02 Sat>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming exercises fibonacci
+
+#+begin_src rust
+  fn fib(x: i32) -> i32 {
+      match x {
+          0 => 0,
+          1 => 1,
+          _ => fib(x -1) + fib(x -2),
+      }
+  }
+
+  fn main() {
+      for a in 0..=10 {
+          println!("fib {} is: {}", a, fib(a))
+      }
+  }
+#+end_src
+
+#+RESULTS:
+#+begin_example
+fib 0 is: 0
+fib 1 is: 1
+fib 2 is: 1
+fib 3 is: 2
+fib 4 is: 3
+fib 5 is: 5
+fib 6 is: 8
+fib 7 is: 13
+fib 8 is: 21
+fib 9 is: 34
+fib 10 is: 55
+#+end_example
+
+#+begin_src rust
+  use std::collections::HashMap;
+
+  fn memoized_fib(n: u64, memo: &mut HashMap<u64, u64>) -> u64 {
+      if memo.contains_key(&n) {
+          return *memo.get(&n).unwrap();
+      }
+
+      let result = match n {
+          0 => 0,
+          1 => 1,
+          _ => memoized_fib(n - 1, memo) + memoized_fib(n - 2, memo),
+      };
+      memo.insert(n, result);
+      result
+  }
+
+  fn main() {
+      let mut memo: HashMap<u64, u64> = HashMap::new();
+      for x in 0..=20 {
+          println!("fib ({}): {}", x, memoized_fib(x, &mut memo));
+      }
+  }
+#+end_src
+
+#+RESULTS:
+#+begin_example
+fib (0): 0
+fib (1): 1
+fib (2): 1
+fib (3): 2
+fib (4): 3
+fib (5): 5
+fib (6): 8
+fib (7): 13
+fib (8): 21
+fib (9): 34
+fib (10): 55
+fib (11): 89
+fib (12): 144
+fib (13): 233
+fib (14): 377
+fib (15): 610
+fib (16): 987
+fib (17): 1597
+fib (18): 2584
+fib (19): 4181
+fib (20): 6765
+#+end_example
