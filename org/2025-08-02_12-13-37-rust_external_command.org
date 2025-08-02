@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       0617c297-d272-481a-8560-080694e30012
+:END:
+#+title: rust external command
+#+author: Kristian Alexander P
+#+date: <2025-08-02 Sat>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming exercises
+
+#+begin_src rust
+  use std::process::Command;
+
+  fn main() {
+      let mut list_dir = Command::new("ls");
+      list_dir.status().expect("process failed to execute");
+      println!();
+  }
+#+end_src
+
+#+RESULTS:
+: Cargo.lock  Cargo.toml	src  target
+:
