@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       423b9f9f-1338-48d9-aa6c-1c8166354ca4
+:END:
+#+title: daemon
+#+author: Kristian Alexander P
+#+date: <2025-08-05 Tue>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: daemon
+* Daemon
+In computing, a daemon (also spelled demon) is a computer program that runs in the background, performing tasks without direct user interaction. It's like a helpful assistant that quietly handles various system operations

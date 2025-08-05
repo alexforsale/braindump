@@ -10,7 +10,7 @@
 #+hugo_categories: programming
 #+property: header-args :exports both
 #+hugo_tags: rust programming daemon
-* Example of daemonizing in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]]
+* Example of [[id:423b9f9f-1338-48d9-aa6c-1c8166354ca4][daemonizing]] in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]]
 
 #+begin_src rust
   use daemonize::Daemonize;
