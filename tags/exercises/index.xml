@@ -124,7 +124,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;#34;XDG_VTNR&amp;#34; &amp;#34;1&amp;#34;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;#34;_&amp;#34; &amp;#34;/usr/bin/emacs&amp;#34;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;#34;npm_config_prefix&amp;#34; &amp;#34;/home/alexforsale/.local&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;specific-variable&#34;&gt;Specific Variable&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;std::env::var&lt;/code&gt; returns a &lt;code&gt;Result&amp;lt;String, VarError&amp;gt;&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>rust external command</title>
