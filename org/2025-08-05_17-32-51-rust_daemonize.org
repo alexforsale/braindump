@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       781a103b-1607-498d-af33-447cfe4b6736
+:END:
+#+title: rust daemonize
+#+author: Kristian Alexander P
+#+date: <2025-08-05 Tue>
+#+description:
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: rust programming daemon
+* Example of daemonizing in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]]
+
+#+begin_src rust
+  use daemonize::Daemonize;
+
+      fn main() {
+          let daemonize = Daemonize::new()
+              .pid_file("/tmp/my_daemon.pid") // Optional: Write PID to file
+              .chown_pid_file(true)          // Optional: Change ownership
+              .working_directory("/tmp")     // Optional: Set working directory
+              .privileged_action(|| "Executed before drop privileges");
+
+          match daemonize.start() {
+              Ok(_) => {
+                  // Daemon logic goes here
+                  println!("Daemon started successfully!");
+                  loop {
+                      // Do daemon work
+                      std::thread::sleep(std::time::Duration::from_secs(5));
+                  }
+              },
+              Err(e) => eprintln!("Error, {}", e),
+          }
+      }
+#+end_src

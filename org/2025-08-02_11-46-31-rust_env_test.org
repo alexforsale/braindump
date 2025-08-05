@@ -128,3 +128,21 @@ In [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]], we use =std::env=
 "_" "/usr/bin/emacs"
 "npm_config_prefix" "/home/alexforsale/.local"
 #+end_example
+
+* Specific Variable
+=std::env::var= returns a =Result<String, VarError>=.
+#+begin_src rust
+  use std::env;
+
+  fn main () {
+      let xdg_session_type = env::var("XDG_SESSION_TYPE");
+
+      match xdg_session_type {
+          Ok(val) =>  println!("XDG_SESSION_TYPE: {}", val),
+          Err(e) => eprintln!("Couldn't read XDG_SESSION_TYPE: {}", e),
+      }
+  }
+#+end_src
+
+#+RESULTS:
+: XDG_SESSION_TYPE: wayland
