@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>Tech</title>
+      <link>/braindump/categories/tech/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/categories/tech/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Lifehack</title>
       <link>/braindump/categories/lifehack/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
@@ -27,13 +34,6 @@
       <link>/braindump/categories/reference/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/categories/reference/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>/braindump/categories/tech/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/categories/tech/</guid>
       <description></description>
     </item>
   </channel>

@@ -9,11 +9,23 @@
     <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>daemon</title>
+      <link>/braindump/posts/2025-08-05_17-34-29-daemon/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-05_17-34-29-daemon/</guid>
+      <description>&lt;h2 id=&#34;daemon&#34;&gt;Daemon&lt;/h2&gt;
+&lt;p&gt;In computing, a daemon (also spelled demon) is a computer program that runs in the background, performing tasks without direct user interaction. It&amp;rsquo;s like a helpful assistant that quietly handles various system operations&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-05_17-32-51-rust_daemonize/&#34;&gt;rust daemonize&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>rust daemonize</title>
       <link>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</guid>
-      <description>&lt;h2 id=&#34;example-of-daemonizing-in-rust--2025-07-29-00-38-11-rust-dot-md&#34;&gt;Example of daemonizing in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;example-of-daemonizing--2025-08-05-17-34-29-daemon-dot-md--in-rust--2025-07-29-00-38-11-rust-dot-md&#34;&gt;Example of &lt;a href=&#34;/braindump/posts/2025-08-05_17-34-29-daemon/&#34;&gt;daemonizing&lt;/a&gt; in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;use&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;daemonize&lt;/span&gt;::&lt;span class=&#34;n&#34;&gt;Daemonize&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;fn&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
