@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       ec0a38b2-6c97-43b6-b77b-0894f2103eb2
+:ROAM_REFS: https://andrewfavia.dev/posts/emacs-as-python-ide-again/
+:END:
+#+title: Andrew Favia | LSP's & Eglot
+#+author: Kristian Alexander P
+#+date: <2025-08-10 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: lsp emacs eglot python go programming
+
+* Links
+- [[https://andrewfavia.dev/posts/emacs-as-python-ide-again/]]

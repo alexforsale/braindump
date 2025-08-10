@@ -11,4 +11,4 @@
 #+property: header-args :exports both
 #+hugo_tags: editor vim terminal
 
-Vim is a terminal text editor. It is an extended version of vi with additional features, including syntax highlighting, a comprehensive help system, native scripting (Vim script), a visual mode for text selection, comparison of files (vimdiff), and tools with restricted capabilities such as rview and rvim.
+Vim is a terminal text editor. It is an extended version of vi with additional features, including syntax highlighting, a comprehensive help system, native scripting (Vim script), a visual mode for text selection, comparison of files (vimdiff), and tools with restricted capabilities such as /rview/ and /rvim/.
