@@ -29,6 +29,17 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Emacs: consult-line-symbol-at-point</title>
+      <link>/braindump/post/emacs_consult_line_symbol_at_point/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/emacs_consult_line_symbol_at_point/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arialdomartini.github.io/consult-line-at-point&#34;&gt;https://arialdomartini.github.io/consult-line-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>daemon</title>
       <link>/braindump/posts/2025-08-05_17-34-29-daemon/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
@@ -1124,6 +1135,7 @@ Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/post/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;

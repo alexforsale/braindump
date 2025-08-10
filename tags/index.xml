@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Consult</title>
+      <link>/braindump/tags/consult/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/consult/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Eglot</title>
       <link>/braindump/tags/eglot/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>

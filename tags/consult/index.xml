@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Consult on Braindump</title>
+    <link>/braindump/tags/consult/</link>
+    <description>Recent content in Consult on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/consult/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs: consult-line-symbol-at-point</title>
+      <link>/braindump/post/emacs_consult_line_symbol_at_point/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/emacs_consult_line_symbol_at_point/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arialdomartini.github.io/consult-line-at-point&#34;&gt;https://arialdomartini.github.io/consult-line-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
