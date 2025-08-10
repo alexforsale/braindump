@@ -6,8 +6,18 @@
     <description>Recent content in Python on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andrew Favia | LSP&#39;s &amp; Eglot</title>
+      <link>/braindump/post/andrew_favia_lsp_s_eglot/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/andrew_favia_lsp_s_eglot/</guid>
+      <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://andrewfavia.dev/posts/emacs-as-python-ide-again/&#34;&gt;https://andrewfavia.dev/posts/emacs-as-python-ide-again/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>python</title>
       <link>/braindump/posts/2025-07-29_01-37-50-python/</link>

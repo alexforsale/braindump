@@ -13,7 +13,7 @@
       <link>/braindump/posts/2025-08-01_19-23-19-vim/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-08-01_19-23-19-vim/</guid>
-      <description>&lt;p&gt;Vim is a terminal text editor. It is an extended version of vi with additional features, including syntax highlighting, a comprehensive help system, native scripting (Vim script), a visual mode for text selection, comparison of files (vimdiff), and tools with restricted capabilities such as rview and rvim.&lt;/p&gt;
+      <description>&lt;p&gt;Vim is a terminal text editor. It is an extended version of vi with additional features, including syntax highlighting, a comprehensive help system, native scripting (Vim script), a visual mode for text selection, comparison of files (vimdiff), and tools with restricted capabilities such as &lt;em&gt;rview&lt;/em&gt; and &lt;em&gt;rvim&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-01_19-24-06-neovim/&#34;&gt;neovim&lt;/a&gt;&lt;/li&gt;

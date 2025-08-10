@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/post/andrew_favia_lsp_s_eglot/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/eglot/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/emacs/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/go/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/lsp/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/post/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/programming/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/python/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-05_17-34-29-daemon/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
@@ -20,16 +50,10 @@
     <loc>/braindump/categories/programming/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/programming/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/rust/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/tech/</loc>
@@ -134,12 +158,6 @@
     <loc>/braindump/posts/2025-08-01_16-54-26-personal_knowledge_management/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/post/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/reference/</loc>
-    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/2025-08-01_19-25-38-ripgrep/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -202,9 +220,6 @@
   </url><url>
     <loc>/braindump/tags/zettelkasten/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/emacs/</loc>
-    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/i3/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
@@ -303,9 +318,6 @@
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-07-29_01-37-50-python/</loc>
-    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/python/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-07-29_00-38-11-rust/</loc>
