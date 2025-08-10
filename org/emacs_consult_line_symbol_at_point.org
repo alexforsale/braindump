@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       47c8034a-91a2-4187-ba0a-394888e2d4dd
+:ROAM_REFS: https://arialdomartini.github.io/consult-line-at-point
+:END:
+#+title: Emacs: consult-line-symbol-at-point
+#+author: Kristian Alexander P
+#+date: <2025-08-10 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: emacs consult
+
+[[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]] + consult
+* Links
+- [[https://arialdomartini.github.io/consult-line-at-point]]
