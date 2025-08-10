@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2dbaf9e6-a406-4756-ac8d-ab8707b5c4b8
+:ROAM_REFS: https://austinhenley.com/blog/challengingprojects.html
+:END:
+#+title: Challenging projects every programmer should try - Austin Z. Henley
+#+author: Kristian Alexander P
+#+date: <2025-08-10 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: programming project starter
+
+* Links
+- [[https://austinhenley.com/blog/challengingprojects.html]]
