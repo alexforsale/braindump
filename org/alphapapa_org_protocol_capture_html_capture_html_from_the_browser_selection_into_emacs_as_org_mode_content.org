@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       50078c16-5cdf-48df-8a57-926d7a94b60d
+:ROAM_REFS: https://github.com/alphapapa/org-protocol-capture-html
+:END:
+#+title: alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content
+#+author: Kristian Alexander P
+#+date: <2025-08-16 Sat>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
+
+* Links
+- [[https://github.com/alphapapa/org-protocol-capture-html]]

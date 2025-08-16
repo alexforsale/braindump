@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       92a40bee-f6bc-4c3b-923d-7b69cdbf1b40
+:ROAM_REFS: https://github.com/kzar/davemail
+:END:
+#+title: kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias
+#+author: Kristian Alexander P
+#+date: <2025-08-16 Sat>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: notmuch isync mail
+
+[[id:0d5bf06b-aa51-4f93-a929-b2fe129c1900][notmuch]] configuration, using isync
+* Links
+- [[https://github.com/kzar/davemail]]
