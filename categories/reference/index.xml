@@ -6,8 +6,46 @@
     <description>Recent content in Reference on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content</title>
+      <link>/braindump/post/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</guid>
+      <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alphapapa/org-protocol-capture-html&#34;&gt;https://github.com/alphapapa/org-protocol-capture-html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>isync - ArchWiki</title>
+      <link>/braindump/post/isync_archwiki/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/isync_archwiki/</guid>
+      <description>&lt;p&gt;&lt;code&gt;isync&lt;/code&gt; (more commonly known by its command name, &lt;code&gt;mbsync&lt;/code&gt;) is a command-line utility for synchronizing email mailboxes.&lt;/p&gt;
+&lt;p&gt;Its primary function is to efficiently pull email from a remote IMAP server and store it locally in the Maildir format.&lt;/p&gt;
+&lt;p&gt;It forms a common workflow with &lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;Notmuch&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;mbsync&lt;/code&gt;&lt;/strong&gt; downloads the mail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;notmuch new&lt;/code&gt;&lt;/strong&gt; indexes the newly downloaded mail.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/Isync&#34;&gt;https://wiki.archlinux.org/title/Isync&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias</title>
+      <link>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt; configuration, using isync&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kzar/davemail&#34;&gt;https://github.com/kzar/davemail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Andrew Favia | LSP&#39;s &amp; Eglot</title>
       <link>/braindump/post/andrew_favia_lsp_s_eglot/</link>

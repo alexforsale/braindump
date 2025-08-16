@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isync</title>
+      <link>/braindump/tags/isync/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/isync/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mail</title>
+      <link>/braindump/tags/mail/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/mail/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notmuch</title>
+      <link>/braindump/tags/notmuch/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/notmuch/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Consult</title>
       <link>/braindump/tags/consult/</link>
@@ -440,13 +461,6 @@
       <link>/braindump/tags/wayland/</link>
       <pubDate>Sun, 25 Feb 2024 09:13:00 +0000</pubDate>
       <guid>/braindump/tags/wayland/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mail</title>
-      <link>/braindump/tags/mail/</link>
-      <pubDate>Fri, 23 Feb 2024 23:35:00 +0000</pubDate>
-      <guid>/braindump/tags/mail/</guid>
       <description></description>
     </item>
     <item>

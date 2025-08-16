@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/braindump/post/andrew_favia_lsp_s_eglot/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <loc>/braindump/post/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/isync/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/post/isync_archwiki/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/mail/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/notmuch/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/post/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/post/andrew_favia_lsp_s_eglot/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/post/challenging_projects_every_programmer_should_try_austin_z_henley/</loc>
@@ -32,9 +59,6 @@
     <loc>/braindump/tags/lsp/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/post/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/programming/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,13 +68,7 @@
     <loc>/braindump/tags/python/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/categories/reference/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/starter/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-05_17-34-29-daemon/</loc>
@@ -423,9 +441,6 @@
     <lastmod>2024-02-25T09:13:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240223233558-exchange/</loc>
-    <lastmod>2024-02-23T23:35:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/mail/</loc>
     <lastmod>2024-02-23T23:35:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240223233522-microsoft/</loc>

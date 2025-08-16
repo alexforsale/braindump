@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Isync on Braindump</title>
+    <link>/braindump/tags/isync/</link>
+    <description>Recent content in Isync on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/isync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias</title>
+      <link>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt; configuration, using isync&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kzar/davemail&#34;&gt;https://github.com/kzar/davemail&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
