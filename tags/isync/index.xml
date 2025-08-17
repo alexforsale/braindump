@@ -10,9 +10,9 @@
     <atom:link href="/braindump/tags/isync/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias</title>
-      <link>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</link>
+      <link>/braindump/posts/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</guid>
+      <guid>/braindump/posts/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt; configuration, using isync&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;

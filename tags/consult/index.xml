@@ -10,9 +10,9 @@
     <atom:link href="/braindump/tags/consult/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs: consult-line-symbol-at-point</title>
-      <link>/braindump/post/emacs_consult_line_symbol_at_point/</link>
+      <link>/braindump/posts/emacs_consult_line_symbol_at_point/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/emacs_consult_line_symbol_at_point/</guid>
+      <guid>/braindump/posts/emacs_consult_line_symbol_at_point/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;

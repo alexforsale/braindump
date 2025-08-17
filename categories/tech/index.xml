@@ -314,7 +314,7 @@
       <description>&lt;p&gt;i3 is a tiling &lt;a href=&#34;/braindump/posts/2025-07-31_22-15-27-window_manager/&#34;&gt;window manager&lt;/a&gt;, completely written from scratch. The target platforms are &lt;a href=&#34;/braindump/posts/20240222232402-linux/&#34;&gt;GNU/Linux&lt;/a&gt; and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii, we agreed upon the following goals for i3:&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/post/i3_i3_improved_tiling_x11_window_manager/&#34;&gt;i3 website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/i3_i3_improved_tiling_x11_window_manager/&#34;&gt;i3 website&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -597,7 +597,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/post/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;

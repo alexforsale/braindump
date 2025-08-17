@@ -10,9 +10,9 @@
     <atom:link href="/braindump/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrew Favia | LSP&#39;s &amp; Eglot</title>
-      <link>/braindump/post/andrew_favia_lsp_s_eglot/</link>
+      <link>/braindump/posts/andrew_favia_lsp_s_eglot/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/andrew_favia_lsp_s_eglot/</guid>
+      <guid>/braindump/posts/andrew_favia_lsp_s_eglot/</guid>
       <description>&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://andrewfavia.dev/posts/emacs-as-python-ide-again/&#34;&gt;https://andrewfavia.dev/posts/emacs-as-python-ide-again/&lt;/a&gt;&lt;/li&gt;
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>Emacs: consult-line-symbol-at-point</title>
-      <link>/braindump/post/emacs_consult_line_symbol_at_point/</link>
+      <link>/braindump/posts/emacs_consult_line_symbol_at_point/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/post/emacs_consult_line_symbol_at_point/</guid>
+      <guid>/braindump/posts/emacs_consult_line_symbol_at_point/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
@@ -104,7 +104,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/post/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
