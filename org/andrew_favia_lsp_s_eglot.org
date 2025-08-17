@@ -12,7 +12,7 @@
 #+property: header-args :exports both
 #+hugo_tags: lsp emacs eglot python go programming
 
-[[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]] LSP using eglot
+Emacs LSP using eglot
 
 * Links
 - [[https://andrewfavia.dev/posts/emacs-as-python-ide-again/]]
