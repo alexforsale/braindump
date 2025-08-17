@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0b0d79b8-3fe7-4e2a-9b97-7a6cce056925
+:END:
+#+title: utop
+#+author: Kristian Alexander P
+#+date: <2025-08-18 Mon>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: ocaml utop
+
+=utop= is an enhanced interactive top-level (REPL) for [[id:e15465a3-6866-4732-b1e2-45525e100af9][Ocaml]].
+
+It greatly improves upon the default =ocaml= REPL with features like:
+-   Auto-completion
+-   Syntax highlighting
+-   Type information for expressions
+-   Command history
+
+It is the standard tool for interactive OCaml development, typically launched within a project via =dune utop=.
+

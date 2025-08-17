@@ -12,6 +12,6 @@
 #+property: header-args :exports both
 #+hugo_tags: notmuch isync mail
 
-[[id:0d5bf06b-aa51-4f93-a929-b2fe129c1900][notmuch]] configuration, using isync
+[[id:0d5bf06b-aa51-4f93-a929-b2fe129c1900][notmuch]] configuration, using [[id:6d5d57f3-abec-4d82-a283-93deed89c3b4][isync]]
 * Links
 - [[https://github.com/kzar/davemail]]
