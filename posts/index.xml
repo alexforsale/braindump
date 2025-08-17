@@ -6,8 +6,48 @@
     <description>Recent content in Posts on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flakes</title>
+      <link>/braindump/posts/2025-08-17_22-51-02-flakes/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-17_22-51-02-flakes/</guid>
+      <description>&lt;p&gt;Flakes are a feature in &lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;Nix&lt;/a&gt; for managing project dependencies and outputs in a self-contained and purely reproducible way.&lt;/p&gt;
+&lt;p&gt;They use two main files:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;flake.nix&lt;/code&gt;: Declares the project&amp;rsquo;s &lt;strong&gt;inputs&lt;/strong&gt; (dependencies, like a specific version of &lt;code&gt;nixpkgs&lt;/code&gt;) and its &lt;strong&gt;outputs&lt;/strong&gt; (packages, NixOS configurations, dev shells).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;flake.lock&lt;/code&gt;: An auto-generated file that pins the exact Git commit of every input, ensuring that builds are identical for everyone, everywhere.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In short, flakes solve the problem of dependency management by locking versions explicitly, making projects truly portable and reproducible. They are the modern replacement for the older Nix channels system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>home-manager</title>
+      <link>/braindump/posts/2025-08-17_22-49-23-home_manager/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-17_22-49-23-home_manager/</guid>
+      <description>&lt;p&gt;Home Manager is a &lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;Nix&lt;/a&gt;-powered tool for reproducible management of the contents of users’ home directories. This includes programs, configuration files, environment variables and, well… arbitrary files. The following example snippet of Nix code:&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;nixos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>nixos</title>
+      <link>/braindump/posts/2025-08-17_22-46-17-nixos/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-17_22-46-17-nixos/</guid>
+      <description>&lt;h2 id=&#34;nixos&#34;&gt;nixos&lt;/h2&gt;
+&lt;p&gt;NixOS is a &lt;a href=&#34;/braindump/posts/20240222232402-linux/&#34;&gt;Linux&lt;/a&gt; distribution that uses a unique, declarative approach to system configuration.&lt;/p&gt;
+&lt;p&gt;Instead of modifying configuration files directly, you define your entire system—packages, services, users, etc.—in a single file (&lt;code&gt;configuration.nix&lt;/code&gt;). NixOS then builds the system from that declaration.&lt;/p&gt;
+&lt;p&gt;This provides three main benefits:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Reproducibility:&lt;/strong&gt; The same configuration file always produces the exact same system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Atomic Upgrades:&lt;/strong&gt; System changes complete fully or not at all, preventing broken states.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rollbacks:&lt;/strong&gt; You can instantly revert to any previous system configuration if something goes wrong.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This reproducibility also includes per-user settings via &lt;a href=&#34;/braindump/posts/2025-08-17_22-49-23-home_manager/&#34;&gt;home-manager&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>daemon</title>
       <link>/braindump/posts/2025-08-05_17-34-29-daemon/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Flakes on Braindump</title>
+    <link>/braindump/tags/flakes/</link>
+    <description>Recent content in Flakes on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/flakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flakes</title>
+      <link>/braindump/posts/2025-08-17_22-51-02-flakes/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-17_22-51-02-flakes/</guid>
+      <description>&lt;p&gt;Flakes are a feature in &lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;Nix&lt;/a&gt; for managing project dependencies and outputs in a self-contained and purely reproducible way.&lt;/p&gt;
+&lt;p&gt;They use two main files:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;flake.nix&lt;/code&gt;: Declares the project&amp;rsquo;s &lt;strong&gt;inputs&lt;/strong&gt; (dependencies, like a specific version of &lt;code&gt;nixpkgs&lt;/code&gt;) and its &lt;strong&gt;outputs&lt;/strong&gt; (packages, NixOS configurations, dev shells).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;flake.lock&lt;/code&gt;: An auto-generated file that pins the exact Git commit of every input, ensuring that builds are identical for everyone, everywhere.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In short, flakes solve the problem of dependency management by locking versions explicitly, making projects truly portable and reproducible. They are the modern replacement for the older Nix channels system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
