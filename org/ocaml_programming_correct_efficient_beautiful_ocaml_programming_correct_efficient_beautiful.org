@@ -7,7 +7,7 @@
 #+date: <2025-08-18 Mon>
 #+description: 
 #+hugo_base_dir: ..
-#+hugo_section: post
+#+hugo_section: posts
 #+hugo_categories: reference
 #+property: header-args :exports both
 #+hugo_tags: ocaml tutorial ebook 
