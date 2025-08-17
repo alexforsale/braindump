@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ba347f45-f56d-4610-90cc-28274a283dc6
+:ROAM_REFS: https://cs3110.github.io/textbook/cover.html
+:END:
+#+title: OCaml Programming: Correct + Efficient + Beautiful — OCaml Programming: Correct + Efficient + Beautiful
+#+author: Kristian Alexander P
+#+date: <2025-08-18 Mon>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: ocaml tutorial ebook 
+
+[[id:e15465a3-6866-4732-b1e2-45525e100af9][Ocaml]] book
+* Links
+- [[https://cs3110.github.io/textbook/cover.html]]

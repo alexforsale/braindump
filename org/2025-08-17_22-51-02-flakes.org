@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cd4cbf27-2e3f-4f4f-9049-b2cb655ef976
+:END:
+#+title: flakes
+#+author: Kristian Alexander P
+#+date: <2025-08-17 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: nix nixos flakes
+
+Flakes are a feature in [[id:893346bd-a017-4003-a344-97fe653b229c][Nix]] for managing project dependencies and outputs in a self-contained and purely reproducible way.
+
+They use two main files:
+
+1.  =flake.nix=: Declares the project's *inputs* (dependencies, like a specific version of =nixpkgs=) and its *outputs* (packages, NixOS configurations, dev shells).
+2.  =flake.lock=: An auto-generated file that pins the exact Git commit of every input, ensuring that builds are identical for everyone, everywhere.
+
+In short, flakes solve the problem of dependency management by locking versions explicitly, making projects truly portable and reproducible. They are the modern replacement for the older Nix channels system.

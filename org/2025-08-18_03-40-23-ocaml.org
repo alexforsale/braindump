@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       e15465a3-6866-4732-b1e2-45525e100af9
+:END:
+#+title: ocaml
+#+author: Kristian Alexander P
+#+date: <2025-08-18 Mon>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: programming
+#+property: header-args :exports both
+#+hugo_tags: ocaml
+
+OCaml is a high-performance, functional-first programming language with a powerful static type system and type inference. It is pragmatic, blending functional, imperative, and object-oriented features.
+
+*** Core Pillars
+
+1.  *Strong, Static Type System:*
+   Types are checked at compile time, eliminating a huge class of runtime errors. Its standout feature is *type inference*, where the compiler deduces types for you, so you rarely need to write them. This provides the safety of static types with the feel of a dynamic language.
+
+2.  *Functional-First, but Multi-Paradigm:*
+   It encourages a functional style with immutable data structures and first-class functions. However, it is not purely functional; you can use mutable state, loops, and objects when they are the right tool for the job.
+
+3.  *Excellent Performance:*
+   It compiles to fast native machine code. Its generational garbage collector is highly optimized, making it suitable for performance-critical systems.
+
+4.  *Powerful Module System:*
+   It has a sophisticated system for structuring large programs. A key feature is *functors*, which are "functions" that take modules as arguments and produce new modules, enabling highly generic and reusable code.
+
+*** Key Language Features
+
+-   *Pattern Matching:* A powerful and safe way to deconstruct data structures, like a =switch= statement on steroids. The compiler ensures you handle all possible cases.
+-   *Algebraic Data Types (ADTs):* Also known as variants, they allow you to define complex, custom data types concisely and safely.
+-   *Immutability by Default:* Variables and data structures are immutable unless you explicitly mark them as mutable, which helps prevent bugs.
+
+*** Use Cases
+
+OCaml is used for complex, mission-critical systems where correctness and performance are paramount. Notable users include:
+-   *Jane Street:* A quantitative trading firm that uses OCaml for nearly all of its software.
+-   *MirageOS:* A library operating system that builds secure, specialized unikernels.
+-   *Tezos:* A blockchain platform.
+-   *Coq & F/:* Proof assistants and verification tools written in OCaml.
+
+In short, OCaml is a pragmatic language for building robust, performant, and maintainable software.
+
+*** 

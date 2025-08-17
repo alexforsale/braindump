@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       668b46ba-9b51-4db6-af98-861afb1f0912
+:END:
+#+title: home-manager
+#+author: Kristian Alexander P
+#+date: <2025-08-17 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: nixos nix home-manager
+Home Manager is a [[id:893346bd-a017-4003-a344-97fe653b229c][Nix]]-powered tool for reproducible management of the contents of users’ home directories. This includes programs, configuration files, environment variables and, well… arbitrary files. The following example snippet of Nix code:

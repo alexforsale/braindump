@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       91b9861b-ec6a-4f44-960f-c42a96437f78
+:ROAM_REFS: https://www.youtube.com/watch?v=JTEwC3HihFc&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=2
+:END:
+#+title: Functional Programming - What | OCaml Programming | Chapter 1 Video 2 - YouTube
+#+author: Kristian Alexander P
+#+date: <2025-08-18 Mon>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: post
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: ocaml youtube tutorial
+
+[[id:e15465a3-6866-4732-b1e2-45525e100af9][Ocaml]] tutorial video playlist
+* Links
+- [[https://www.youtube.com/watch?v=JTEwC3HihFc&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&index=2]]

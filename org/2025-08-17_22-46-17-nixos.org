@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       893346bd-a017-4003-a344-97fe653b229c
+:END:
+#+title: nixos
+#+author: Kristian Alexander P
+#+date: <2025-08-17 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: nixos
+* nixos
+
+NixOS is a [[id:65db4594-b7ec-463b-9e97-64d080e44c12][Linux]] distribution that uses a unique, declarative approach to system configuration.
+
+Instead of modifying configuration files directly, you define your entire system—packages, services, users, etc.—in a single file (=configuration.nix=). NixOS then builds the system from that declaration.
+
+This provides three main benefits:
+
+1.  *Reproducibility:* The same configuration file always produces the exact same system.
+2.  *Atomic Upgrades:* System changes complete fully or not at all, preventing broken states.
+3.  *Rollbacks:* You can instantly revert to any previous system configuration if something goes wrong.
+
+This reproducibility also includes per-user settings via [[id:668b46ba-9b51-4db6-af98-861afb1f0912][home-manager]].
