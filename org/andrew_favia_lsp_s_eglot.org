@@ -4,7 +4,7 @@
 :END:
 #+title: Andrew Favia | LSP's & Eglot
 #+author: Kristian Alexander P
-#+date: <2025-08-10 Sun>
+#+date: <2025-08-10>
 #+description: 
 #+hugo_base_dir: ..
 #+hugo_section: posts
