@@ -3,7 +3,7 @@
 #+creator: Emacs 29.2 (Org mode 9.6.15 + ox-hugo)
 #+hugo_section: /
 #+hugo_base_dir: ../
-#+date:  <2025-08-18>
+#+date:  <2025-08-18 Mon>
 #+title: archive
 #+hugo_custom_front_matter: :layout archives
 * archive
