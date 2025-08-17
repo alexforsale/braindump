@@ -44,6 +44,9 @@
     <loc>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/tags/emacs/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/tags/isync/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,11 +62,11 @@
     <loc>/braindump/tags/notmuch/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/categories/reference/</loc>
+    <loc>/braindump/tags/org/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/andrew_favia_lsp_s_eglot/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/challenging_projects_every_programmer_should_try_austin_z_henley/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
@@ -71,28 +74,13 @@
     <loc>/braindump/tags/consult/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/eglot/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/emacs/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/emacs_consult_line_symbol_at_point/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/go/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/lsp/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/programming/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/project/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/python/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/starter/</loc>
@@ -374,6 +362,9 @@
     <loc>/braindump/posts/2025-07-29_01-37-50-python/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/braindump/tags/python/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/2025-07-29_00-38-11-rust/</loc>
     <lastmod>2025-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -505,9 +496,6 @@
   </url><url>
     <loc>/braindump/tags/xorg/</loc>
     <lastmod>2024-02-22T21:38:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/org/</loc>
-    <lastmod>2024-02-21T12:47:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/20240221124747-org_mode/</loc>
     <lastmod>2024-02-21T12:47:00+00:00</lastmod>
