@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       cc2c618e-b25b-40cc-8cdd-164b5ecd1f37
+:ROAM_REFS: https://adriann.github.io/rust_parser.html
+:END:
+#+title: Writing a Simple Parser in Rust
+#+author: Kristian Alexander P
+#+date: <2025-08-19 Tue>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: rust parser
+Simple parser in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]].
+* Links
+- [[https://adriann.github.io/rust_parser.html]]
