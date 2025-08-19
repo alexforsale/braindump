@@ -2,6 +2,15 @@
 :ID:       4b4989ab-1d7c-4bb4-b1d3-9d34a5dde3d5
 :END:
 #+title: python
+#+author: Kristian Alexander P
+#+date: <2025-08-16 Sat>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
+
 Python is a high-level, interpreted, general-purpose programming language. It is known for its clear and readable syntax, which emphasizes code readability and reduces the cost of program maintenance.
 
 Key characteristics of Python:

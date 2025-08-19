@@ -2,4 +2,12 @@
 :ID:       d237d3c2-1693-4c61-96e4-28ff2e748ddd
 :END:
 #+title: Latex
+#+author: Kristian Alexander P
+#+date: <2025-08-16 Sat>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
 Latex in linux

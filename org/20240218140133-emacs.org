@@ -3,6 +3,14 @@
 :ROAM_ALIASES: Emacs
 :END:
 #+title: emacs
+#+author: Kristian Alexander P
+#+date: <2025-08-16 Sat>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
 
 Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.
 
