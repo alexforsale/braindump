@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       abf66a3f-a12e-4424-a9cd-d68a364bdab7
-:ROAM_ALIASES: Org-mode
 :END:
 #+title: org-mode
 #+author: Kristian Alexander P
@@ -11,6 +10,6 @@
 #+hugo_categories: tech
 #+hugo_tags: org emacs
 
-a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs  and its derivatives, designed for notes, planning, and authoring.
+a mode for document editing, formatting, and organizing within the free software text editor GNU [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]]  and its derivatives, designed for notes, planning, and authoring.
 * Using Property in headline
 Org-agenda will automatically show the =CATEGORY= property if it is set.

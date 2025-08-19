@@ -12,6 +12,6 @@
 #+property: header-args :exports both
 #+hugo_tags: org emacs
 
-Capture site into [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]] [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]].
+Capture site into [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][org-mode]].
 * Links
 - [[https://github.com/alphapapa/org-protocol-capture-html]]

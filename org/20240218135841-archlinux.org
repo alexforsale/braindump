@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       17319c20-826f-4a7b-8024-9b571a999113
 :END:
-#+title: Archlinux
+#+title: Archlinux Emacs installation
 #+author: Kristian Alexander P
 #+date: <2025-08-16 Sat>
 #+description: 
@@ -11,4 +11,4 @@
 #+property: header-args :exports both
 #+hugo_tags: arch archlinux linux
 * Emacs installation
-[[id:865dda44-cb17-459d-86f5-334983d299f8[emacs]] export to pdf need package =texlive-latexextra=, and =texlive-plaingeneric= [[id:d237d3c2-1693-4c61-96e4-28ff2e748ddd][Latex]].
+[[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] export to pdf need package =texlive-latexextra=, and =texlive-plaingeneric= [[id:d237d3c2-1693-4c61-96e4-28ff2e748ddd][Latex]].

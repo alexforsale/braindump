@@ -12,6 +12,6 @@
 #+property: header-args :exports both
 #+hugo_tags: emacs consult
 
-[[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]] + consult
+[[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] + consult
 * Links
 - [[https://arialdomartini.github.io/consult-line-at-point]]

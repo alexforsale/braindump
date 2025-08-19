@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       b325a0b1-dc1c-403e-b16b-08fd4d95c866
-:ROAM_ALIASES: password-store
 :END:
 #+title: pass
 #+author: Kristian Alexander P

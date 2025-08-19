@@ -12,6 +12,6 @@
 #+property: header-args :exports both
 #+hugo_tags: rust parses
 
-Parsing in Rust.
+Parsing in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]].
 * Links
 - [[https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/]]

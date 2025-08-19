@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       865dda44-cb17-459d-86f5-334983d299f8
-:ROAM_ALIASES: Emacs
 :END:
 #+title: emacs
 #+author: Kristian Alexander P

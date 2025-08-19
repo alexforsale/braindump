@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       1d560727-4c96-4cee-81b5-a6fedb9fc756
-:ROAM_ALIASES: Org-roam
 :END:
 #+title: org-roam
 #+author: Kristian Alexander P
@@ -12,7 +11,7 @@
 #+property: header-args :exports both
 #+hugo_tags: org-mode emacs org-roam
 
-Org-roam is a [[id:283be2c0-f804-4e6f-ae5c-02f4152e0aaf][knowledge management system]], or personal wiki, built on top of [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][Emacs]]' [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]]. It implements a networked thought system, similar to Roam Research, allowing users to create interconnected notes in a non-hierarchical way. This facilitates effortless linking and discovery of connections between ideas, effectively creating a "second brain" for managing information.
+Org-roam is a [[id:283be2c0-f804-4e6f-ae5c-02f4152e0aaf][knowledge management system]], or personal wiki, built on top of [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]]' [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]]. It implements a networked thought system, similar to Roam Research, allowing users to create interconnected notes in a non-hierarchical way. This facilitates effortless linking and discovery of connections between ideas, effectively creating a "second brain" for managing information.
 * Setting up Org-roam
 Since I'm also publishing the notes using [[id:ffca9e60-c110-4880-b3c1-929b17c740f0][hugo]], some properties are needed.
 #+name: org-roam-capture-templates

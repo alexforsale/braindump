@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       d7184060-7ae0-499c-af7f-c0540b74ea65
-:ROAM_ALIASES: QEMU
 :END:
 #+title: qemu
 #+author: Kristian Alexander P

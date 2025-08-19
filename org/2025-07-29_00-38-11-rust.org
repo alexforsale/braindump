@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       b0c3a713-8b46-4f98-857d-7145ced06d68
-:ROAM_ALIASES: Rust
 :END:
 #+title: rust
 #+author: Kristian Alexander P

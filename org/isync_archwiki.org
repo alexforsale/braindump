@@ -1,9 +1,8 @@
 :PROPERTIES:
 :ID:       6d5d57f3-abec-4d82-a283-93deed89c3b4
 :ROAM_REFS: https://wiki.archlinux.org/title/Isync
-:ROAM_ALIASES: isync
 :END:
-#+title: isync - ArchWiki
+#+title: isync
 #+author: Kristian Alexander P
 #+date: <2025-08-16 Sat>
 #+description: 
@@ -11,7 +10,7 @@
 #+hugo_section: posts
 #+hugo_categories: reference
 #+property: header-args :exports both
-#+hugo_tags: 
+#+hugo_tags: isync
 
 =isync= (more commonly known by its command name, =mbsync=) is a command-line utility for synchronizing email mailboxes.
 

@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       517a77e9-425c-4e98-b58e-f856e1c9f7a5
-:ROAM_ALIASES: "Rust Data Types"
 :END:
 #+title: rust data types
 #+author: Kristian Alexander P

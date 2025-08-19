@@ -13,7 +13,7 @@
 ** Packages
 - [[id:0d5bf06b-aa51-4f93-a929-b2fe129c1900][notmuch]]
 - [[id:e32aabe1-8a9e-4a19-8efe-536baf2342be][msmtp]]
-- Preferrably, [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][emacs]] as a frontend.
+- Preferrably, [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] as a frontend.
 ** Message
 #+begin_src emacs-lisp
   (use-package message

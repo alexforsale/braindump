@@ -10,7 +10,7 @@
 #+hugo_categories: tech
 #+hugo_tags: linux systemd
 [[id:65db4594-b7ec-463b-9e97-64d080e44c12][linux]] init system.
-* [[id:e7f4a9c9-3d0d-40dc-94b9-349c59525166][emacs]] systemd user unit
+* [[id:865dda44-cb17-459d-86f5-334983d299f8][Emacs]] systemd user unit
 #+begin_src conf
   Description=Emacs text editor
   Documentation=info:emacs man:emacs(1) https://gnu.org/software/emacs/

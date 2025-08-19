@@ -1,6 +1,5 @@
 :PROPERTIES:
 :ID:       d7aebff6-4d3e-4575-91af-d20d3da6dfbe
-:ROAM_ALIASES: Libvirt
 :END:
 #+title: libvirt
 #+author: Kristian Alexander P
