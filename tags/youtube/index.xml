@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Youtube on Braindump</title>
+    <link>/braindump/tags/youtube/</link>
+    <description>Recent content in Youtube on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional Programming - What | OCaml Programming | Chapter 1 Video 2 - YouTube</title>
+      <link>/braindump/posts/functional_programming_what_ocaml_programming_chapter_1_video_2_youtube/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/functional_programming_what_ocaml_programming_chapter_1_video_2_youtube/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt; tutorial video playlist&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JTEwC3HihFc&amp;amp;list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&amp;amp;index=2&#34;&gt;https://www.youtube.com/watch?v=JTEwC3HihFc&amp;amp;list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&amp;amp;index=2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

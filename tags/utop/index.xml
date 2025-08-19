@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Utop on Braindump</title>
+    <link>/braindump/tags/utop/</link>
+    <description>Recent content in Utop on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/utop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>utop</title>
+      <link>/braindump/posts/2025-08-18_04-26-44-utop/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-18_04-26-44-utop/</guid>
+      <description>&lt;p&gt;&lt;code&gt;utop&lt;/code&gt; is an enhanced interactive top-level (REPL) for &lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It greatly improves upon the default &lt;code&gt;ocaml&lt;/code&gt; REPL with features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion&lt;/li&gt;
+&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Type information for expressions&lt;/li&gt;
+&lt;li&gt;Command history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is the standard tool for interactive OCaml development, typically launched within a project via &lt;code&gt;dune utop&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

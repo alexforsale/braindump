@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ocaml on Braindump</title>
+    <link>/braindump/tags/ocaml/</link>
+    <description>Recent content in Ocaml on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/ocaml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functional Programming - What | OCaml Programming | Chapter 1 Video 2 - YouTube</title>
+      <link>/braindump/posts/functional_programming_what_ocaml_programming_chapter_1_video_2_youtube/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/functional_programming_what_ocaml_programming_chapter_1_video_2_youtube/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt; tutorial video playlist&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JTEwC3HihFc&amp;amp;list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&amp;amp;index=2&#34;&gt;https://www.youtube.com/watch?v=JTEwC3HihFc&amp;amp;list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU&amp;amp;index=2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ocaml</title>
+      <link>/braindump/posts/2025-08-18_03-40-23-ocaml/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-18_03-40-23-ocaml/</guid>
+      <description>&lt;p&gt;OCaml is a high-performance, functional-first programming language with a powerful static type system and type inference. It is pragmatic, blending functional, imperative, and object-oriented features.&lt;/p&gt;
+&lt;h4 id=&#34;core-pillars&#34;&gt;Core Pillars&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Strong, Static Type System:&lt;/strong&gt;
+Types are checked at compile time, eliminating a huge class of runtime errors. Its standout feature is &lt;strong&gt;type inference&lt;/strong&gt;, where the compiler deduces types for you, so you rarely need to write them. This provides the safety of static types with the feel of a dynamic language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OCaml Programming: Correct &#43; Efficient &#43; Beautiful — OCaml Programming: Correct &#43; Efficient &#43; Beautiful</title>
+      <link>/braindump/posts/ocaml_programming_correct_efficient_beautiful_ocaml_programming_correct_efficient_beautiful/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/ocaml_programming_correct_efficient_beautiful_ocaml_programming_correct_efficient_beautiful/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt; book&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/cover.html&#34;&gt;https://cs3110.github.io/textbook/cover.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>utop</title>
+      <link>/braindump/posts/2025-08-18_04-26-44-utop/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-18_04-26-44-utop/</guid>
+      <description>&lt;p&gt;&lt;code&gt;utop&lt;/code&gt; is an enhanced interactive top-level (REPL) for &lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It greatly improves upon the default &lt;code&gt;ocaml&lt;/code&gt; REPL with features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion&lt;/li&gt;
+&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Type information for expressions&lt;/li&gt;
+&lt;li&gt;Command history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is the standard tool for interactive OCaml development, typically launched within a project via &lt;code&gt;dune utop&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

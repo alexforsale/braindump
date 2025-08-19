@@ -2,16 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/parser/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/parses/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/rust/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/writing_a_simple_parser_in_rust/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/ebook/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/functional_programming_what_ocaml_programming_chapter_1_video_2_youtube/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-18_03-40-23-ocaml/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/ocaml/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/ocaml_programming_correct_efficient_beautiful_ocaml_programming_correct_efficient_beautiful/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/programming/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/tutorial/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-18_04-26-44-utop/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/utop/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/youtube/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/archives/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-17_22-51-02-flakes/</loc>
@@ -33,9 +84,6 @@
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/nixos/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/tech/</loc>
@@ -65,9 +113,6 @@
     <loc>/braindump/tags/org/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/categories/reference/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/challenging_projects_every_programmer_should_try_austin_z_henley/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -90,12 +135,6 @@
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/daemon/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/programming/</loc>
-    <lastmod>2025-08-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/rust/</loc>
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</loc>

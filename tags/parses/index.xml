@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Parses on Braindump</title>
+    <link>/braindump/tags/parses/</link>
+    <description>Recent content in Parses on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/parses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide to Parsing in Rust | Depth-First</title>
+      <link>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</guid>
+      <description>&lt;p&gt;Parsing in Rust.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&#34;&gt;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

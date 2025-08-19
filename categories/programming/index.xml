@@ -6,8 +6,35 @@
     <description>Recent content in Programming on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ocaml</title>
+      <link>/braindump/posts/2025-08-18_03-40-23-ocaml/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-18_03-40-23-ocaml/</guid>
+      <description>&lt;p&gt;OCaml is a high-performance, functional-first programming language with a powerful static type system and type inference. It is pragmatic, blending functional, imperative, and object-oriented features.&lt;/p&gt;
+&lt;h4 id=&#34;core-pillars&#34;&gt;Core Pillars&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Strong, Static Type System:&lt;/strong&gt;
+Types are checked at compile time, eliminating a huge class of runtime errors. Its standout feature is &lt;strong&gt;type inference&lt;/strong&gt;, where the compiler deduces types for you, so you rarely need to write them. This provides the safety of static types with the feel of a dynamic language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>utop</title>
+      <link>/braindump/posts/2025-08-18_04-26-44-utop/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-08-18_04-26-44-utop/</guid>
+      <description>&lt;p&gt;&lt;code&gt;utop&lt;/code&gt; is an enhanced interactive top-level (REPL) for &lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It greatly improves upon the default &lt;code&gt;ocaml&lt;/code&gt; REPL with features like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion&lt;/li&gt;
+&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Type information for expressions&lt;/li&gt;
+&lt;li&gt;Command history&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is the standard tool for interactive OCaml development, typically launched within a project via &lt;code&gt;dune utop&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>rust daemonize</title>
       <link>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</link>

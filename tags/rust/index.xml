@@ -6,8 +6,30 @@
     <description>Recent content in Rust on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide to Parsing in Rust | Depth-First</title>
+      <link>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</guid>
+      <description>&lt;p&gt;Parsing in Rust.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&#34;&gt;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Writing a Simple Parser in Rust</title>
+      <link>/braindump/posts/writing_a_simple_parser_in_rust/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/writing_a_simple_parser_in_rust/</guid>
+      <description>&lt;p&gt;Simple parser in Rust.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://adriann.github.io/rust_parser.html&#34;&gt;https://adriann.github.io/rust_parser.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>rust daemonize</title>
       <link>/braindump/posts/2025-08-05_17-32-51-rust_daemonize/</link>

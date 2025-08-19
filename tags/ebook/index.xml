@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ebook on Braindump</title>
+    <link>/braindump/tags/ebook/</link>
+    <description>Recent content in Ebook on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/ebook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCaml Programming: Correct &#43; Efficient &#43; Beautiful — OCaml Programming: Correct &#43; Efficient &#43; Beautiful</title>
+      <link>/braindump/posts/ocaml_programming_correct_efficient_beautiful_ocaml_programming_correct_efficient_beautiful/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/ocaml_programming_correct_efficient_beautiful_ocaml_programming_correct_efficient_beautiful/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-18_03-40-23-ocaml/&#34;&gt;Ocaml&lt;/a&gt; book&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs3110.github.io/textbook/cover.html&#34;&gt;https://cs3110.github.io/textbook/cover.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
