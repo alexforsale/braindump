@@ -3,16 +3,5 @@
 :ROAM_REFS: https://www.orgroam.com/manual.html#org_002droam_002dprotocol
 :END:
 #+title: Org-roam User Manual
-#+author: Kristian Alexander P
-#+date: <2025-07-29 Tue>
-#+hugo_base_dir: ..
-#+hugo_section: posts
-#+hugo_categories: reference
-#+hugo_tags: org-mode emacs
 
-Testing org-roam-capture-ref-templates
-
-* Links
-- https://www.orgroam.com/manual.html#org_002droam_002dprotocol
-
-Official [[id:1d560727-4c96-4cee-81b5-a6fedb9fc756][org-roam]] manual.
+Testing [[id:c8940b5c-00a2-4968-a0f4-d960f39a72f3][org-roam]]-capture-ref-templates

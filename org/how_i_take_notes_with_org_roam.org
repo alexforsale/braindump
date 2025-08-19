@@ -3,19 +3,4 @@
 :ROAM_REFS: https://jethrokuan.github.io/org-roam-guide/
 :END:
 #+title: How I Take Notes with Org-roam
-#+author: Kristian Alexander P
-#+date: <2025-07-29 Tue>
-#+hugo_base_dir: ..
-#+hugo_section: posts
-#+hugo_categories: reference
-#+hugo_tags: org-roam org-mode emacs
-
-https://jethrokuan.github.io/org-roam-guide/
-
-* jethrokua Org-roam configuration
-
-* NEXT Implement this
-:LOGBOOK:
-- State "NEXT"       from              [2025-07-31 Thu 20:56]
-:END:
-Intricate [[id:1d560727-4c96-4cee-81b5-a6fedb9fc756][Org-roam]] configuration.
+* jethrokua [[id:c8940b5c-00a2-4968-a0f4-d960f39a72f3][org-roam]] configuration

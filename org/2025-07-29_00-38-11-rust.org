@@ -3,12 +3,6 @@
 :ROAM_ALIASES: Rust
 :END:
 #+title: rust
-#+author: Kristian Alexander P
-#+date: <2025-07-29 Tue>
-#+hugo_base_dir: ..
-#+hugo_section: posts
-#+hugo_categories: programming
-#+hugo_tags: rust
 
 
 Rust is a modern, general-purpose [[id:d24b29bb-844a-475b-be42-36f7575efd5a][programming]] language known for its emphasis on performance, memory safety, and concurrency. It is designed to build reliable and efficient software, particularly in areas where performance is critical, such as systems programming, game engines, databases, and operating systems.

@@ -1,17 +1,11 @@
 :PROPERTIES:
+:ID:       865dda44-cb17-459d-86f5-334983d299f8
 :ROAM_ALIASES: Emacs
-:ID:       e7f4a9c9-3d0d-40dc-94b9-349c59525166
 :END:
 #+title: emacs
-#+author: Kristian Alexander P
-#+date: <2024-02-18 Sun>
-#+hugo_base_dir: ..
-#+hugo_section: posts
-#+hugo_categories: tech
-#+hugo_tags: emacs
 
 Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.
 
-At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via [[id:abf66a3f-a12e-4424-a9cd-d68a364bdab7][Org-mode]]).
+At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via [[id:78ca4732-19ca-474b-8964-4f345cc4cf1f][org-mode]]).
 
 It is famously described as "a great operating system, lacking only a decent text editor."

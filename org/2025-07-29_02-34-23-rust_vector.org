@@ -2,13 +2,6 @@
 :ID:       fc792cf9-f834-4b0c-9377-92c4f87198b2
 :END:
 #+title: rust vector
-#+author: Kristian Alexander P
-#+date: <2025-07-29 Tue>
-#+hugo_base_dir: ..
-#+hugo_section: posts
-#+hugo_categories: programming
-#+hugo_tags: rust
-#+property: header-args :exports both
 
 * Creating vector in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][rust]].
 #+begin_src rust

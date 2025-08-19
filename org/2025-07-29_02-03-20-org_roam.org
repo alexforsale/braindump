@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c8940b5c-00a2-4968-a0f4-d960f39a72f3
+:END:
+#+title: org-roam
+Org-roam is a tool for networked thought. It reproduces some of Roam Research's 1 key features within Org-mode. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking fun and easy.
