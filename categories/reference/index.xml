@@ -57,11 +57,18 @@
       <link>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</guid>
-      <description>&lt;p&gt;Capture site into &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Capture site into [BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/alphapapa/org-protocol-capture-html&#34;&gt;https://github.com/alphapapa/org-protocol-capture-html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>How I Take Notes with Org-roam</title>
+      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
+      <description>&lt;h2 id=&#34;jethrokua-org-roam--2025-07-29-02-03-20-org-roam-dot-md--configuration&#34;&gt;jethrokua &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt; configuration&lt;/h2&gt;</description>
     </item>
     <item>
       <title>isync - ArchWiki</title>
@@ -96,6 +103,13 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Org-roam User Manual</title>
+      <link>/braindump/posts/org_roam_user_manual/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/org_roam_user_manual/</guid>
+      <description>&lt;p&gt;Testing &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt;-capture-ref-templates&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Challenging projects every programmer should try - Austin Z. Henley</title>
       <link>/braindump/posts/challenging_projects_every_programmer_should_try_austin_z_henley/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
@@ -110,7 +124,7 @@
       <link>/braindump/posts/emacs_consult_line_symbol_at_point/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/emacs_consult_line_symbol_at_point/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
+      <description>&lt;p&gt;[BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] + consult&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arialdomartini.github.io/consult-line-at-point&#34;&gt;https://arialdomartini.github.io/consult-line-at-point&lt;/a&gt;&lt;/li&gt;
@@ -152,28 +166,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://orgmode.org/manual/Template-expansion.html&#34;&gt;https://orgmode.org/manual/Template-expansion.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>How I Take Notes with Org-roam</title>
-      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
-&lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
-&lt;p&gt;Intricate &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Org-roam User Manual</title>
-      <link>/braindump/posts/org_roam_user_manual/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/org_roam_user_manual/</guid>
-      <description>&lt;p&gt;Testing org-roam-capture-ref-templates&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&#34;&gt;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Official &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt; manual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>

@@ -6,36 +6,51 @@
     <description>Recent content in Org-Mode on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Take Notes with Org-roam</title>
+      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
+      <description>&lt;h2 id=&#34;jethrokua-org-roam--2025-07-29-02-03-20-org-roam-dot-md--configuration&#34;&gt;jethrokua &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt; configuration&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>org-mode</title>
+      <link>/braindump/posts/2025-07-29_01-55-53-org_mode/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-55-53-org_mode/</guid>
+      <description>&lt;p&gt;a mode for document editing, formatting, and organizing within the free software text editor GNU &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; and its derivatives, designed for notes, planning, and authoring.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>org-roam</title>
+      <link>/braindump/posts/2025-07-29_02-03-20-org_roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_02-03-20-org_roam/</guid>
+      <description>&lt;p&gt;Org-roam is a tool for networked thought. It reproduces some of Roam Research&amp;rsquo;s 1 key features within Org-mode. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking fun and easy.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/how_i_take_notes_with_org_roam/&#34;&gt;How I Take Notes with Org-roam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/org_roam_user_manual/&#34;&gt;Org-roam User Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Org-roam User Manual</title>
+      <link>/braindump/posts/org_roam_user_manual/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/org_roam_user_manual/</guid>
+      <description>&lt;p&gt;Testing &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt;-capture-ref-templates&lt;/p&gt;</description>
+    </item>
     <item>
       <title>org-roam</title>
       <link>/braindump/posts/2025-07-31_20-53-56-org_roam/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/2025-07-31_20-53-56-org_roam/</guid>
       <description>A plain-text personal knowledge management system.</description>
-    </item>
-    <item>
-      <title>How I Take Notes with Org-roam</title>
-      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
-&lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
-&lt;p&gt;Intricate &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Org-roam User Manual</title>
-      <link>/braindump/posts/org_roam_user_manual/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/org_roam_user_manual/</guid>
-      <description>&lt;p&gt;Testing org-roam-capture-ref-templates&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&#34;&gt;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Official &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt; manual.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>

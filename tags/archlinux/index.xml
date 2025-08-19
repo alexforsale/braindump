@@ -6,15 +6,15 @@
     <description>Recent content in Archlinux on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archlinux</title>
       <link>/braindump/posts/20240218135841-archlinux/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/20240218135841-archlinux/</guid>
       <description>&lt;h2 id=&#34;emacs-installation&#34;&gt;Emacs installation&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt; export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;[[[BROKEN LINK: 865dda44-cb17-459d-86f5-334983d299f8[emacs]]] export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240225102848-rustup/&#34;&gt;rustup&lt;/a&gt;&lt;/li&gt;

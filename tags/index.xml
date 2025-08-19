@@ -93,6 +93,20 @@
       <description></description>
     </item>
     <item>
+      <title>Arch</title>
+      <link>/braindump/tags/arch/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/arch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archlinux</title>
+      <link>/braindump/tags/archlinux/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/archlinux/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Emacs</title>
       <link>/braindump/tags/emacs/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
@@ -100,10 +114,31 @@
       <description></description>
     </item>
     <item>
+      <title>Haskell</title>
+      <link>/braindump/tags/haskell/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/haskell/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Isync</title>
       <link>/braindump/tags/isync/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/isync/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Latex</title>
+      <link>/braindump/tags/latex/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/latex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>/braindump/tags/linux/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -128,17 +163,38 @@
       <description></description>
     </item>
     <item>
-      <title>Consult</title>
-      <link>/braindump/tags/consult/</link>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/consult/</guid>
+      <title>Org-Mode</title>
+      <link>/braindump/tags/org-mode/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/org-mode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Org-Roam</title>
+      <link>/braindump/tags/org-roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/org-roam/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
       <link>/braindump/tags/programming/</link>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>/braindump/tags/python/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consult</title>
+      <link>/braindump/tags/consult/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/consult/</guid>
       <description></description>
     </item>
     <item>
@@ -244,13 +300,6 @@
       <link>/braindump/tags/knowledge-management/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/knowledge-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>/braindump/tags/linux/</link>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/linux/</guid>
       <description></description>
     </item>
     <item>
@@ -380,20 +429,6 @@
       <description></description>
     </item>
     <item>
-      <title>Org-Mode</title>
-      <link>/braindump/tags/org-mode/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/org-mode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Org-Roam</title>
-      <link>/braindump/tags/org-roam/</link>
-      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/org-roam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Qemu</title>
       <link>/braindump/tags/qemu/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
@@ -426,20 +461,6 @@
       <link>/braindump/tags/window-manager/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/tags/window-manager/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Haskell</title>
-      <link>/braindump/tags/haskell/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/haskell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>/braindump/tags/python/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -587,27 +608,6 @@
       <link>/braindump/tags/github/</link>
       <pubDate>Wed, 21 Feb 2024 12:44:00 +0000</pubDate>
       <guid>/braindump/tags/github/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arch</title>
-      <link>/braindump/tags/arch/</link>
-      <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
-      <guid>/braindump/tags/arch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Archlinux</title>
-      <link>/braindump/tags/archlinux/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/archlinux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Latex</title>
-      <link>/braindump/tags/latex/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/braindump/tags/latex/</guid>
       <description></description>
     </item>
   </channel>

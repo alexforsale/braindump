@@ -124,11 +124,54 @@ Types are checked at compile time, eliminating a huge class of runtime errors. I
       <link>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</guid>
-      <description>&lt;p&gt;Capture site into &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Capture site into [BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/alphapapa/org-protocol-capture-html&#34;&gt;https://github.com/alphapapa/org-protocol-capture-html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Archlinux</title>
+      <link>/braindump/posts/20240218135841-archlinux/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218135841-archlinux/</guid>
+      <description>&lt;h2 id=&#34;emacs-installation&#34;&gt;Emacs installation&lt;/h2&gt;
+&lt;p&gt;[[[BROKEN LINK: 865dda44-cb17-459d-86f5-334983d299f8[emacs]]] export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240225102848-rustup/&#34;&gt;rustup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>emacs</title>
+      <link>/braindump/posts/20240218140133-emacs/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218140133-emacs/</guid>
+      <description>&lt;p&gt;Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.&lt;/p&gt;
+&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via &lt;a href=&#34;/braindump/posts/2025-07-29_01-55-53-org_mode/&#34;&gt;org-mode&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_01-55-53-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>haskell</title>
+      <link>/braindump/posts/2025-07-29_01-40-38-haskell/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-40-38-haskell/</guid>
+      <description>&lt;p&gt;Haskell is a general-purpose, statically typed, purely functional &lt;a href=&#34;/braindump/posts/2025-07-29_01-29-35-programming/&#34;&gt;programming&lt;/a&gt; language. It is known for its strong emphasis on functional programming principles and features like type inference and lazy evaluation.&lt;/p&gt;
+&lt;h2 id=&#34;purely-functional&#34;&gt;Purely Functional&lt;/h2&gt;
+&lt;p&gt;In Haskell, functions are treated as mathematical functions, meaning they always produce the same output for the same input and have no side effects (they do not modify external state).&lt;/p&gt;
+&lt;h2 id=&#34;statically-typed&#34;&gt;Statically Typed&lt;/h2&gt;
+&lt;p&gt;The type of variables and expressions is checked at compile time, catching many potential errors before runtime. Haskell also features strong type inference, allowing the compiler to deduce types without explicit declarations in many cases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I Take Notes with Org-roam</title>
+      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
+      <description>&lt;h2 id=&#34;jethrokua-org-roam--2025-07-29-02-03-20-org-roam-dot-md--configuration&#34;&gt;jethrokua &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt; configuration&lt;/h2&gt;</description>
     </item>
     <item>
       <title>isync - ArchWiki</title>
@@ -163,6 +206,141 @@ Types are checked at compile time, eliminating a huge class of runtime errors. I
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>Latex</title>
+      <link>/braindump/posts/20240218135651-latex/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/20240218135651-latex/</guid>
+      <description>&lt;p&gt;Latex in linux&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>org-mode</title>
+      <link>/braindump/posts/2025-07-29_01-55-53-org_mode/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-55-53-org_mode/</guid>
+      <description>&lt;p&gt;a mode for document editing, formatting, and organizing within the free software text editor GNU &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; and its derivatives, designed for notes, planning, and authoring.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>org-roam</title>
+      <link>/braindump/posts/2025-07-29_02-03-20-org_roam/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_02-03-20-org_roam/</guid>
+      <description>&lt;p&gt;Org-roam is a tool for networked thought. It reproduces some of Roam Research&amp;rsquo;s 1 key features within Org-mode. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking fun and easy.&lt;/p&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/how_i_take_notes_with_org_roam/&#34;&gt;How I Take Notes with Org-roam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/org_roam_user_manual/&#34;&gt;Org-roam User Manual&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Org-roam User Manual</title>
+      <link>/braindump/posts/org_roam_user_manual/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/org_roam_user_manual/</guid>
+      <description>&lt;p&gt;Testing &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt;-capture-ref-templates&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>programming</title>
+      <link>/braindump/posts/2025-07-29_01-29-35-programming/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-29-35-programming/</guid>
+      <description>&lt;p&gt;A programming language is a formal constructed language designed to communicate instructions to a machine, particularly a computer. Programming languages are used to create computer programs, which implement algorithms.
+Key characteristics and concepts of programming languages include:&lt;/p&gt;
+&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;
+&lt;p&gt;The set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in the language.&lt;/p&gt;
+&lt;h2 id=&#34;semantics&#34;&gt;Semantics&lt;/h2&gt;
+&lt;p&gt;The meaning of the instructions and how they are executed by the computer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>python</title>
+      <link>/braindump/posts/2025-07-29_01-37-50-python/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_01-37-50-python/</guid>
+      <description>&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. It is known for its clear and readable syntax, which emphasizes code readability and reduces the cost of program maintenance.&lt;/p&gt;
+&lt;p&gt;Key characteristics of Python:&lt;/p&gt;
+&lt;h2 id=&#34;interpreted&#34;&gt;Interpreted&lt;/h2&gt;
+&lt;p&gt;Python code is executed line by line by an interpreter, without the need for a separate compilation step. This speeds up the development process, as changes can be tested immediately.&lt;/p&gt;
+&lt;h2 id=&#34;high-level&#34;&gt;High-level&lt;/h2&gt;
+&lt;p&gt;Python abstracts away low-level details of computer hardware, allowing developers to focus on problem-solving rather than managing memory or system resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rust</title>
+      <link>/braindump/posts/2025-07-29_00-38-11-rust/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_00-38-11-rust/</guid>
+      <description>&lt;p&gt;Rust is a modern, general-purpose &lt;a href=&#34;/braindump/posts/2025-07-29_01-29-35-programming/&#34;&gt;programming&lt;/a&gt; language known for its emphasis on performance, memory safety, and concurrency. It is designed to build reliable and efficient software, particularly in areas where performance is critical, such as systems programming, game engines, databases, and operating systems.
+Key characteristics of Rust include:&lt;/p&gt;
+&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;
+&lt;p&gt;Rust offers speed and memory efficiency without requiring a runtime or garbage collector, making it suitable for low-level systems programming.&lt;/p&gt;
+&lt;h2 id=&#34;memory-safety&#34;&gt;Memory Safety&lt;/h2&gt;
+&lt;p&gt;Rust&amp;rsquo;s unique ownership model and borrow checker enforce memory safety at compile time, preventing common errors like null pointer dereferences and data races without the overhead of a garbage collector.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rust data types</title>
+      <link>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</guid>
+      <description>&lt;p&gt;Data types for&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;scalar-types&#34;&gt;Scalar Types&lt;/h2&gt;
+&lt;h3 id=&#34;integers&#34;&gt;Integers&lt;/h3&gt;
+&lt;h3 id=&#34;floating-points&#34;&gt;Floating Points&lt;/h3&gt;
+&lt;h3 id=&#34;boolean-type&#34;&gt;Boolean Type&lt;/h3&gt;
+&lt;h3 id=&#34;character-type&#34;&gt;Character Type&lt;/h3&gt;
+&lt;h2 id=&#34;compound-types&#34;&gt;Compound Types&lt;/h2&gt;
+&lt;h3 id=&#34;tuple-type&#34;&gt;Tuple Type&lt;/h3&gt;
+&lt;h3 id=&#34;array-type&#34;&gt;Array Type&lt;/h3&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_19-14-21-rust_variables/&#34;&gt;rust variables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>rust struct</title>
+      <link>/braindump/posts/2025-07-29_05-52-54-rust_struct/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_05-52-54-rust_struct/</guid>
+      <description>&lt;p&gt;Structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rust vector</title>
+      <link>/braindump/posts/2025-07-29_02-34-23-rust_vector/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-07-29_02-34-23-rust_vector/</guid>
+      <description>&lt;h2 id=&#34;creating-vector-in-rust--2025-07-29-00-38-11-rust-dot-md--dot&#34;&gt;Creating vector in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;mut&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Vec&lt;/span&gt;::&lt;span class=&#34;n&#34;&gt;new&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{:?}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[5, 6, 7, 8]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;reading-elements-of-vectors&#34;&gt;Reading Elements of Vectors&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;vec!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;: &lt;span class=&#34;kp&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;i32&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The third element is &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{third}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;: &lt;span class=&#34;nb&#34;&gt;Option&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;i32&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;get&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;match&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Some&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The third element is &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{third}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;None&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;There is no third element.&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{:?}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The third element is 3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The third element is 3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[1, 2, 3, 4, 5]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Option&amp;lt;T&amp;gt; is an enum that represents the presence or absence of a value. It is a fundamental type in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;&amp;rsquo;s approach to handling nullable values and potential errors, promoting explicit handling rather than implicit null pointers found in other languages.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Challenging projects every programmer should try - Austin Z. Henley</title>
       <link>/braindump/posts/challenging_projects_every_programmer_should_try_austin_z_henley/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
@@ -177,7 +355,7 @@ Types are checked at compile time, eliminating a huge class of runtime errors. I
       <link>/braindump/posts/emacs_consult_line_symbol_at_point/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/emacs_consult_line_symbol_at_point/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
+      <description>&lt;p&gt;[BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] + consult&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arialdomartini.github.io/consult-line-at-point&#34;&gt;https://arialdomartini.github.io/consult-line-at-point&lt;/a&gt;&lt;/li&gt;
@@ -921,125 +1099,6 @@ Types are checked at compile time, eliminating a huge class of runtime errors. I
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>haskell</title>
-      <link>/braindump/posts/2025-07-29_01-40-38-haskell/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_01-40-38-haskell/</guid>
-      <description>&lt;p&gt;Haskell is a general-purpose, statically typed, purely functional &lt;a href=&#34;/braindump/posts/2025-07-29_01-29-35-programming/&#34;&gt;programming&lt;/a&gt; language. It is known for its strong emphasis on functional programming principles and features like type inference and lazy evaluation.&lt;/p&gt;
-&lt;h2 id=&#34;purely-functional&#34;&gt;Purely Functional&lt;/h2&gt;
-&lt;p&gt;In Haskell, functions are treated as mathematical functions, meaning they always produce the same output for the same input and have no side effects (they do not modify external state).&lt;/p&gt;
-&lt;h2 id=&#34;statically-typed&#34;&gt;Statically Typed&lt;/h2&gt;
-&lt;p&gt;The type of variables and expressions is checked at compile time, catching many potential errors before runtime. Haskell also features strong type inference, allowing the compiler to deduce types without explicit declarations in many cases.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How I Take Notes with Org-roam</title>
-      <link>/braindump/posts/how_i_take_notes_with_org_roam/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/how_i_take_notes_with_org_roam/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jethrokuan.github.io/org-roam-guide/&#34;&gt;https://jethrokuan.github.io/org-roam-guide/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;jethrokua-org-roam-configuration&#34;&gt;jethrokua Org-roam configuration&lt;/h2&gt;
-&lt;h2 id=&#34;next-implement-this&#34;&gt;NEXT Implement this&lt;/h2&gt;
-&lt;p&gt;Intricate &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;Org-roam&lt;/a&gt; configuration.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Org-roam User Manual</title>
-      <link>/braindump/posts/org_roam_user_manual/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/org_roam_user_manual/</guid>
-      <description>&lt;p&gt;Testing org-roam-capture-ref-templates&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&#34;&gt;https://www.orgroam.com/manual.html#org_002droam_002dprotocol&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Official &lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt; manual.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>programming</title>
-      <link>/braindump/posts/2025-07-29_01-29-35-programming/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_01-29-35-programming/</guid>
-      <description>&lt;p&gt;A programming language is a formal constructed language designed to communicate instructions to a machine, particularly a computer. Programming languages are used to create computer programs, which implement algorithms.
-Key characteristics and concepts of programming languages include:&lt;/p&gt;
-&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;
-&lt;p&gt;The set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in the language.&lt;/p&gt;
-&lt;h2 id=&#34;semantics&#34;&gt;Semantics&lt;/h2&gt;
-&lt;p&gt;The meaning of the instructions and how they are executed by the computer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>python</title>
-      <link>/braindump/posts/2025-07-29_01-37-50-python/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_01-37-50-python/</guid>
-      <description>&lt;p&gt;Python is a high-level, interpreted, general-purpose programming language. It is known for its clear and readable syntax, which emphasizes code readability and reduces the cost of program maintenance.&lt;/p&gt;
-&lt;p&gt;Key characteristics of Python:&lt;/p&gt;
-&lt;h2 id=&#34;interpreted&#34;&gt;Interpreted&lt;/h2&gt;
-&lt;p&gt;Python code is executed line by line by an interpreter, without the need for a separate compilation step. This speeds up the development process, as changes can be tested immediately.&lt;/p&gt;
-&lt;h2 id=&#34;high-level&#34;&gt;High-level&lt;/h2&gt;
-&lt;p&gt;Python abstracts away low-level details of computer hardware, allowing developers to focus on problem-solving rather than managing memory or system resources.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>rust</title>
-      <link>/braindump/posts/2025-07-29_00-38-11-rust/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_00-38-11-rust/</guid>
-      <description>&lt;p&gt;Rust is a modern, general-purpose &lt;a href=&#34;/braindump/posts/2025-07-29_01-29-35-programming/&#34;&gt;programming&lt;/a&gt; language known for its emphasis on performance, memory safety, and concurrency. It is designed to build reliable and efficient software, particularly in areas where performance is critical, such as systems programming, game engines, databases, and operating systems.
-Key characteristics of Rust include:&lt;/p&gt;
-&lt;h2 id=&#34;performance&#34;&gt;Performance&lt;/h2&gt;
-&lt;p&gt;Rust offers speed and memory efficiency without requiring a runtime or garbage collector, making it suitable for low-level systems programming.&lt;/p&gt;
-&lt;h2 id=&#34;memory-safety&#34;&gt;Memory Safety&lt;/h2&gt;
-&lt;p&gt;Rust&amp;rsquo;s unique ownership model and borrow checker enforce memory safety at compile time, preventing common errors like null pointer dereferences and data races without the overhead of a garbage collector.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>rust data types</title>
-      <link>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_00-36-29-rust_data_types/</guid>
-      <description>&lt;p&gt;Data types for&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.
-Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells Rust what kind of data is being specified so it knows how to work with that data.&lt;/p&gt;
-&lt;p&gt;Keep in mind that Rust is a &lt;em&gt;statically typed&lt;/em&gt; language, which means that it must know the types of all variables at compile time.&lt;/p&gt;
-&lt;h2 id=&#34;scalar-types&#34;&gt;Scalar Types&lt;/h2&gt;
-&lt;p&gt;A &lt;em&gt;scalar type&lt;/em&gt; represents a single value. Rust has four primary scalar types: integers, floating-point numbers, Booleans, and characters. You may recognize these from other programming languages. Let’s jump into how they work in Rust.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>rust struct</title>
-      <link>/braindump/posts/2025-07-29_05-52-54-rust_struct/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_05-52-54-rust_struct/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; structs are similar to tuples, in that both hold multiple related values. Like tuples, the pieces of a struct can be different types. Unlike with tuples, in a struct you’ll name each piece of data so it’s clear what the values mean. Adding these names means that structs are more flexible than tuples: you don’t have to rely on the order of the data to specify or access the values of an instance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>rust vector</title>
-      <link>/braindump/posts/2025-07-29_02-34-23-rust_vector/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/2025-07-29_02-34-23-rust_vector/</guid>
-      <description>&lt;h2 id=&#34;creating-vector-in-rust--2025-07-29-00-38-11-rust-dot-md--dot&#34;&gt;Creating vector in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;rust&lt;/a&gt;.&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;mut&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Vec&lt;/span&gt;::&lt;span class=&#34;n&#34;&gt;new&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;();&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;8&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{:?}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[5, 6, 7, 8]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;reading-elements-of-vectors&#34;&gt;Reading Elements of Vectors&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;vec!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;: &lt;span class=&#34;kp&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;i32&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The third element is &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{third}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;let&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;: &lt;span class=&#34;nb&#34;&gt;Option&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;i32&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;get&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;match&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;Some&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;third&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;The third element is &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{third}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;None&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;There is no third element.&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;fm&#34;&gt;println!&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{:?}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;v&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The third element is 3
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;The third element is 3
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[1, 2, 3, 4, 5]
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Option&amp;lt;T&amp;gt; is an enum that represents the presence or absence of a value. It is a fundamental type in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;&amp;rsquo;s approach to handling nullable values and potential errors, promoting explicit handling rather than implicit null pointers found in other languages.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>[Blog] My Org&#43;Pandoc Workflow : r/emacs</title>
       <link>/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/</link>
       <pubDate>Sat, 06 Apr 2024 03:18:00 +0000</pubDate>
@@ -1215,7 +1274,6 @@ Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells 
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/&#34;&gt;alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/template_expansion_the_org_manual/&#34;&gt;Template expansion (The Org Manual)&lt;/a&gt;&lt;/li&gt;
@@ -1255,50 +1313,6 @@ Every value in Rust is of a certain &lt;em&gt;data type&lt;/em&gt;, which tells 
       <pubDate>Tue, 20 Feb 2024 16:01:00 +0000</pubDate>
       <guid>/braindump/posts/20240220160143-archlinux/</guid>
       <description>All about archlinux</description>
-    </item>
-    <item>
-      <title>Archlinux</title>
-      <link>/braindump/posts/20240218135841-archlinux/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/20240218135841-archlinux/</guid>
-      <description>&lt;h2 id=&#34;emacs-installation&#34;&gt;Emacs installation&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;emacs&lt;/a&gt; export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240225102848-rustup/&#34;&gt;rustup&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>emacs</title>
-      <link>/braindump/posts/20240218140133-emacs/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/20240218140133-emacs/</guid>
-      <description>&lt;p&gt;Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.&lt;/p&gt;
-&lt;p&gt;At its core, it is an interpreter for Emacs Lisp, a dialect of the Lisp programming language. This allows users to extend and modify the editor for nearly any task, from programming and writing to email, file management, and personal organization (via &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;Org-mode&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
-&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/&#34;&gt;alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Latex</title>
-      <link>/braindump/posts/20240218135651-latex/</link>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/braindump/posts/20240218135651-latex/</guid>
-      <description>&lt;p&gt;Latex in linux&lt;/p&gt;
-&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
