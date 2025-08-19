@@ -7,9 +7,9 @@
 #+description: 
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_categories: reference
+#+hugo_categories: programming
 #+property: header-args :exports both
-#+hugo_tags: 
+#+hugo_tags: programming haskell
 
 Haskell is a general-purpose, statically typed, purely functional [[id:d24b29bb-844a-475b-be42-36f7575efd5a][programming]] language. It is known for its strong emphasis on functional programming principles and features like type inference and lazy evaluation.
 * Purely Functional

@@ -7,9 +7,9 @@
 #+description: 
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_categories: reference
+#+hugo_categories: programming
 #+property: header-args :exports both
-#+hugo_tags: 
+#+hugo_tags: programming
 
 A programming language is a formal constructed language designed to communicate instructions to a machine, particularly a computer. Programming languages are used to create computer programs, which implement algorithms.
 Key characteristics and concepts of programming languages include:

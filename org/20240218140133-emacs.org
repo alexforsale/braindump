@@ -8,9 +8,9 @@
 #+description: 
 #+hugo_base_dir: ..
 #+hugo_section: posts
-#+hugo_categories: reference
+#+hugo_categories: tech
 #+property: header-args :exports both
-#+hugo_tags: 
+#+hugo_tags: emacs
 
 Emacs is a powerful, extensible, customizable, self-documenting, and free/libre text editor.
 

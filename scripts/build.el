@@ -13,6 +13,7 @@
 (setq org-roam-db-location (expand-file-name "org-roam.db" default-directory))
 (org-roam-db-sync)
 
+(setq org-export-with-broken-links 'mark)
 (setq org-confirm-babel-evaluate nil)
 
 (defun collect-backlinks-string (backend)
