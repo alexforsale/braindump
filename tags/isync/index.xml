@@ -9,6 +9,27 @@
     <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/isync/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>isync</title>
+      <link>/braindump/posts/isync_archwiki/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/isync_archwiki/</guid>
+      <description>&lt;p&gt;&lt;code&gt;isync&lt;/code&gt; (more commonly known by its command name, &lt;code&gt;mbsync&lt;/code&gt;) is a command-line utility for synchronizing email mailboxes.&lt;/p&gt;
+&lt;p&gt;Its primary function is to efficiently pull email from a remote IMAP server and store it locally in the Maildir format.&lt;/p&gt;
+&lt;p&gt;It forms a common workflow with &lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;Notmuch&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;mbsync&lt;/code&gt;&lt;/strong&gt; downloads the mail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;notmuch new&lt;/code&gt;&lt;/strong&gt; indexes the newly downloaded mail.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiki.archlinux.org/title/Isync&#34;&gt;https://wiki.archlinux.org/title/Isync&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/&#34;&gt;kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>kzar/davemail: My email configuration, using mbsync, notmuch, msmtp, msmtpq, pgp, emacs and gnus-alias</title>
       <link>/braindump/posts/kzar_davemail_my_email_configuration_using_mbsync_notmuch_msmtp_msmtpq_pgp_emacs_and_gnus_alias/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>

@@ -49,12 +49,12 @@
 &lt;p&gt;This reproducibility also includes per-user settings via &lt;a href=&#34;/braindump/posts/2025-08-17_22-49-23-home_manager/&#34;&gt;home-manager&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Archlinux</title>
+      <title>Archlinux Emacs installation</title>
       <link>/braindump/posts/20240218135841-archlinux/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/20240218135841-archlinux/</guid>
       <description>&lt;h2 id=&#34;emacs-installation&#34;&gt;Emacs installation&lt;/h2&gt;
-&lt;p&gt;[[[BROKEN LINK: 865dda44-cb17-459d-86f5-334983d299f8[emacs]]] export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; export to pdf need package &lt;code&gt;texlive-latexextra&lt;/code&gt;, and &lt;code&gt;texlive-plaingeneric&lt;/code&gt; &lt;a href=&#34;/braindump/posts/20240218135651-latex/&#34;&gt;Latex&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240225102848-rustup/&#34;&gt;rustup&lt;/a&gt;&lt;/li&gt;
@@ -70,7 +70,17 @@
 &lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux Emacs installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_01-55-53-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/&#34;&gt;alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -81,7 +91,7 @@
       <description>&lt;p&gt;Latex in linux&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux Emacs installation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -582,7 +592,7 @@
       <link>/braindump/posts/20240221124747-org_mode/</link>
       <pubDate>Wed, 21 Feb 2024 12:47:00 +0000</pubDate>
       <guid>/braindump/posts/20240221124747-org_mode/</guid>
-      <description>&lt;p&gt;a mode for document editing, formatting, and organizing within the free software text editor GNU Emacs  and its derivatives, designed for notes, planning, and authoring.&lt;/p&gt;
+      <description>&lt;p&gt;a mode for document editing, formatting, and organizing within the free software text editor GNU &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt;  and its derivatives, designed for notes, planning, and authoring.&lt;/p&gt;
 &lt;h2 id=&#34;using-property-in-headline&#34;&gt;Using Property in headline&lt;/h2&gt;
 &lt;p&gt;Org-agenda will automatically show the &lt;code&gt;CATEGORY&lt;/code&gt; property if it is set.&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;

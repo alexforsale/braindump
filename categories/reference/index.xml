@@ -13,7 +13,7 @@
       <link>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</guid>
-      <description>&lt;p&gt;Parsing in Rust.&lt;/p&gt;
+      <description>&lt;p&gt;Parsing in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&#34;&gt;https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/&lt;/a&gt;&lt;/li&gt;
@@ -24,7 +24,7 @@
       <link>/braindump/posts/writing_a_simple_parser_in_rust/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/writing_a_simple_parser_in_rust/</guid>
-      <description>&lt;p&gt;Simple parser in Rust.&lt;/p&gt;
+      <description>&lt;p&gt;Simple parser in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://adriann.github.io/rust_parser.html&#34;&gt;https://adriann.github.io/rust_parser.html&lt;/a&gt;&lt;/li&gt;
@@ -57,7 +57,7 @@
       <link>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</guid>
-      <description>&lt;p&gt;Capture site into [BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Capture site into &lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; &lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/alphapapa/org-protocol-capture-html&#34;&gt;https://github.com/alphapapa/org-protocol-capture-html&lt;/a&gt;&lt;/li&gt;
@@ -71,7 +71,7 @@
       <description>&lt;h2 id=&#34;jethrokua-org-roam--2025-07-29-02-03-20-org-roam-dot-md--configuration&#34;&gt;jethrokua &lt;a href=&#34;/braindump/posts/2025-07-29_02-03-20-org_roam/&#34;&gt;org-roam&lt;/a&gt; configuration&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>isync - ArchWiki</title>
+      <title>isync</title>
       <link>/braindump/posts/isync_archwiki/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/isync_archwiki/</guid>
@@ -124,7 +124,7 @@
       <link>/braindump/posts/emacs_consult_line_symbol_at_point/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/braindump/posts/emacs_consult_line_symbol_at_point/</guid>
-      <description>&lt;p&gt;[BROKEN LINK: e7f4a9c9-3d0d-40dc-94b9-349c59525166] + consult&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/20240218140133-emacs/&#34;&gt;Emacs&lt;/a&gt; + consult&lt;/p&gt;
 &lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arialdomartini.github.io/consult-line-at-point&#34;&gt;https://arialdomartini.github.io/consult-line-at-point&lt;/a&gt;&lt;/li&gt;
