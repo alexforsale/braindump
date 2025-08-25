@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20dd2c06-8bd8-414d-8f5e-8a14710ff042
+:ROAM_REFS: https://github.com/ratatui/templates/tree/main/component
+:END:
+#+title: templates/component at main · ratatui/templates
+#+author: Kristian Alexander P
+#+date: <2025-08-22 Fri>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: rust framework ratatui programming
+
+[[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]] Ratatui components style example.
+
+* Links
+- [[https://github.com/ratatui/templates/tree/main/component]]

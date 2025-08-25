@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a231504d-7fd0-4ae4-87ae-e180840114ca
+:ROAM_REFS: https://dash.domain.digitalplat.org/panel/main?page=/auth/user/edit
+:END:
+#+title: DigitalPlat Domain Dashboard
+#+author: Kristian Alexander P
+#+date: <2025-08-25 Mon>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
+Digital Domain Dashboard 
+https://github.com/DigitalPlatDev/FreeDomain
+* Links
+- [[https://dash.domain.digitalplat.org/]]

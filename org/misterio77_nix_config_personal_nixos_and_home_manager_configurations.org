@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1d030067-abaf-43a3-bdd8-65691d1c0188
+:ROAM_REFS: https://github.com/Misterio77/nix-config
+:END:
+#+title: Misterio77/nix-config: Personal nixos and home-manager configurations.
+#+author: Kristian Alexander P
+#+date: <2025-08-19 Tue>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: nix nixos home-manager flake
+
+Useful starting point for [[id:893346bd-a017-4003-a344-97fe653b229c][nixos]]
+* Links
+- [[https://github.com/Misterio77/nix-config]]

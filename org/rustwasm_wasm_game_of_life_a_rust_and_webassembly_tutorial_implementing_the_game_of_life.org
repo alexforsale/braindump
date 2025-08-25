@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a2c7a31f-fd69-44bc-b2ff-99aa8974eed1
+:ROAM_REFS: https://github.com/rustwasm/wasm_game_of_life
+:END:
+#+title: rustwasm/wasm_game_of_life: A Rust and WebAssembly tutorial implementing the Game of Life
+#+author: Kristian Alexander P
+#+date: <2025-08-22 Fri>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: rust game-of-life programming
+
+Conway's Game of life in [[id:b0c3a713-8b46-4f98-857d-7145ced06d68][Rust]].
+* Links
+- [[https://github.com/rustwasm/wasm_game_of_life]]

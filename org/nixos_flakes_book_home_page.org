@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1e7bc002-c27c-4758-b153-fffd5ca5821a
+:ROAM_REFS: https://nixos-and-flakes.thiscute.world/
+:END:
+#+title: NixOS & Flakes Book | Home Page
+#+author: Kristian Alexander P
+#+date: <2025-08-20 Wed>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: nixos flakes config
+
+[[id:893346bd-a017-4003-a344-97fe653b229c][NixOS]] flake introduction
+
+* Links
+- [[https://nixos-and-flakes.thiscute.world/]]

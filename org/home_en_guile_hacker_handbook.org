@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       be5fe842-2cb2-4641-9e81-6e119d5ddd53
+:ROAM_REFS: https://jeko.frama.io/
+:END:
+#+title: Home-en — Guile Hacker Handbook
+#+author: Kristian Alexander P
+#+date: <2025-08-24 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: guile scheme handbook
+
+Handbook for guile scheme
+* Links
+- [[https://jeko.frama.io/]]
