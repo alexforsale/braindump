@@ -6,8 +6,19 @@
     <description>Recent content in Nix on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/nix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misterio77/nix-config: Personal nixos and home-manager configurations.</title>
+      <link>/braindump/posts/misterio77_nix_config_personal_nixos_and_home_manager_configurations/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/misterio77_nix_config_personal_nixos_and_home_manager_configurations/</guid>
+      <description>&lt;p&gt;Useful starting point for &lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;nixos&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Misterio77/nix-config&#34;&gt;https://github.com/Misterio77/nix-config&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>flakes</title>
       <link>/braindump/posts/2025-08-17_22-51-02-flakes/</link>

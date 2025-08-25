@@ -2,31 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/braindump/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/digitalplat_domain_dashboard/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/guile/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/handbook/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/home_en_guile_hacker_handbook/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/scheme/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/framework/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/game-of-life/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/programming/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/ratatui/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/rust/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/rustwasm_wasm_game_of_life_a_rust_and_webassembly_tutorial_implementing_the_game_of_life/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/templates_component_at_main_ratatui_templates/</loc>
+    <lastmod>2025-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/config/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/flakes/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/nixos/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/nixos_flakes_book_home_page/</loc>
+    <lastmod>2025-08-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/</loc>
+    <loc>/braindump/tags/flake/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/categories/</loc>
+    <loc>/braindump/tags/home-manager/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/misterio77_nix_config_personal_nixos_and_home_manager_configurations/</loc>
+    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/nix/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/parser/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/parses/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/posts/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/reference/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/rust/</loc>
-    <lastmod>2025-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/writing_a_simple_parser_in_rust/</loc>
@@ -68,22 +125,10 @@
     <loc>/braindump/posts/2025-08-17_22-51-02-flakes/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/flakes/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/2025-08-17_22-49-23-home_manager/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/tags/home-manager/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/nix/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/posts/2025-08-17_22-46-17-nixos/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/nixos/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/tech/</loc>
@@ -159,9 +204,6 @@
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-07-29_01-29-35-programming/</loc>
-    <lastmod>2025-08-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/programming/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-07-29_01-37-50-python/</loc>

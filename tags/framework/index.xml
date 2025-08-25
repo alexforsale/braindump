@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Framework on Braindump</title>
+    <link>/braindump/tags/framework/</link>
+    <description>Recent content in Framework on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>templates/component at main · ratatui/templates</title>
+      <link>/braindump/posts/templates_component_at_main_ratatui_templates/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/templates_component_at_main_ratatui_templates/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; Ratatui components style example.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ratatui/templates/tree/main/component&#34;&gt;https://github.com/ratatui/templates/tree/main/component&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

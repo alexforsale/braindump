@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game-of-Life on Braindump</title>
+    <link>/braindump/tags/game-of-life/</link>
+    <description>Recent content in Game-of-Life on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/game-of-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rustwasm/wasm_game_of_life: A Rust and WebAssembly tutorial implementing the Game of Life</title>
+      <link>/braindump/posts/rustwasm_wasm_game_of_life_a_rust_and_webassembly_tutorial_implementing_the_game_of_life/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/rustwasm_wasm_game_of_life_a_rust_and_webassembly_tutorial_implementing_the_game_of_life/</guid>
+      <description>&lt;p&gt;Conway&amp;rsquo;s Game of life in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rustwasm/wasm_game_of_life&#34;&gt;https://github.com/rustwasm/wasm_game_of_life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

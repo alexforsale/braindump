@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Config on Braindump</title>
+    <link>/braindump/tags/config/</link>
+    <description>Recent content in Config on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NixOS &amp; Flakes Book | Home Page</title>
+      <link>/braindump/posts/nixos_flakes_book_home_page/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/nixos_flakes_book_home_page/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;NixOS&lt;/a&gt; flake introduction&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos-and-flakes.thiscute.world/&#34;&gt;https://nixos-and-flakes.thiscute.world/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

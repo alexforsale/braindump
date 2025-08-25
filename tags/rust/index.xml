@@ -6,8 +6,30 @@
     <description>Recent content in Rust on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rustwasm/wasm_game_of_life: A Rust and WebAssembly tutorial implementing the Game of Life</title>
+      <link>/braindump/posts/rustwasm_wasm_game_of_life_a_rust_and_webassembly_tutorial_implementing_the_game_of_life/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/rustwasm_wasm_game_of_life_a_rust_and_webassembly_tutorial_implementing_the_game_of_life/</guid>
+      <description>&lt;p&gt;Conway&amp;rsquo;s Game of life in &lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/rustwasm/wasm_game_of_life&#34;&gt;https://github.com/rustwasm/wasm_game_of_life&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>templates/component at main · ratatui/templates</title>
+      <link>/braindump/posts/templates_component_at_main_ratatui_templates/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/templates_component_at_main_ratatui_templates/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_00-38-11-rust/&#34;&gt;Rust&lt;/a&gt; Ratatui components style example.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ratatui/templates/tree/main/component&#34;&gt;https://github.com/ratatui/templates/tree/main/component&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>A Beginner&#39;s Guide to Parsing in Rust | Depth-First</title>
       <link>/braindump/posts/a_beginner_s_guide_to_parsing_in_rust_depth_first/</link>

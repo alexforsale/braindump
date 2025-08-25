@@ -6,8 +6,19 @@
     <description>Recent content in Flakes on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/flakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NixOS &amp; Flakes Book | Home Page</title>
+      <link>/braindump/posts/nixos_flakes_book_home_page/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/nixos_flakes_book_home_page/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;/braindump/posts/2025-08-17_22-46-17-nixos/&#34;&gt;NixOS&lt;/a&gt; flake introduction&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://nixos-and-flakes.thiscute.world/&#34;&gt;https://nixos-and-flakes.thiscute.world/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>flakes</title>
       <link>/braindump/posts/2025-08-17_22-51-02-flakes/</link>
