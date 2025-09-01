@@ -29,16 +29,16 @@
 &lt;p&gt;It is famously described as &amp;ldquo;a great operating system, lacking only a decent text editor.&amp;rdquo;&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240218135841-archlinux/&#34;&gt;Archlinux Emacs installation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_01-55-53-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/&#34;&gt;alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-29_01-55-53-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223233042-systemd/&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240223231317-notmuch/&#34;&gt;notmuch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/emacs_consult_line_symbol_at_point/&#34;&gt;Emacs: consult-line-symbol-at-point&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124747-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
@@ -68,8 +68,8 @@
       <description>&lt;p&gt;Org-roam is a tool for networked thought. It reproduces some of Roam Research&amp;rsquo;s 1 key features within Org-mode. Org-roam allows for effortless non-hierarchical note-taking: with Org-roam, notes flow naturally, making note-taking fun and easy.&lt;/p&gt;
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/how_i_take_notes_with_org_roam/&#34;&gt;How I Take Notes with Org-roam&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/org_roam_user_manual/&#34;&gt;Org-roam User Manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/how_i_take_notes_with_org_roam/&#34;&gt;How I Take Notes with Org-roam&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
@@ -122,13 +122,13 @@
 &lt;h2 id=&#34;backlinks&#34;&gt;Backlinks&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/20240406031807-blog_my_org_pandoc_workflow_r_emacs/&#34;&gt;[Blog] My Org+Pandoc Workflow : r/emacs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/2025-07-31_20-53-56-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240319220055-org_agenda/&#34;&gt;org-agenda&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/&#34;&gt;alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;/braindump/posts/template_expansion_the_org_manual/&#34;&gt;Template expansion (The Org Manual)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240327210756-noweb/&#34;&gt;noweb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/braindump/posts/20240221124553-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

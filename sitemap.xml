@@ -3,18 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/braindump/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/digitalplat_domain_dashboard/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <loc>/braindump/tags/debian/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/netplan/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-08-28_22-47-35-netplan_route_metric/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/network/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/route-metric/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/tech/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/ubuntu/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/anime/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/streaming/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/watch_anime_online_free_anime_streaming_online_on_hianime_to_anime_website/</loc>
+    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/digitalplat_domain_dashboard/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/guile/</loc>
@@ -27,9 +60,6 @@
     <lastmod>2025-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/scheme/</loc>
-    <lastmod>2025-08-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
     <lastmod>2025-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/framework/</loc>
@@ -129,9 +159,6 @@
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/2025-08-17_22-46-17-nixos/</loc>
-    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/tech/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/posts/alphapapa_org_protocol_capture_html_capture_html_from_the_browser_selection_into_emacs_as_org_mode_content/</loc>

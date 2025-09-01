@@ -6,8 +6,57 @@
     <description>Recent content in Tags on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian</title>
+      <link>/braindump/tags/debian/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netplan</title>
+      <link>/braindump/tags/netplan/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/netplan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>/braindump/tags/network/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Route-Metric</title>
+      <link>/braindump/tags/route-metric/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/route-metric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>/braindump/tags/ubuntu/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anime</title>
+      <link>/braindump/tags/anime/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/anime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streaming</title>
+      <link>/braindump/tags/streaming/</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/tags/streaming/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Guile</title>
       <link>/braindump/tags/guile/</link>
