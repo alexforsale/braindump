@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f423ea66-bd60-4419-83a8-80be0b1bca65
+:ROAM_REFS: https://hianime.to/
+:END:
+#+title: Watch Anime Online, Free Anime Streaming Online on HiAnime.to Anime Website
+#+author: Kristian Alexander P
+#+date: <2025-08-26 Tue>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: anime streaming 
+anime link
+* Links
+- [[https://hianime.to/]]

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       a13ae643-e6de-466f-93e6-280e4f3ab4e7
+:END:
+#+title: netplan route metric
+#+author: Kristian Alexander P
+#+date: <2025-08-28 Thu>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: network debian ubuntu netplan route-metric
+
+#+begin_src yaml
+  network:
+        version: 2
+        ethernets:
+          enred:
+            dhcp4: yes
+            dhcp4-overrides:
+              route-metric: 100 # This route will be preferred
+          engreen:
+            dhcp4: yes
+            dhcp4-overrides:
+              route-metric: 200 # This route will be less preferred
+#+end_src
+
