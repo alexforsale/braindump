@@ -3,10 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/braindump/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/categories/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-09-21_14-25-58-guix/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/guix/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/2025-09-21_14-25-27-nonguix/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/nonguix/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/reference/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/posts/releases_nonguix_nonguix_gitlab/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/tags/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/braindump/categories/tech/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/debian/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
@@ -20,25 +47,13 @@
     <loc>/braindump/tags/network/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/braindump/posts/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/braindump/tags/route-metric/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/tags/</loc>
-    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/tech/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/ubuntu/</loc>
     <lastmod>2025-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/anime/</loc>
-    <lastmod>2025-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/braindump/categories/reference/</loc>
     <lastmod>2025-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/braindump/tags/streaming/</loc>

@@ -6,8 +6,33 @@
     <description>Recent content in Posts on Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/braindump/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guix</title>
+      <link>/braindump/posts/2025-09-21_14-25-58-guix/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-09-21_14-25-58-guix/</guid>
+      <description>&lt;p&gt;GNU Guix is a package manager for &lt;a href=&#34;/braindump/posts/20240222232402-linux/&#34;&gt;GNU/Linux&lt;/a&gt; systems. It is designed to give users more control over their general-purpose and specialized computing environments, and make these easier to reproduce over time and deploy to one or many devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>nonguix</title>
+      <link>/braindump/posts/2025-09-21_14-25-27-nonguix/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-09-21_14-25-27-nonguix/</guid>
+      <description>&lt;p&gt;&lt;Guix&gt; channel for packages that can&amp;rsquo;t be included upstream. Please do NOT promote or refer to this repository on any official Guix communication channels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Releases · Nonguix / nonguix · GitLab</title>
+      <link>/braindump/posts/releases_nonguix_nonguix_gitlab/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/releases_nonguix_nonguix_gitlab/</guid>
+      <description>&lt;p&gt;&lt;nonguix&gt; installation image&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gitlab.com/nonguix/nonguix/-/releases&#34;&gt;https://gitlab.com/nonguix/nonguix/-/releases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>netplan route metric</title>
       <link>/braindump/posts/2025-08-28_22-47-35-netplan_route_metric/</link>

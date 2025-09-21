@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guix on Braindump</title>
+    <link>/braindump/tags/guix/</link>
+    <description>Recent content in Guix on Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/braindump/tags/guix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guix</title>
+      <link>/braindump/posts/2025-09-21_14-25-58-guix/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-09-21_14-25-58-guix/</guid>
+      <description>&lt;p&gt;GNU Guix is a package manager for &lt;a href=&#34;/braindump/posts/20240222232402-linux/&#34;&gt;GNU/Linux&lt;/a&gt; systems. It is designed to give users more control over their general-purpose and specialized computing environments, and make these easier to reproduce over time and deploy to one or many devices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>nonguix</title>
+      <link>/braindump/posts/2025-09-21_14-25-27-nonguix/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/braindump/posts/2025-09-21_14-25-27-nonguix/</guid>
+      <description>&lt;p&gt;&lt;Guix&gt; channel for packages that can&amp;rsquo;t be included upstream. Please do NOT promote or refer to this repository on any official Guix communication channels.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
