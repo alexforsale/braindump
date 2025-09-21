@@ -80,6 +80,12 @@ params:
       url: "https://www.reddit.com/user/alexforsale"
     - name: "telegram"
       url: "https://t.me/alexforsale"
+    - name: "mastodon"
+      url: "https://mastodon.social/@alexforsale"
+    - name: "keybase"
+      url: "https://keybase.io/alexforsale"
+    - name: "lastfm"
+      url: "https://www.last.fm/user/alexforsale"
 
 menu:
   main:
