@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       cf1fed91-e971-48b9-a8a6-55adbb41a6d7
+:END:
+#+title: nonguix
+#+author: Kristian Alexander P
+#+date: <2025-09-21 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: guix nonguix
+
+roam:Guix channel for packages that can't be included upstream. Please do NOT promote or refer to this repository on any official Guix communication channels.
+

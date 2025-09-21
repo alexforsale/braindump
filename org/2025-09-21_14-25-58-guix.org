@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       3fe59bfc-c734-48c1-9733-148023e6edf8
+:END:
+#+title: Guix
+#+author: Kristian Alexander P
+#+date: <2025-09-21 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: tech
+#+property: header-args :exports both
+#+hugo_tags: guix
+
+GNU Guix is a package manager for [[id:65db4594-b7ec-463b-9e97-64d080e44c12][GNU/Linux]] systems. It is designed to give users more control over their general-purpose and specialized computing environments, and make these easier to reproduce over time and deploy to one or many devices.

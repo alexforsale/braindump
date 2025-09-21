@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       46ee2046-63dc-4c7f-afcf-83310cfe8c3a
+:ROAM_REFS: https://gitlab.com/nonguix/nonguix/-/releases
+:END:
+#+title: Releases · Nonguix / nonguix · GitLab
+#+author: Kristian Alexander P
+#+date: <2025-09-21 Sun>
+#+description: 
+#+hugo_base_dir: ..
+#+hugo_section: posts
+#+hugo_categories: reference
+#+property: header-args :exports both
+#+hugo_tags: 
+
+roam:nonguix installation image
+
+* Links
+- [[https://gitlab.com/nonguix/nonguix/-/releases]]
